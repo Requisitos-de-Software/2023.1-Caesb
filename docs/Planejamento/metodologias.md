@@ -6,7 +6,7 @@
 
 Para aprimorar a agilidade da equipe, e realizar um trabalho com base em uma abordagem sistemática, disciplinada, e quantificável, é necessária a definição de metodologias que auxiliem o desenvolvimento do grupo como todo. Dessa forma, o grupo utilizou-se das seguintes metodologias:
 
-## DevOps:
+## DevOps
 
 O DevOps, apesar de no escopo geral ser  uma abordagem de colaboração e integração entre equipes de desenvolvimento de software, também é considerado uma metodologia. Dessa forma, no contexto do grupo, utilizaremos  as seguintes práticas do DevOps
 
@@ -16,7 +16,7 @@ O DevOps, apesar de no escopo geral ser  uma abordagem de colaboração e integr
 
 - Gestão de problemas: Também conhecido como "issue tracking", esse processo é realizado para permitir que os integrantes do grupo registrem coisas e solicitem funcionalidades e questões relacionadas ao produto. Sendo assim, o grupo utilizou o github para acompanhar e priorizar as demandas do projeto.
 
-## Scrum:
+## Scrum
 
 O Scrum é uma metodologia ágil que foi utilizada pelo grupo por fornecer uma estrutura para gerenciamento de projetos que permite a entrega de produtos com mais qualidade através de eficiência e eficácia. Portanto essa metodologia foi utilizada através dos seguintes aspectos:
 
