@@ -21,23 +21,18 @@ Rich picture é uma modelagem cuja notação permite analisar problemas e expres
 
 O Github é uma aplicação lançada em 2008 que tem por objetivo possibilitar a seus usuários a hospedagem de seus projetos e o controle de suas versões por meio da ferramenta Git. Além disso, a possibilidade de várias pessoas poderem trabalhar em um projeto ao mesmo tempo tornou a plataforma extremamente atrativa para os desenvolvedores, chegando a ter mais de 5 milhões de repositórios hospedados.
 
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpicturecarla.png">
-    <p align="center"> GitHub Rich Picture | Autor: Carla de Araujo </p>
-    <p>PDF: <a href="requisitos-project\docs\assets\rastreabilidade\rich picture docs\Carla.pdf">GitHub</a></p>
-</div>
+![](../../assets/rastreabilidade/individual/richpicturecarla.png)
 
-
+GitHub Rich Picture | Autor: Carla de Araujo | [PDF]()
 
 
 **2. Serasa**
 O aplicativo do Serasa é um aplicativo desenvolvido pelo governo, e foi criado para permitir que o usuário consulte o CPF para analisar dividas, protestos, consulta CNPJ, além de outras informações. além disso ele permite que seja negociado dívidas no nome da pessoa ou da empresa.
 
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpictureguilherme.png">
-    <p align="center"> GitHub Rich Picture | Autor: Guilherme Kishimoto </p>
-    <p>PDF: <a href="">GitHub</a></p>
-</div>
+![](../../assets/rastreabilidade/individual/richpictureguilherme.png)
+
+GitHub Rich Picture | Autor: Guilherme Kishimoto | [PDF]()
+
 
 **3. iLovePDF**
 O aplicativo iLovePDF serve para que se possa realizar o gerenciamento de documentos através do celular, mais precisamente trabalhando com PDF, apresentando funções como:
@@ -48,31 +43,24 @@ O aplicativo iLovePDF serve para que se possa realizar o gerenciamento de docume
 
 Sendo limitado seu uso, oferecendo
 
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpicturepedro.png">
-    <p align="center"> GitHub Rich Picture | Autor: Pedro Barbosa </p>
-    <p>PDF: <a href="">GitHub</a></p>
-</div>
+![](../../assets/rastreabilidade/individual/richpicturepedro.png)
+
+GitHub Rich Picture | Autor: Pedro Barbosa | [PDF]()
 
 **4. LibreOffice Reader**
 O aplicativo do LibreOffice  é um software desenvolvido e conduzido pela comunidade, e é um projeto da organização sem fins lucrativos "The Document Foundation". Suas funções incluem abrir, copiar, encaminhar, editar, buscar e salvar documentos, e basicamente funciona como uma suite de escritório
 
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpicturepaulo.png">
-    <p align="center"> GitHub Rich Picture | Autor: Paulo Victor </p>
-    <p>PDF: <a href="">GitHub</a></p>
-</div>
+![](../../assets/rastreabilidade/individual/richpicturepaulo.png)
 
+GitHub Rich Picture | Autor: Paulo Victor | [PDF]()
 
 
 **5. Acolha-se**
 O aplicativo Acolha-se  é um software desenvolvido e conduzido por voluntários e sem fins lucrativos. Basicamente você cria um plano de segurança, onde é registrado informações pessoais importantes para o enfrentamento de crises e ideações. Além de disponibilizar o contato de serviços de emergência como CVV, SAMU e bombeiros.
 
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpictureraquel.png">
-    <p align="center"> GitHub Rich Picture | Autor: Raquel Eucaria </p>
-    <p>PDF: <a href="">GitHub</a></p>
-</div>
+![](../../assets/rastreabilidade/individual/richpictureraquel.png)
+
+GitHub Rich Picture | Autor: Raquel Eucaria | [PDF]()
 
 **6. CAESB Autoatendimento**
 O aplivativo da CAESB (Companhia de Saneamento Ambiental do Distritu Federal) foi criado com o objetivo de se ter praticidade, permitindo que o usuário tenha acesso a diversos recursos, como:
@@ -88,11 +76,10 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 * Informar Falta de Água.
 * Alterar Titularidade.
 * Entre outros.
-<div align="center">
-    <img width="600px" src="../../assets/rastreabilidade/individual/richpicturedaniel.png">
-    <p align="center"> GitHub Rich Picture | Autor: Daniel dos Santos </p>
-    <p>PDF: <a href="">GitHub</a></p>
-</div>
+
+![](../../assets/rastreabilidade/individual/richpicturedaniel.png)
+
+GitHub Rich Picture | Autor: Daniel dos Santos | [PDF]()
 
 
 ## Referências
@@ -104,4 +91,4 @@ Andrew Monk and Steve Howard. 1998. Methods & tools: the rich picture: a tool fo
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | - |
+| 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | Todos |

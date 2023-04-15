@@ -57,14 +57,16 @@ nav:
     - Metodologia: Planejamento/metodologias.md
     - Ferramentas: Planejamento/ferramentas.md
     - Cronograma: Planejamento/cronograma.md
+  - Rastreabilidade:
+    - Aplicativos analisados: Rastreabilidade\pre-rastreabilidade\Aplicativos Analisados.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md    
   - Guia: 
     - Guia/Mkdocs.md
 
+
   # TESTE 1
-  
 
   # Ordem das pastas
   # - Planejamento: 
