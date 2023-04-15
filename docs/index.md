@@ -1,6 +1,6 @@
 # Home
 
-<div align="center"><img src="/requisitos-project/docs/assets/imagens/logo-azul.png"/></div>
+<div align="center"><img src="assets/imagens/logo-azul.png"/></div>
 
 
 ## A disciplina
