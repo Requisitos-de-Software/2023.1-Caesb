@@ -1,6 +1,7 @@
 # Grupo 4 - Requisitos de Software
 
-<div align="center"><img src= "assets\imagens\logo-azul.png"/></div>
+<div align="center"><img src= "docs/assets/imagens/logo-azul.png"/></div>
+
 
 ## Sobre:
 
