@@ -10,7 +10,7 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| ![Github](../assets/imagens/logo-ferramentas/github-icon.png) | Github  | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
+| ![Github](../assets/imagens/logo-ferramentas/github-icon.png)  | Github  | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
 | ![Telegram](../assets/imagens/logo-ferramentas/telegram-icon.png) | Telegram | Software de mensagens para facilitar a comunicação constante e ágil de um grupo. |
 | ![Teams](../assets/imagens/logo-ferramentas/teams-icon.png) |  Microsoft Teams  | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões.  |
 | ![VsCode](../assets/imagens/logo-ferramentas/vscode-icon.png) | Visual Studio Code  | Software de manipulação de código-fonte e manipulação de arquivos. Oferece a possibilidade de personalização através de extensões, tornando-o uma ferramenta altamente flexível e adaptável. |
