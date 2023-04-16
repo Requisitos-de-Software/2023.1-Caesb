@@ -19,6 +19,10 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 | ![This Person Doesn't Exist](../assets/imagens/logo-ferramentas/this-person-doesnt-exist.png) | This Person Doesn't Exist | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos |
 |  ![Google Planilhas](../assets/imagens/logo-ferramentas/sheet-icon.png) |  Google Planilhas  | Software de planilhas eletrônicas, utilizado em gerenciamento de dados, elaboração de cronogramas de atividades. |
 
+<div style="text-align: center">
+<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
+</div>
+
 ## Bibliografia
 
 [1] Ferramenta GitHub, disponível no [link](https://github.com). <br/>
@@ -32,7 +36,9 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 [9] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
 [10] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
 
-## Versionamento
-| Versão | Data       |                   Modificação                    |        Autor        |  Revisor   |
-| ------ | ---------- |:------------------------------------------------:|:-------------------:| --- |
-| 1.0    | 14/04/2023 |        Adição das ferramentas do projeto         | Guilherme Kishimoto |   Paulo Victor  |
+## Histórico de Versão
+
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 14/04/2023 |        14/04/2023        |  1.0   | Adição das ferramentas do projeto  | [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
+| 16/04/2023 |        16/04/2023        |  2.0   | Adição de legenda da tabela | [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
