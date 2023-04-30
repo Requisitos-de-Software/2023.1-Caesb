@@ -70,6 +70,10 @@ nav:
   - Guia: 
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
+  - Elicitação: 
+    - Elicitacao/perfil_do_usuario.md
+    - Elicitacao/personas.md
+
 
 markdown_extensions:
   - pymdownx.emoji:
