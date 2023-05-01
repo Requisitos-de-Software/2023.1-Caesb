@@ -50,7 +50,39 @@ Para a confecção do questionário, primeiramente foi pensado em um termo de co
 
 <p><center>Imagem 1: Termo de Consentimento (Fonte: autor, 2023).</center></p>
 
-Em seguida, foram elaboradas 12 questões, abertas e objetivas, com o intuito de coletar dados que achavamos relevantes para traçar o perfil do usuário. Para isso, utilizamos como base o livro Interação Humano Computador dos autores Simone Barbosa e Bruno Silva. As 12 questões formuladas são listadas a baixo:
+Em seguida, debatemos quais informações desejávamos descobrir sobre os usuários da plataforma:
+
+<ul>
+    <li>
+        Qual a idade dos usuários? Usuários mais velhos costumam usar mais o aplicativo? 
+    </li>
+    <li>
+        Onde o usuário reside? Uma pessoa de outra região tem motivos para usar o aplicativo? 
+    </li>
+    <li>
+        Qual o nível de escolaridade do usuário? Usuários com mais instrução tendem a usar mais o aplicativo?
+    </li>
+    <li>
+        Os usuários são empregados? Dessa forma, utilizariam o aplicativo para pagar suas contas?
+    </li>
+    <li>
+        Como os usuários aprenderam a usar o aplicativo? O aplicativo é intuitivo ou precisam de instruções?
+    </li>
+    <li>
+        Para que os usuários utilizam o aplicativo?
+    </li>
+    <li>
+        Para que os usuários utilizam o aplicativo? Eles o utilizam para ajudar outra a pessoa? Com que frequência?
+    </li>
+    <li>
+        Os usuários já estão acostumados a usar outros aplicativos do governo? 
+    </li>
+    <li>
+        O que os usuários acham do aplicativo? Precis ade novas funcionalidades? 
+    </li>
+</ul>
+
+Com base nessas dúvidas, foram elaboradas 12 questões, abertas e objetivas, com o intuito de coletar dados que achavamos relevantes para traçar o perfil do usuário. Para isso, utilizamos como base o livro Interação Humano Computador dos autores Simone Barbosa e Bruno Silva. As 12 questões formuladas são listadas a baixo:
 
 <ul>
     <li>
@@ -75,7 +107,7 @@ Em seguida, foram elaboradas 12 questões, abertas e objetivas, com o intuito de
         Qual é seu principal objetivo ao utilizar o aplicativo da Caesb?
     </li>
     <li>
-        Com qual frequência você utiliza o aplicativo da Caesb
+        Com qual frequência você utiliza o aplicativo da Caesb?
     </li>
     <li>
         Você utiliza o aplicativo para ajudar outra pessoa?
