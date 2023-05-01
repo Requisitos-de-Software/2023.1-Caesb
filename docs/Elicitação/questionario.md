@@ -15,7 +15,7 @@ Porém, deve se lembrar que essa técnica também possui algumas desvantagens, c
 
 Diante disso, se decidiu realizar um formulário online, onde estavam presentes questões com respostas limitadas, onde se puderem retirar dados quantitativos, como também questões de respostas livres que possibilitaram aos usuários se expressarem como quiserem sobre experiências e desejos que gostaria de ver no aplicativo.
 
-## Termo de Conscientemente
+## Termo de Consentimento
 É importante também deixar registrado que antes de responderem o questionário, todos os participantes concordaram de boa-fé com a utilização dos dados que eles forneceram para fins acadêmicos, podendo ser observado na figura 1.
 ![](./../assets/imagens/graficos-questionario/termo.png)
 <p><center> Figura 1 (Fonte: Autores, 2023).</center></p>
