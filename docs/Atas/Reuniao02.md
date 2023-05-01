@@ -1,29 +1,23 @@
 # 2ª Reunião
 
-## Introdução
-
-Essa ata  é da reunião que ocorreu no dia 12/04/2023 as 21:06, e foi a reunião de review e ajuste do cronograma 1
-
-
-## Dados da reunião
-
-|                                    Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :-------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti, Raquel Temoteo, Pedro de Oliveira  | 12/04/2023 |      21:06 - 21:39     |  Teams |
-
-<div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
-</div>
+## <text style="background-color: blue; color:white" >Data e local</text> 
+- **12/04/2023 - 21h06 às 21h39**
+- Teams - [link da gravação](https://youtu.be/FVxPo2nfd5Q)
 
 
-## Objetivos da reunião
+## <text style="background-color: blue; color:white">Participantes</text> 
+- Carla Araujo
+- Daniel dos Santos
+- Guilherme Keyti
+- Paulo Victor 
+- Raquel Temoteo
+- Pedro de Oliveira
 
- O objetivo dessa reunião foi reajustar o cronograma da entrega 1 e realizar a organização para a primeira entrega, além de discutir o que foi feito por cada pessoa durante a semana
+## <text style="background-color:  blue; color:white">Assuntos abordados</text> 
+1. Reajuste do cronograma da entrega 1
+2. Review
 
-
-# Etapas da reunião:
-
-
+## <text style="background-color: blue; color:white">Discussões</text> 
 
 ## Revisão do que foi realizado até o momento
 
@@ -34,6 +28,14 @@ Foi realizado o review semanal, em que cada integrante falou o que havia realiza
 
 Nesta etapa foi analizado a entrega 1 do cronograma , que possuia erros como a listagem errada de responsáveis em alguns artefatos  além de várias atividades que deveriam ser realizados por todos, que poderiam ser realizados por uma pessoa só.
 
-## Link da gravação
 
-[Link da gravação da reunião do dia 12/04/2023](https://youtu.be/FVxPo2nfd5Q)
+## <text style="background-color: blue; color:white">Resumo</text> 
+Foi analisado a entrega 1 do cronograma, listagem de erros, e realizado o review semanal
+
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 05/04/2023 |        06/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS)  | [Carla](https://github.com/ccarlaa) |
+| 26/04/2023 |        27/04/2023        |  2.0   | Atualização do modelo de Ata | [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+
+

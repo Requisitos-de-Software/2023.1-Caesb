@@ -19,9 +19,9 @@ Rich picture é uma modelagem cuja notação permite analisar problemas e expres
 
 **1. GitHub**
 
-O Github é uma aplicação lançada em 2008 que tem por objetivo possibilitar a seus usuários a hospedagem de seus projetos e o controle de suas versões por meio da ferramenta Git. Além disso, a possibilidade de várias pessoas poderem trabalhar em um projeto ao mesmo tempo tornou a plataforma extremamente atrativa para os desenvolvedores, chegando a ter mais de 5 milhões de repositórios hospedados.
+O Github é uma aplicação lançada em 2008 que tem por objetivo possibilitar a seus usuários a hospedagem de seus projetos e o controle de suas versões por meio da ferramenta Git. Além disso, a possibilidade de várias pessoas poderem trabalhar em um projeto ao mesmo tempo tornou a plataforma extremamente atrativa para os desenvolvedores, chegando a ter mais de 5 milhões de repositórios hospedados. A sua Rich Picture pode ser encontrado na Figura 1.
 
-![](../../assets/rastreabilidade/individual/richpicturecarla.png)
+![](../../../assets/rastreabilidade/individual/github_richpicture.png)
 
 <p align="center">
     Figura 1: Rich Picture do Github. (Fonte: Carla A. C. Ribeiro, 2023).
@@ -29,9 +29,9 @@ O Github é uma aplicação lançada em 2008 que tem por objetivo possibilitar a
 
 **2. Serasa**
 
-O aplicativo do Serasa é um aplicativo desenvolvido pelo governo, e foi criado para permitir que o usuário consulte o CPF para analisar dividas, protestos, consulta CNPJ, além de outras informações. além disso ele permite que seja negociado dívidas no nome da pessoa ou da empresa.
+O aplicativo do Serasa é um aplicativo desenvolvido pelo governo, e foi criado para permitir que o usuário consulte o CPF para analisar dividas, protestos, consulta CNPJ, além de outras informações. além disso ele permite que seja negociado dívidas no nome da pessoa ou da empresa. A sua Rich Picture pode ser encontrado na Figura 2.
 
-![](../../assets/rastreabilidade/individual/richpictureguilherme.png)
+![](../../../assets/rastreabilidade/individual/serasa_richpicture.png)
 
 <p align="center">
     Figura 2: Rich Picture do Serasa. (Fonte: Guilherme Kishimoto, 2023).
@@ -45,9 +45,9 @@ O aplicativo iLovePDF serve para que se possa realizar o gerenciamento de docume
 * Conversor de PDF.
 * Editor de PDF.
 
-Sendo limitado seu uso, oferecendo
+Sendo limitado seu uso, oferecendo planos pagos para que se possa acessar todas as suas funcionalidades. A sua Rich Picture pode ser encontrado na Figura 3.
 
-![](../../assets/rastreabilidade/individual/richpicturepedro.png)
+![](../../../assets/rastreabilidade/individual/ilovepdf_richpicture.png)
 
 <p align="center">
     Figura 3: Rich Picture do iLovePDF. (Fonte: Pedro Barbosa, 2023).
@@ -55,9 +55,9 @@ Sendo limitado seu uso, oferecendo
 
 **4. LibreOffice Reader**
 
-O aplicativo do LibreOffice  é um software desenvolvido e conduzido pela comunidade, e é um projeto da organização sem fins lucrativos "The Document Foundation". Suas funções incluem abrir, copiar, encaminhar, editar, buscar e salvar documentos, e basicamente funciona como uma suite de escritório
+O aplicativo do LibreOffice  é um software desenvolvido e conduzido pela comunidade, e é um projeto da organização sem fins lucrativos "The Document Foundation". Suas funções incluem abrir, copiar, encaminhar, editar, buscar e salvar documentos. A sua Rich Picture pode ser encontrado na Figura 4.
 
-![](../../assets/rastreabilidade/individual/richpicturepaulo.png)
+![](../../../assets/rastreabilidade/individual/libreofficereader_richpicture.png)
 
 <p align="center">
     Figura 4: Rich Picture do LibreOffice. (Fonte: Paulo Victor, 2023).
@@ -66,9 +66,9 @@ O aplicativo do LibreOffice  é um software desenvolvido e conduzido pela comuni
 
 **5. Acolha-se**
 
-O aplicativo Acolha-se  é um software desenvolvido e conduzido por voluntários e sem fins lucrativos. Basicamente você cria um plano de segurança, onde é registrado informações pessoais importantes para o enfrentamento de crises e ideações. Além de disponibilizar o contato de serviços de emergência como CVV, SAMU e bombeiros.
+O aplicativo Acolha-se  é um software desenvolvido e conduzido por voluntários e sem fins lucrativos. Basicamente você cria um plano de segurança, onde é registrado informações pessoais importantes para o enfrentamento de crises e ideações. Além de disponibilizar o contato de serviços de emergência como CVV, SAMU e bombeiros. A sua Rich Picture pode ser encontrado na Figura 5.
 
-![](../../assets/rastreabilidade/individual/richpictureraquel.png)
+![](../../../assets/rastreabilidade/individual/acolha_se_richpicture.png)
 
 <p align="center">
     Figura 5: Rich Picture do Acolha-se. (Fonte: Raquel Eucaria, 2023).
@@ -90,7 +90,9 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 * Alterar Titularidade.
 * Entre outros.
 
-![](../../assets/rastreabilidade/individual/richpicturedaniel.png)
+A sua Rich Picture pode ser encontrado na Figura 6.
+
+![](../../../assets/rastreabilidade/individual/caesb_richpicture.png)
 
 <p align="center">
     Figura 6: Rich Picture da CAESB. (Fonte: Daniel dos Santos, 2023).
@@ -107,3 +109,4 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | Todos |
+ 26/04/2023 |        26/04/2023        |  1.1   | Correção de Textos | [Daniel](https://github.com/daniel-de-sousa) | [Carla](https://github.com/ccarlaa) |

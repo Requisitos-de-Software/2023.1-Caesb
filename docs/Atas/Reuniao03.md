@@ -1,27 +1,24 @@
-# 3ª Reunião
+# 2ª Reunião
 
-## Introdução
-
-Essa ata  é da reunião que ocorreu no dia 16/04/2023 as 10:06, e foi a reunião da gravação da primeira reunião
-
-## Dados da reunião
-
-|                                    Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :-------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti, Raquel Temoteo, Pedro de Oliveira, Caetano Santos  | 16/04/2023 |      10:06 - 11:16     |  Teams |
-
-<div style="text-align: center">
-<p> Tabela 1: Dados da Reunião (Fonte: autor, 2023). </p>
-</div>
+## <text style="background-color: blue; color:white" >Data e local</text> 
+- **16/04/2023 - 10h06 às 11h16**
+- Teams - [link da gravação](https://youtu.be/nTTCJMEjoRU)
 
 
-## Objetivos da reunião
+## <text style="background-color: blue; color:white">Participantes</text> 
+- Caetano Santos
+- Carla Araujo
+- Daniel dos Santos
+- Guilherme Keyti
+- Paulo Victor 
+- Raquel Temoteo
+- Pedro de Oliveira
 
- O objetivo dessa reunião foi realizar a gravação da primeira entrega.
+## <text style="background-color: blue; color:white">Assuntos abordados</text> 
+1. Artefatos da primeira entrega
 
 
-# Etapas da reunião:
-
+## <text style="background-color: blue; color:white">Discussões</text> 
 
 ## Ajustes Finais
 
@@ -38,6 +35,14 @@ Após isso foi realizado o teste piloto, para verificar que as ferramentas estav
 Por fim foi feito a gravação do vídeo da primeira entrega, em que cada integrante apresentou sobre  os artefatos produzidos.
 
 
-## Link da gravação
+## <text style="background-color: blue; color:white">Resumo</text> 
+Foi realizado a gravação do video da entrega 1
 
-[Link da gravação da reunião do dia 16/04/2023](https://youtu.be/FVxPo2nfd5Q)
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 05/04/2023 |        06/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS)  | [Carla](https://github.com/ccarlaa) |
+| 26/04/2023 |        27/04/2023        |  2.0   | Atualização do modelo de Ata | [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+
+
+
