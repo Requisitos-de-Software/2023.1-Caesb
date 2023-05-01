@@ -16,7 +16,7 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 | <img src="../assets/imagens/logo-ferramentas/vscode-icon.png" width="80px"/> | Visual Studio Code [[4]](https://code.visualstudio.com) | Software de manipulação de código-fonte e manipulação de arquivos. Oferece a possibilidade de personalização através de extensões, tornando-o uma ferramenta altamente flexível e adaptável. |
 | <img src="../assets/imagens/logo-ferramentas/youtube-icon.png" width="90px"/> | Youtube [[5]](https://youtube.com) | Software de hospedagem de vídeos online |
 | <img src="../assets/imagens/logo-ferramentas/lucidchart.png" width="80px"/> | Lucidchart [[6]](https://lucidchart.com) | Software de elaboração de diagramas. Oferece a possibilidade de colaboração em tempo real.  |
-| <img src="../assets/imagens/logo-ferramentas/this-person-doesnt-exist.png" width="80px"/> | This Person Doesn't Exist [[7]](https://thispersondoesnotexist.com/) | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos |
+| <img src="../assets/imagens/logo-ferramentas/this-person-doesnt-exist.png" width="80px"/> | This Person Doesn't Exist [[7]](https://this-person-does-not-exist.com/en) | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos |
 |  <img src="../assets/imagens/logo-ferramentas/sheet-icon.png" width="80px"/> |  Google Planilhas [[8]](https://docs.google.com/sheets) | Software de planilhas eletrônicas, utilizado em gerenciamento de dados, elaboração de cronogramas de atividades. |
 
 <div style="text-align: center">
@@ -31,7 +31,7 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 [4] Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
 [5] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
 [6] Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
-[7] Ferramenta This Person Doesn't Exist, disponível no [link](https://thispersondoesnotexist.com/). <br/>
+[7] Ferramenta This Person Doesn't Exist, disponível no [link](https://this-person-does-not-exist.com/en). <br/>
 [8] Ferramenta Google planilhas, disponível no [link](https://docs.google.com/sheets). <br/>
 [9] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
 [10] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
@@ -44,3 +44,4 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 | 16/04/2023 |        16/04/2023        |  2.0   | Adição de legenda da tabela | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
 | 26/04/2023 |        26/04/2023        |  3.0   | Ajuste do artefato de acordo com o feedback recebido | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
 | 26/04/2023 |        26/04/2023        |  4.0   | Ajuste de links | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+| 30/04/2023 |        30/04/2023        |  5.0   | Ajuste de links | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
