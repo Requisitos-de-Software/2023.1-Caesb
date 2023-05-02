@@ -3,6 +3,9 @@
 ## Introdução
 **First Things First** **(FTF) ** é um método para priorização de requisitos no desenvolvimento de software proposto por Karl E. Wiegers. O método consiste em identificar claramente os objetivos do projeto e as necessidades dos clientes, a partir da análise comparativa do custo, valor e risco de cada requisito. E ajuda a garantir que os requisitos mais importantes sejam implementados primeiro, maximizando o valor entregue aos stakeholders e minimizando os riscos do projeto.
 
+## Motivo de escolha
+A metodologia foi escolhida por ser uma abordagem poderosa para o gerenciamento de tempo e priorização de tarefas, ajudando a estabelecer prioridades com base em valores pessoais e objetivos de longo prazo, permitindo que as pessoas dediquem mais tempo e energia para atividades que são realmente importantes.
+
 ## Metodologia
 A técnica do FTF consiste basicamente em:
 
@@ -14,9 +17,9 @@ A técnica do FTF consiste basicamente em:
 4. **Refinar a priorização conforme necessário:** A priorização dos requisitos pode mudar ao longo do tempo, por isso é importante revisar e refinar a priorização conforme o projeto avança.
 
 
-A priorização foi realizada com a análise dos requisitos elicitados pelos métodos de [questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) e [introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao). E pode ser analisada no Iframe 1, como forma de auxiliar o entendimento acompanhe a Legenda - Iframe 1.
+A priorização foi realizada com a análise dos requisitos elicitados pelos métodos de [questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/), [introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao) e [storytelling](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/storytelling). E pode ser analisada no Iframe 1, como forma de auxiliar o entendimento acompanhe a Legenda - Iframe 1.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShz1C17Dm7EovR5B8yPn-27qDseKO1yYnNFOtmSTN3poSaEmyaHRzTXM78jlE9kgvdbEEJYV_4RKGZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="980" height="1380" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShz1C17Dm7EovR5B8yPn-27qDseKO1yYnNFOtmSTN3poSaEmyaHRzTXM78jlE9kgvdbEEJYV_4RKGZ/pubhtml" width="2400" height="2100" frameborder="0"></iframe>
 
 <center>Iframe 1 - Priorização 1. Fonte: Autores</center>
 
@@ -50,6 +53,9 @@ A priorização foi realizada com a análise dos requisitos elicitados pelos mé
     <p>Legenda - Iframe 1. Fonte: Autores</p>
 </div>
 
+## Video
+A apresentação do FTF está disponível no [link](https://youtu.be/CWuhlBflAo8)
+
 ## Referências
 > WIEGERS, Karl. First Things First: Prioritizing Requirements. Disponível em [link](https://www.processimpact.com/articles/prioritizing.pdf).
 
@@ -58,6 +64,6 @@ A priorização foi realizada com a análise dos requisitos elicitados pelos mé
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 30/04/2023 | 01/05/2023 |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
-
+| 02/05/2023 | 03/05/2023 |  2.0   | Melhorias e adicionando o vídeo | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
 
 
