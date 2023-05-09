@@ -13,31 +13,37 @@ A escolha do método de priorização por ser apropriado em um prazo apertado pa
 
 A tabela 1 apresenta os requisitos identificados e a respectiva priorização "In or Out" atribuída a cada um deles. 
 
-| Identificador | Requisito | Origem |  In or Out |
-| :----------: |:----------:| :------: | :-----------: |
-| RF01 | O aplicativo deve permitir que os usuários se registrem para criar uma conta | INT01 | In
-| RF02 | O aplicativo deve permitir que os usuários visualizem o historico de consumo de água | INT02 | In
-| RF03 | O aplicativo deve permitir que os usuários visualizem as faturas dos pagamentos | INT03 | In
-| RF04 | O aplicativo deve permitir a emissão de notificações sobre informações relevantes ao usuário | INT04 | In
-| RF05 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando cartão de crédito ou débito | INT05 | In
-| RF06 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando chave pix | INT06 | In
-| RF07 | O aplicativo deve permitir que os usuários entrem em contato com a equipe de suporte da CAESB para resolver problemas e fazer perguntas | INT07 | In
-| RF08 | O aplicativo deve permitir que os usuários gerem relatórios detalhados sobre seu consumo de água e os custos associados ao consumo | INT08 | Out
-| RF09 | O aplicativo deve permitir que os usuários alterem as informações cadastradas no sistema | INT09 | In
-| RF10 | O aplicativo deve permitir que os usuários visualizem um histórico detalhado dos serviços solicitados | INT10 | Out
-| RF11 | O aplicativo notifica que a fatura está próxima do vencimento | Q1 | In
-| RF12 | O aplicativo deve informar claramente o motivo para a qualidade de banho em uma área do lago não ser a ideal | Q2 | Out
-| RF13 | O aplicativo deve possui um sistema de contraste visual | Q3 | In
-| RF14 | O usuário deve poder editar o próprio perfil | Q4 | In
-| RF15 | O usuário deve ser notificado sobre falta de água em sua região | Q5 | Out
-| RF16 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada | Q6 | In
-| RF17 | O usuário deve possuir uma forma de pagamento por cartão que seja automática | Q7 | In
-| RF18 | O aplicativo deve apresentar uma divisão clara de seções | Q8 | In
-| RF19 | O aplicativo deve apresentar quando ocorrerá uma próxima leitura | Q11 | In
-| RF20 | O aplicativo deve possibilitar utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas | Q13 | In
-| RF21 | O aplicativo deve permitir que o usuário copie o código do boleto | Q05 | In
-| RF22 | O usuário deve poder solicitar serviço (CRU) | Q09 | In
-| RF23 | O usuário deve poder informar sobre vazamentos | Q17 | In
+| Identificador | Requisito |   In or Out |
+| :----------: |:----------:|  :-----------: |
+| INT01 | O aplicativo deve permitir que os usuários se registrem para criar uma conta |  In
+| INT02 e ST04 | O aplicativo deve permitir que os usuários visualizem o historico de consumo de água |  In
+| INT03 e Q01 | O aplicativo deve permitir que os usuários visualizem as faturas dos pagamentos |  In
+| INT04 | O aplicativo deve permitir a emissão de notificações sobre informações relevantes ao usuário |  In
+| INT05 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando cartão de crédito ou débito |  In
+| INT06 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando chave pix |  In
+| INT07 e ST06 | O aplicativo deve permitir que os usuários entrem em contato com a equipe de suporte da CAESB para resolver problemas e fazer perguntas |  In
+| INT08 e ST02 | O aplicativo deve permitir que os usuários gerem relatórios detalhados sobre seu consumo de água e os custos associados ao consumo |  Out
+| INT09 | O aplicativo deve permitir que os usuários alterem as informações cadastradas no sistema | In
+| INT10 | O aplicativo deve permitir que os usuários visualizem um histórico detalhado dos serviços solicitados |  Out
+| INT14 e  Q07  | O aplicativo deve seguir as diretrizes de acessibilidade da WACG 2.1 [[1]](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/), garantindo que seja acessível para pessoas com deficiência visual, auditiva ou física. |  In
+| INT15 | O aplicativo deve permitir que os usuários escolham entre pelo menos 3 idiomas diferentes |  In
+| Q1 | O aplicativo notifica que a fatura está próxima do vencimento |  In
+| Q2 e Q16 | O aplicativo deve informar claramente o motivo para a qualidade de banho em uma área do lago não ser a ideal |  Out
+| Q3 | O aplicativo deve possui um sistema de contraste visual |  In
+| Q4 | O usuário deve poder editar o próprio perfil |  In
+| Q5 e Q11 | O usuário deve ser notificado sobre falta de água em sua região | Out
+| Q6 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada |  In
+| Q7 e ST05 | O usuário deve possuir uma forma de pagamento por cartão que seja automática |  In
+| Q8 | O aplicativo deve apresentar uma divisão clara de seções |  In
+| Q11 | O aplicativo deve apresentar quando ocorrerá uma próxima leitura |  In
+| Q13 | O aplicativo deve possibilitar utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas |  In
+| Q03 | O usuário deve poder pegar a 2ª via da fatura |  In
+| Q05 e ST05 | O aplicativo deve permitir que o usuário copie o código do boleto | In
+| Q09 e INT10 | O usuário deve poder solicitar serviço (CRU) |  In
+| Q17 | O usuário deve poder informar sobre vazamentos |  In
+| ST03 | Eu, como usuario, desejo que o aplicativo garanta a segurança das minhas informações pessoais e financeiras |  In
+| ST07 | Eu, como usuário, desejo que o tempo necessário para realizar tarefas seja menor que 1 minuto |  In
+| ST08 | Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3 |  In
 <div style="text-align: center">
 <p> Tabela 1: In or Out (Fonte: autor, 2023).</p>
 </div>
@@ -71,3 +77,4 @@ Vídeo 1: In or Out (Fonte: autor, 2023)
 | 30/04/2023 |        30/04/2023        |  1.0   | Criação do documento   | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
 | 01/05/2023 |        01/05/2023        |  2.0   | Adição de novos requisitos   | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
 | 01/05/2023 |        01/05/2023        |  3.0   | Adição do Vídeo e respostas dos requisitos | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+| 06/05/2023 |        06/05/2023        |  4.0   | Melhorias | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
