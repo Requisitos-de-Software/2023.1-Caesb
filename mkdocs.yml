@@ -70,6 +70,15 @@ nav:
     - Storytelling: Elicitacao/storytelling.md
     - First Things First: Elicitacao/priorizacao-FTF.md
     - In or Out: Elicitacao/priorizacaoInOrOut.md
+  - Modelagem:
+    - Cenários: Modelagem/cenarios.md
+    - Léxicos: Modelagem/lexicos.md
+    - Casos de Uso: Modelagem/casos_de_uso.md
+    - Especificação Suplementar: Modelagem/especificacao_suplementar.md
+    - Ágil: 
+      - Backlog: Modelagem/Agil/backlog.md
+      - Histórias de Usuário: Modelagem/Agil/historia_usuario.md
+      - NFR Framework: Modelagem/Agil/NFR.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
