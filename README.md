@@ -30,4 +30,4 @@ A [Portaria nº 46, de 28 de Setembro de 2016](https://www.in.gov.br/web/dou/-/p
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 10/03/2023 |       15/04/2023       |  1.0   | Criação inicial  | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
-| 25/04/2023 |        26/04/2023        |  2.0   | Adição do Termo de uso e detalhes | [Raquel](https://github.com/raqueleucaria) | [Pedro]((https://github.com/pedrobarbosaocb)) |
+| 25/04/2023 |        26/04/2023        |  2.0   | Adição do Termo de uso e detalhes | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
