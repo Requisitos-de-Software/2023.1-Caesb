@@ -40,6 +40,7 @@ Após a seleção individual de cada integrante, o grupo decidiu que o aplicativ
 ## :droplet: Termos de Uso
 A [Portaria nº 46, de 28 de setembro de 2016](https://www.in.gov.br/web/dou/-/portaria-n-46-de-28-de-setembro-de-2016-24213768), discorre sobre a disponibilização de Software Público Brasileiro, no qual a Caesb se encaixa, e define como Software Livre e da liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades (Capítulo I, Art 2º, IX).
 
+## :droplet: Integrantes
 
 | Foto                                                                                                                                                  | Nome             | Email                          | github                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ | ------------------------------------------------------ |
@@ -50,3 +51,10 @@ A [Portaria nº 46, de 28 de setembro de 2016](https://www.in.gov.br/web/dou/-/p
 | <img alt = "img_Paulo" src="https://avatars.githubusercontent.com/u/98675541?v=4" style="border-radius:50%" width = "100"/>     | Paulo VIctor     | paulovictor.fsousa11@yahoo.com.br | [@PauloVictorFS](https://github.com/PauloVictorFS)     |
 | <img alt = "img_Pedro" src="https://avatars.githubusercontent.com/u/78980796?v=4" style="border-radius:50%" width = "100"/>    | Pedro Barbosa   |   pedrobarbosaocb@gmail.com      | [@pedrobarbosaocb](https://github.com/pedrobarbosaocb)                 |
 | <img alt = "img_Raquel" src="https://avatars.githubusercontent.com/u/81540491?v=4" style="border-radius:50%" width = "100"/>    | Raquel Eucaria      | raqueleucaria@gmail.com         | [@raqueleucaria](https://github.com/raqueleucaria)                 |
+
+## Histórico de Versão
+
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 10/03/2023 |       15/04/2023       |  1.0   | Criação inicial  | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
+| 25/04/2023 |        26/04/2023        |  2.0   | Adição do Termo de uso e detalhes | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
