@@ -1,7 +1,7 @@
 # Casos de Uso
 
 ## Introdução
-Os casos de uso tem como intuito descrever as as ações dos usuários para realizar certas tarefas, por meio da representação de uma sequência de passos simples e objetivos. Explicitando desde o objetivo do usuário até as respostas que o sistema terá a cada interação.
+Os casos de uso têm como intuito, descrever as as ações dos usuários para realizar certas tarefas no sistema, por meio da representação de uma sequência de passos simples e objetivos. Explicitando desde o objetivo do usuário até as respostas que o sistema terá a cada interação.
 
 ## Passo a Passo
 Passo a passo para a formulação dos casos de uso.
@@ -16,7 +16,7 @@ Passo a passo para a formulação dos casos de uso.
 8. Repita os passos 2 e 7 para todos os outros usuários.
 
 ## Diagrama UML de Casos de Uso
-O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do usuário.
+O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do usuário. Por meio da Figura 1, podemos observar o diagrama de casos de uso do aplicativo da CAESB.
 
 <center>
 ![Diagrama de Casos de Uso]()
@@ -28,12 +28,18 @@ O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do 
 
 ## Legendas e elementos dos Casos de Uso
 
+Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elementos presentes no diagrama de casos de uso.
+
+<center>
+
 |Elemento|Descrição|
 |-|-|
-|![ator](../assets/imagens/casos-de-uso/Ator.png)|Ator|
-|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)|Caso de Uso|
-|![relação](../assets/imagens/casos-de-uso/Relacao.png)|Relação|
-|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)|Seção do Sistema|
+|![ator](../assets/imagens/casos-de-uso/Ator.png)|(Boneco de Palito) Atores/Personagens participantes da execução do sistema|
+|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)| (Elipse) Caso de Uso do aplicativo|
+|![relação](../assets/imagens/casos-de-uso/Relacao.png)| (Seta) Relação entre os casos de uso entre eles e entre as personegens participantes do sistema|
+|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)| (Retângulo) Seção do Sistema|
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Legenda Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
