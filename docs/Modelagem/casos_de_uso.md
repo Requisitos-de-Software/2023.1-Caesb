@@ -16,29 +16,27 @@ Passo a passo para a formulação dos casos de uso.
 8. Repita os passos 2 e 7 para todos os outros usuários.
 
 ## Diagrama UML de Casos de Uso
-figura com o diagrama do nosso projeto com breve descrição
+O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do usuário.
 
 <center>
 ![Diagrama de Casos de Uso]()
 </center>
 
-## Legendas e elementos dos Casos de Uso
-
-|Elemento|Descrição|
-|-|-|
-|UC|Caso de Uso (User Case)|
-|||
-
 <div style="text-align: center">
 <p> Figura 1: Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
 </div>
 
-<center>
-![Legenda Diagrama de Casos de Uso]()
-</center>
+## Legendas e elementos dos Casos de Uso
+
+|Elemento|Descrição|
+|-|-|
+|![ator](../assets/imagens/casos-de-uso/Ator.png)|Ator|
+|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)|Caso de Uso|
+|![relação](../assets/imagens/casos-de-uso/Relacao.png)|Relação|
+|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)|Seção do Sistema|
 
 <div style="text-align: center">
-<p> Figura 2: Legenda Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
+<p> Tabela 1: Legenda Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
 </div>
 
 ## Especificação de Casos de Uso
