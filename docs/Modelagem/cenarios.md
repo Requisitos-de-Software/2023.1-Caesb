@@ -102,4 +102,4 @@ Edição, Editora Campus, 2010
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e | [Daniel](https://github.com/daniel-de-sousa) |
+| 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS)  | [Daniel](https://github.com/daniel-de-sousa)|
