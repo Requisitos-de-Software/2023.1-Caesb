@@ -57,7 +57,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
 |Atores         |   Usuário    |
 |Fluxo          |   1.Acessar visualização de fatura  <br>2. Selecionar forma de pagamento  |
-|Pós-condições  |   O aplicativo retornará a fatura selecionada com as formas de realizar o pagamento    |
+|Pós-condições  |   O usuário acessou a fatura e realizou o pagamento    |
 
 <div style="text-align: center">
 <p> Tabela 2: Caso de Uso 1 (Fonte: autor, 2023).</p>
@@ -70,8 +70,8 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Descrição      |   O usuário deve ser capaz de visualizar seu histórico de pagamentos    |
 |Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
 |Atores         |   Usuário    |
-|Fluxo          |   1. Acessar histórico de pagamentos    |
-|Pós-condições  |   O usuário terá acesso a uma aba com seu histórico de pagamentos com a opção de visualizar sua fatura    |
+|Fluxo          |   1. Acessar histórico de pagamentos <br>2. Selecionar período do histórico   |
+|Pós-condições  |   O usuário teve acesso ao seu histórico de faturas e observou se existe faturas pendentes    |
 
 <div style="text-align: center">
 <p> Tabela 3: Caso de Uso 2 (Fonte: autor, 2023).</p>
@@ -85,7 +85,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet    |
 |Atores         |   Usuário / Administrador    |
 |Fluxo          |   1. Acessar aba de denuncia de vazamento <br>2. Selecionar endereço do vazamento    |
-|Pós-condições  |   O sistema deverá atualizar o usuário sobre sua denuncia de vazamento    |
+|Pós-condições  |   O usuário informou o vazamento e foi atualizado sobre a ciencia e/ou resolução do vazamento  |
 
 <div style="text-align: center">
 <p> Tabela 4: Caso de Uso 3 (Fonte: autor, 2023).</p>
