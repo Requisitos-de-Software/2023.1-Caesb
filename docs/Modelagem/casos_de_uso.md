@@ -19,8 +19,9 @@ Passo a passo para a formulação dos casos de uso.
 O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do usuário. Por meio da Figura 1, podemos observar o diagrama de casos de uso do aplicativo da CAESB.
 
 <center>
-![Diagrama de Casos de Uso]()
+![Diagrama de Casos de Uso](../assets/imagens/casos-de-uso/Casos%20de%20Uso%20UML.png)
 </center>
+
 
 <div style="text-align: center">
 <p> Figura 1: Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
@@ -34,10 +35,10 @@ Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elemento
 
 |Elemento|Descrição|
 |-|-|
-|![ator](../assets/imagens/casos-de-uso/Ator.png)|(Boneco de Palito) Atores/Personagens participantes da execução do sistema|
-|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)| (Elipse) Caso de Uso do aplicativo|
-|![relação](../assets/imagens/casos-de-uso/Relacao.png)| (Seta) Relação entre os casos de uso entre eles e entre as personegens participantes do sistema|
-|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)| (Retângulo) Seção do Sistema|
+|![ator](../assets/imagens/casos-de-uso/Ator.png)|(Bonecos de Palito) <br> Atores/Personagens participantes da execução do sistema|
+|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)| (Elipses) <br> Caso de Uso do aplicativo|
+|![relação](../assets/imagens/casos-de-uso/Relacao.png)| (Setas) <br> Relação entre os casos de uso entre eles e entre as personegens participantes do sistema|
+|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)| (Retângulos) <br> Seção do Sistema|
 
 </center>
 
@@ -46,15 +47,91 @@ Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elemento
 </div>
 
 ## Especificação de Casos de Uso
-1. Fazer Login
+Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os principais casos de uso do diagrama de casos de uso.
 
-|Caso de Uso 01 |       |
+### UC01 - Visualizar fatura
+
+|Caso de Uso 01 |   Visualizar fatura    |
 |---------------|-------|
-|Descrição      |       |
-|Pré-condições  |       |
-|Atores         |       |
-|Fluxo          |       |
-|Pós-condições  |       |
+|Descrição      |   O usuário deve ser capaz de visualizar a fatura da sua conta    |
+|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
+|Atores         |   Usuário    |
+|Fluxo          |   1.Acessar visualização de fatura  <br>2. Selecionar forma de pagamento  |
+|Pós-condições  |   O aplicativo retornará a fatura selecionada com as formas de realizar o pagamento    |
+
+<div style="text-align: center">
+<p> Tabela 2: Caso de Uso 1 (Fonte: autor, 2023).</p>
+</div>
+
+### UC02 - Visualizar histórico de pagamentos
+
+|Caso de Uso 02 |   Visualizar histórico de pagamentos    |
+|---------------|-------|
+|Descrição      |   O usuário deve ser capaz de visualizar seu histórico de pagamentos    |
+|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
+|Atores         |   Usuário    |
+|Fluxo          |   1. Acessar histórico de pagamentos    |
+|Pós-condições  |   O usuário terá acesso a uma aba com seu histórico de pagamentos com a opção de visualizar sua fatura    |
+
+<div style="text-align: center">
+<p> Tabela 3: Caso de Uso 2 (Fonte: autor, 2023).</p>
+</div>
+
+### UC03 - Informar vazamento
+
+|Caso de Uso 03 |   Informar vazamento    |
+|---------------|-------|
+|Descrição      |   O usuário deve poder relatar um vazamento    |
+|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet    |
+|Atores         |   Usuário / Administrador    |
+|Fluxo          |   1. Acessar aba de denuncia de vazamento <br>2. Selecionar endereço do vazamento    |
+|Pós-condições  |   O sistema deverá atualizar o usuário sobre sua denuncia de vazamento    |
+
+<div style="text-align: center">
+<p> Tabela 4: Caso de Uso 3 (Fonte: autor, 2023).</p>
+</div>
+
+### UC04 - Agendar leitura de hidrômetro
+
+|Caso de Uso 04 |  Agendar leitura de hidrômetro     |
+|---------------|-------|
+|Descrição      |    O usuário pode agendar uma leitura do hidrômetro   |
+|Pré-condições  |    O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta   |
+|Atores         |   Usuário    |
+|Fluxo          |    1. Acessar aba de agendar leitura do hidrômetro<br>2. Escolher uma data e hora para a leitura do hidrômetro   |
+|Pós-condições  |    O usuário agendou a leitura do hidrômetro pela CAESB e foi notificado sobre a leitura   |
+
+<div style="text-align: center">
+<p> Tabela 5: Caso de Uso 4 (Fonte: autor, 2023).</p>
+</div>
+
+### UC05 - Informar falta de água
+
+|Caso de Uso 05 |  Informar falta de água     |
+|---------------|-------|
+|Descrição      |    O usuário pode informar à CAESB sobre a falta de água em sua residência   |
+|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
+|Atores         |    Usuário   |
+|Fluxo          |    1. Acessar aba de informar falta de água<br>2. Informar o endereço   |
+|Pós-condições  |    O usuário informou a CAESB sobre a falta de água e foi notificado sobre o andamento do processo de resolução   |
+
+<div style="text-align: center">
+<p> Tabela 6: Caso de Uso 5 (Fonte: autor, 2023).</p>
+</div>
+
+### UC06 - Visualizar histórico de consumo de água
+
+|Caso de Uso 06 |    Visualizar histórico de consumo de água   |
+|---------------|-------|
+|Descrição      | O usuário pode visualizar o seu histórico de consumo de água |
+|Pré-condições  | O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta  |
+|Atores         |    Usuário   |
+|Fluxo          |    1. Acessar aba de visualizar histórico de consumo de água"<br>2. Selecionar o período desejado   |
+|Pós-condições  |    O usuário pode visualizar o seu histórico de consumo de água   |
+
+<div style="text-align: center">
+<p> Tabela 7: Caso de Uso 6 (Fonte: autor, 2023).</p>
+</div>
 
 ## Referências
 > O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. Disponível em [link](https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408).
