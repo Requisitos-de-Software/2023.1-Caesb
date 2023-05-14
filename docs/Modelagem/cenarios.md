@@ -1,7 +1,7 @@
 
 # Introdução
 
-De acordo com o livro Interação Humano-Computador,  Simone Diniz Junqueiro Barbosa apresenta que  Cenários são narrativas textuais ou pictóricas, concretas, rica em detalhes contextuais, de uma situação de uso da aplicação envolvendo usuários, processos e dados reais ou potenciais.[1] Os cenários podem ser utilizados
+De acordo com o livro Interação Humano-Computador,  Simone Diniz Junqueiro Barbosa apresenta que  Cenários são narrativas textuais ou pictóricas, concretas, rica em detalhes contextuais, de uma situação de uso da aplicação envolvendo usuários, processos e dados reais ou potenciais. Os cenários podem ser utilizados
 em diversas etapas do processo, com diferentes objetivos, como:
 - Descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento
 da atividade
@@ -86,14 +86,14 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Objetivos** |   Acompanhar o histórico de consumo de água no aplicativo da CAESB.|
 | **Planejamento** | Acessar a seção "Consumo de Água" no aplicativo da CAESB e visualizar o histórico de consumo de água registrado nos períodos anteriores|
 |**Ações**|-Abrir o aplicativo da CAESB no smartphone.</br>-Realizar login na conta do cliente usando as credenciais fornecidas.<br>-Navegar para a seção "Consumo de Água" através do menu principal do aplicativo.<br>-Selecionar a opção de visualizar o histórico de consumo.<br>-Escolher o período desejado para consultar o histórico de consumo, como o mês atual ou períodos anteriores.<br>-O aplicativo exibe o histórico de consumo de água, apresentando os valores registrados ao longo do tempo, podendo ser em formato gráfico ou numérico.<br>-Explorar os dados apresentados, como variações mensais, comparações com períodos anteriores ou análises adicionais, caso disponíveis.
-|**Eventos**|-O cliente acessa a seção "Consumo de Água" no aplicativo.</br>-O cliente seleciona a opção de visualizar o histórico de consumo.</br>-O aplicativo exibe o histórico de consumo de água, apresentando os valores registrados para os períodos selecionados.
+|**Eventos**|-O sistema permite que o cliente acesse a seção "Consumo de Água" no aplicativo.</br>-O aplicativo busca e apresenta a  visualização do histórico de consumo.</br>-O aplicativo exibe os valores registrados para os períodos selecionados.
 |**Avaliação**| O cliente avalia o histórico de consumo de água apresentado no aplicativo da CAESB.</br>-O cliente pode identificar padrões de consumo, verificar tendências ou analisar o impacto de alterações de hábitos no consumo de água.</br>-O cliente utiliza as informações do histórico para tomar decisões relacionadas à conservação de água ou para entender melhor seu padrão de consumo.
 
 ## Bibliografia
 
  Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
+ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
 .
 Edição, Editora Campus, 2010
 
