@@ -35,10 +35,10 @@ Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elemento
 
 |Elemento|Descrição|
 |-|-|
-|![ator](../assets/imagens/casos-de-uso/Ator.png)|(Bonecos de Palito) <br> Atores/Personagens participantes da execução do sistema|
-|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)| (Elipses) <br> Caso de Uso do aplicativo|
-|![relação](../assets/imagens/casos-de-uso/Relacao.png)| (Setas) <br> Relação entre os casos de uso entre eles e entre as personegens participantes do sistema|
-|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)| (Retângulos) <br> Seção do Sistema|
+|![ator](../assets/imagens/casos-de-uso/Ator.png)|(Bonecos de Palito) <br> Representa os Atores/Personagens participantes da execução do sistema|
+|![caso de uso](../assets/imagens/casos-de-uso/UseCase.png)| (Elipses) <br> Contém cada Caso de Uso do aplicativo|
+|![relação](../assets/imagens/casos-de-uso/Relacao.png)| (Setas) <br> Representa a relação dos casos de uso entre eles e entre as personegens participantes do sistema|
+|![seção do sistema](../assets/imagens/casos-de-uso/AppSection.png)| (Retângulos) <br> Representa uma seção do sistema/ou todo o sistema|
 
 </center>
 
@@ -47,7 +47,22 @@ Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elemento
 </div>
 
 ## Especificação de Casos de Uso
-Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os principais casos de uso do diagrama de casos de uso.
+Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os principais casos de uso do diagrama de casos de uso. Para melhor entendimento, a tabela 2 detalha cada seção dos casos de uso.
+
+|Caso de Uso 00 |   Nome    |
+|---------------|-------|
+|Descrição      |       Descrição breve da tarefa de interesse realizada no caso de uso    |
+|Atores         |       Personagens que atuam para a realização dessa tarefa   |
+|Pré-condições  |       Requisitos básicos para que a tarefa seja realizada |
+|Fluxo Principal|       Como o nome diz, é o principal caminho tomado para se realizar a tarefa |
+|Fluxos Alternativos|   Caminhos alternativos que chegam na realização da tarefa |
+|Fluxos de exceção|     Caminhos que levam ao impedimento pelo sistema da realização da tarefa |
+|Pós-condições  |       Resultado ao se realizar a tarefa    |
+
+<div style="text-align: center">
+<p> Tabela 2: Detalhamento dos casos de uso (Fonte: autor, 2023).</p>
+</div>
+
 
 ### UC01 - Visualizar fatura
 
@@ -62,7 +77,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pós-condições  |       O usuário acessou a fatura e realizou o pagamento    |
 
 <div style="text-align: center">
-<p> Tabela 2: Caso de Uso 1 (Fonte: autor, 2023).</p>
+<p> Tabela 3: Caso de Uso 1 (Fonte: autor, 2023).</p>
 </div>
 
 ### UC02 - Visualizar histórico de pagamentos
@@ -78,7 +93,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pós-condições  |       O usuário teve acesso ao seu histórico de faturas e observou se existe faturas pendentes    |
 
 <div style="text-align: center">
-<p> Tabela 3: Caso de Uso 2 (Fonte: autor, 2023).</p>
+<p> Tabela 4: Caso de Uso 2 (Fonte: autor, 2023).</p>
 </div>
 
 ### UC03 - Informar vazamento
@@ -110,7 +125,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pós-condições  |       O usuário agendou a leitura do hidrômetro pela CAESB e foi notificado sobre a leitura   |
 
 <div style="text-align: center">
-<p> Tabela 5: Caso de Uso 4 (Fonte: autor, 2023).</p>
+<p> Tabela 6: Caso de Uso 4 (Fonte: autor, 2023).</p>
 </div>
 
 ### UC05 - Informar falta de água
@@ -126,7 +141,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pós-condições  |       O usuário informou a CAESB sobre a falta de água e foi notificado sobre o andamento do processo de resolução   |
 
 <div style="text-align: center">
-<p> Tabela 6: Caso de Uso 5 (Fonte: autor, 2023).</p>
+<p> Tabela 7: Caso de Uso 5 (Fonte: autor, 2023).</p>
 </div>
 
 ### UC06 - Visualizar histórico de consumo de água
@@ -142,7 +157,7 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 |Pós-condições  |       O usuário pode visualizar o seu histórico de consumo de água   |
 
 <div style="text-align: center">
-<p> Tabela 7: Caso de Uso 6 (Fonte: autor, 2023).</p>
+<p> Tabela 8: Caso de Uso 6 (Fonte: autor, 2023).</p>
 </div>
 
 ## Referências
