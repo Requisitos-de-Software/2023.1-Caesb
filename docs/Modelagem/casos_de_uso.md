@@ -53,11 +53,13 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 |Caso de Uso 01 |   Visualizar fatura    |
 |---------------|-------|
-|Descrição      |   O usuário deve ser capaz de visualizar a fatura da sua conta    |
-|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
-|Atores         |   Usuário    |
-|Fluxo          |   1.Acessar visualização de fatura  <br>2. Selecionar forma de pagamento  |
-|Pós-condições  |   O usuário acessou a fatura e realizou o pagamento    |
+|Descrição      |       O usuário deve ser capaz de visualizar a fatura da sua conta    |
+|Atores         |       Usuário    |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta <br>O usuário deve ter um imóvel vinculado ao seu cadastro   |
+|Fluxo Principal|       1. Acessar segunda via da fatura  <br>2. Selecionar imóvel <br>3. Selecionar fatura aberta <br>4. Selecionar forma de pagamento |
+|Fluxos Alternativos|   Não há |
+|Fluxos de exceção|     1. Acessar segunda via da fatura  <br>2. Selecionar imóvel <br>3. Não havendo faturas abertas o sistema apresentará as faturas pagas sem a opção de realizar pagamento |
+|Pós-condições  |       O usuário acessou a fatura e realizou o pagamento    |
 
 <div style="text-align: center">
 <p> Tabela 2: Caso de Uso 1 (Fonte: autor, 2023).</p>
@@ -67,11 +69,13 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 |Caso de Uso 02 |   Visualizar histórico de pagamentos    |
 |---------------|-------|
-|Descrição      |   O usuário deve ser capaz de visualizar seu histórico de pagamentos    |
-|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
-|Atores         |   Usuário    |
-|Fluxo          |   1. Acessar histórico de pagamentos <br>2. Selecionar período do histórico   |
-|Pós-condições  |   O usuário teve acesso ao seu histórico de faturas e observou se existe faturas pendentes    |
+|Descrição      |       O usuário deve ser capaz de visualizar seu histórico de pagamentos    |
+|Atores         |       Usuário    |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta <br>O usuário deve ter um imóvel vinculado ao seu cadastro    |
+|Fluxo Principal|       1. Acessar segunda via da fatura  <br>2. Selecionar imóvel   |
+|Fluxos Alternativos|   Não há |
+|Fluxos de exceção|     O aplicativo mostra somente os períodos que há registro de fatura |
+|Pós-condições  |       O usuário teve acesso ao seu histórico de faturas e observou se existe faturas pendentes    |
 
 <div style="text-align: center">
 <p> Tabela 3: Caso de Uso 2 (Fonte: autor, 2023).</p>
@@ -81,11 +85,13 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 |Caso de Uso 03 |   Informar vazamento    |
 |---------------|-------|
-|Descrição      |   O usuário deve poder relatar um vazamento    |
-|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet    |
-|Atores         |   Usuário / Administrador    |
-|Fluxo          |   1. Acessar aba de denuncia de vazamento <br>2. Selecionar endereço do vazamento    |
-|Pós-condições  |   O usuário informou o vazamento e foi atualizado sobre a ciencia e/ou resolução do vazamento  |
+|Descrição      |       O usuário deve poder relatar um vazamento    |
+|Atores         |       Usuário    |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet    |
+|Fluxo Principal|       1. Acessar aba de denuncia de vazamento <br>2. Selecionar endereço do vazamento  |
+|Fluxos Alternativos|   1. Acessar conta <br>2. Acessar aba de denuncia de vazamento <br>3. Selecionar endereço do vazamento |
+|Fluxos de exceção|     Não há |
+|Pós-condições  |       O usuário informou o vazamento e foi atualizado sobre a ciencia e/ou resolução do vazamento  |
 
 <div style="text-align: center">
 <p> Tabela 4: Caso de Uso 3 (Fonte: autor, 2023).</p>
@@ -95,11 +101,13 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 |Caso de Uso 04 |  Agendar leitura de hidrômetro     |
 |---------------|-------|
-|Descrição      |    O usuário pode agendar uma leitura do hidrômetro   |
-|Pré-condições  |    O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta   |
-|Atores         |   Usuário    |
-|Fluxo          |    1. Acessar aba de agendar leitura do hidrômetro<br>2. Escolher uma data e hora para a leitura do hidrômetro   |
-|Pós-condições  |    O usuário agendou a leitura do hidrômetro pela CAESB e foi notificado sobre a leitura   |
+|Descrição      |       O usuário pode agendar uma leitura do hidrômetro   |
+|Atores         |       Usuário    |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta <br>O usuário deve ter um imóvel vinculado ao seu cadastro   |
+|Fluxo Principal|       1. Acessar aba de agendar leitura do hidrômetro<br>2. Escolher uma data e hora para a leitura do hidrômetro   |
+|Fluxos Alternativos|   Não há |
+|Fluxos de exceção|     O aplicativo não deixa abertura para agendamento anterior a data de solicitação do serviço |
+|Pós-condições  |       O usuário agendou a leitura do hidrômetro pela CAESB e foi notificado sobre a leitura   |
 
 <div style="text-align: center">
 <p> Tabela 5: Caso de Uso 4 (Fonte: autor, 2023).</p>
@@ -107,13 +115,15 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 ### UC05 - Informar falta de água
 
-|Caso de Uso 05 |  Informar falta de água     |
-|---------------|-------|
-|Descrição      |    O usuário pode informar à CAESB sobre a falta de água em sua residência   |
-|Pré-condições  |   O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
-|Atores         |    Usuário   |
-|Fluxo          |    1. Acessar aba de informar falta de água<br>2. Informar o endereço   |
-|Pós-condições  |    O usuário informou a CAESB sobre a falta de água e foi notificado sobre o andamento do processo de resolução   |
+|Caso de Uso 05 |       Informar falta de água     |
+|---------------|----------------------------------|
+|Descrição      |       O usuário pode informar à CAESB sobre a falta de água em sua residência   |
+|Atores         |       Usuário   |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
+|Fluxo Principal|       1. Acessar aba de informar falta de água<br>2. Informar o endereço   |
+|Fluxos Alternativos|   Não há |
+|Fluxos de exceção|     Não há |
+|Pós-condições  |       O usuário informou a CAESB sobre a falta de água e foi notificado sobre o andamento do processo de resolução   |
 
 <div style="text-align: center">
 <p> Tabela 6: Caso de Uso 5 (Fonte: autor, 2023).</p>
@@ -123,11 +133,13 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 
 |Caso de Uso 06 |    Visualizar histórico de consumo de água   |
 |---------------|-------|
-|Descrição      | O usuário pode visualizar o seu histórico de consumo de água |
-|Pré-condições  | O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta  |
-|Atores         |    Usuário   |
-|Fluxo          |    1. Acessar aba de visualizar histórico de consumo de água"<br>2. Selecionar o período desejado   |
-|Pós-condições  |    O usuário pode visualizar o seu histórico de consumo de água   |
+|Descrição      |       O usuário pode visualizar o seu histórico de consumo de água |
+|Atores         |       Usuário   |
+|Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta <br>O usuário deve ter um imóvel vinculado ao seu cadastro  |
+|Fluxo Principal|       1. Acessar aba de visualizar histórico de consumo de água"<br>2. Selecionar o período desejado <br>3. Selecionar número de pessoas residentes na casa   |
+|Fluxos Alternativos|   Não há |
+|Fluxos de exceção|     Ao tentar colocar um número menor que um em "pessoas que moram na residência" o botão de diminuir se torna inativo |
+|Pós-condições  |       O usuário pode visualizar o seu histórico de consumo de água   |
 
 <div style="text-align: center">
 <p> Tabela 7: Caso de Uso 6 (Fonte: autor, 2023).</p>
@@ -143,3 +155,4 @@ Abaixo, representado pelas tabelas 2 à 7, segue as especificações para os pri
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 09/05/2023 | 14/05/2023 |  1.0   | Elaboração do Diagrama de Casos de Uso | [Guilherme](https://github.com/guilhermekishimoto) e [Pedro](https://github.com/pedrobarbosaocb) |  [Paulo](https://github.com/PauloVictorFS) |
+| 14/05/2023 | 15/05/2023 |  1.1   | Correção dos casos de uso de acordo com a revisão | [Pedro](https://github.com/pedrobarbosaocb) |  [Paulo](https://github.com/PauloVictorFS) |
