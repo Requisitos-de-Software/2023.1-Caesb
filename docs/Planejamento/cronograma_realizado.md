@@ -34,6 +34,20 @@
 | Gravação                  | Teams | 01/05                      | Paulo               | Todos         | 01/05              | Carla           |
 | Edição do vídeo           | -     | 01/05                      | Carla               | -             | 01/05              | Caetano         |
 
+## Entrega 3 
+
+<h4>Modelagem</h4>
+
+| Atividade                 | Local | Período de desenvolvimento | Responsáveis        | Participantes | Período de revisão | Revisores      |
+|---------------------------|-------|----------------------------|---------------------|---------------|--------------------|----------------|
+| Correções da entrega 2    | Teams | 01/05 - 02/05              | Todos               | Todos         | 03/05              | Carla e Raquel |
+| Cenários                  | Teams | 01/05 - 12/05              | Paulo               | -             | 13/05              | Daniel         |
+| Léxicos                   | Teams | 01/05 - 12/05              | Raquel              | -             | 13/05              | Caetano        |
+| Casos de uso              | Teams | 01/05 - 15/05              | Guilherme e Pedro   | -             | 16/05              | Paulo          |
+| Especificação suplementar | Teams | 01/05 - 12/05              | Caetano e Daniel    | -             | 13/05              | Pedro          |
+| Gravação                  | Teams | 14/05                      | Raquel              | Todos         | 14/05              | Guilherme      |
+| Edição de vídeo           | Teams | 15/05 - 16/05              | Guilherme           | -             | 16/05              | Daniel         |
+
 
 <p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
 
