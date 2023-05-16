@@ -16,18 +16,16 @@ Passo a passo para a formulação dos casos de uso.
 8. Repita os passos 2 e 7 para todos os outros usuários.
 
 ## Diagrama UML de Casos de Uso
-O diagrama de Casos de Uso, tem como intuito o que o sistema faz pela visão do usuário. Por meio da Figura 1, podemos observar o diagrama de casos de uso do aplicativo da CAESB.
+O diagrama de Casos de Uso, representa os caminhos de utilização do e resposta do sistema, com relação a visão do usuário. Por meio da Figura 1, podemos observar o diagrama de casos de uso do aplicativo da CAESB.
 
 <center>
 ![Diagrama de Casos de Uso](../assets/imagens/casos-de-uso/Casos%20de%20Uso%20UML.png)
 </center>
 
 
-<div style="text-align: center">
-<p> Figura 1: Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Figura 1: Diagrama de Casos de Uso (Fonte: autores, 2023).</p>
 
-## Legendas e elementos dos Casos de Uso
+## Legendas e elementos do Diagrama de Casos de Uso
 
 Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elementos presentes no diagrama de casos de uso.
 
@@ -42,9 +40,7 @@ Nessa seção, a Tabela 1 tem como objetivo auxiliar o entendimento dos elemento
 
 </center>
 
-<div style="text-align: center">
-<p> Tabela 1: Legenda Diagrama de Casos de Uso (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 1: Legenda Diagrama de Casos de Uso (Fonte: autores, 2023).</p>
 
 ## Especificação de Casos de Uso
 Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os principais casos de uso do diagrama de casos de uso. Para melhor entendimento, a tabela 2 detalha cada seção dos casos de uso.
@@ -59,9 +55,7 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     Caminhos que levam ao impedimento pelo sistema da realização da tarefa |
 |Pós-condições  |       Resultado ao se realizar a tarefa    |
 
-<div style="text-align: center">
-<p> Tabela 2: Detalhamento dos casos de uso (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 2: Detalhamento dos casos de uso (Fonte: autores, 2023).</p>
 
 
 ### UC01 - Visualizar fatura
@@ -76,9 +70,7 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     1. Acessar segunda via da fatura  <br>2. Selecionar imóvel <br>3. Não havendo faturas abertas o sistema apresentará as faturas pagas sem a opção de realizar pagamento |
 |Pós-condições  |       O usuário acessou a fatura e realizou o pagamento    |
 
-<div style="text-align: center">
-<p> Tabela 3: Caso de Uso 1 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 3: Caso de Uso 1 (Fonte: autores, 2023).</p>
 
 ### UC02 - Visualizar histórico de pagamentos
 
@@ -92,9 +84,7 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     O aplicativo mostra somente os períodos que há registro de fatura |
 |Pós-condições  |       O usuário teve acesso ao seu histórico de faturas e observou se existe faturas pendentes    |
 
-<div style="text-align: center">
-<p> Tabela 4: Caso de Uso 2 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 4: Caso de Uso 2 (Fonte: autores, 2023).</p>
 
 ### UC03 - Informar vazamento
 
@@ -108,9 +98,7 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     Não há |
 |Pós-condições  |       O usuário informou o vazamento e foi atualizado sobre a ciencia e/ou resolução do vazamento  |
 
-<div style="text-align: center">
-<p> Tabela 4: Caso de Uso 3 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 5: Caso de Uso 3 (Fonte: autores, 2023).</p>
 
 ### UC04 - Agendar leitura de hidrômetro
 
@@ -124,9 +112,7 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     O aplicativo não deixa abertura para agendamento anterior a data de solicitação do serviço |
 |Pós-condições  |       O usuário agendou a leitura do hidrômetro pela CAESB e foi notificado sobre a leitura   |
 
-<div style="text-align: center">
-<p> Tabela 6: Caso de Uso 4 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 6: Caso de Uso 4 (Fonte: autores, 2023).</p>
 
 ### UC05 - Informar falta de água
 
@@ -136,13 +122,11 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Atores         |       Usuário   |
 |Pré-condições  |       O aplicativo deve estar instalado <br>Deve haver conexão com a internet <br>O usuário deve estar logado em sua conta    |
 |Fluxo Principal|       1. Acessar aba de informar falta de água<br>2. Informar o endereço   |
-|Fluxos Alternativos|   Não há |
+|Fluxos Alternativos|   1. Acessar conta <br>2. Acessar aba de informar falta de água <br>3. Selecionar endereço da falta de água |
 |Fluxos de exceção|     Não há |
 |Pós-condições  |       O usuário informou a CAESB sobre a falta de água e foi notificado sobre o andamento do processo de resolução   |
 
-<div style="text-align: center">
-<p> Tabela 7: Caso de Uso 5 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 7: Caso de Uso 5 (Fonte: autores, 2023).</p>
 
 ### UC06 - Visualizar histórico de consumo de água
 
@@ -156,9 +140,19 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 |Fluxos de exceção|     Ao tentar colocar um número menor que um em "pessoas que moram na residência" o botão de diminuir se torna inativo |
 |Pós-condições  |       O usuário pode visualizar o seu histórico de consumo de água   |
 
-<div style="text-align: center">
-<p> Tabela 8: Caso de Uso 6 (Fonte: autor, 2023).</p>
-</div>
+<p style="text-align: center"> Tabela 8: Caso de Uso 6 (Fonte: autores, 2023).</p>
+
+
+## Validação do Diagrama de Casos de Uso
+Um dos pontos essenciais para a Engenharia de Requisitos é a validação dos artefatos com o cliente, na qual tem como intuito entender se o que está sendo produzido está de acordo com o que é esperado pelo cliente. Com isso, os casos de uso presentes neste artefato foram elaborados e validados a partir da interpretação de duas personas, presentes na Tabela 9.
+
+
+|Nome	|Idade	|Ocupação	|Cidade/Estado |
+|--	|--	|--	|--	|
+|Ana Paula Silva	|30	| Estudante e Estagiária |Distrito Federal, Brasília |
+|Guilherme Silva Andrade |25 | Estudante e Atendente da loja de chinelos	|Distrito Federal, Brasília |
+
+<p style="text-align: center"> Tabela 9: Personas para os casos de uso. (Fonte: <a href="../../Elicitacao/personas/#montagem-das-personas">Montagem das Personas</a>, 2023)</p>
 
 ## Referências
 > O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. Disponível em [link](https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408).
@@ -170,4 +164,4 @@ Abaixo, representado pelas tabelas 3 à 8, segue as especificações para os pri
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 09/05/2023 | 14/05/2023 |  1.0   | Elaboração do Diagrama de Casos de Uso | [Guilherme](https://github.com/guilhermekishimoto) e [Pedro](https://github.com/pedrobarbosaocb) |  [Paulo](https://github.com/PauloVictorFS) |
-| 14/05/2023 | 15/05/2023 |  1.1   | Correção dos casos de uso de acordo com a revisão | [Pedro](https://github.com/pedrobarbosaocb) |  [Paulo](https://github.com/PauloVictorFS) |
+| 14/05/2023 | 15/05/2023 |  1.1   | Correção dos casos de uso de acordo com a revisão | [Guilherme](https://github.com/guilhermekishimoto) e [Pedro](https://github.com/pedrobarbosaocb) |  [Paulo](https://github.com/PauloVictorFS) |
