@@ -12,7 +12,7 @@ Observação: Todas as abreviações são explicadas na tabela 2.
 
 <center>
 
-|Silga|Significado|
+|Sigla|Significado|
 |:---:|:-----------:|
 |F|Functionality (Funcionalidades)|
 |U|Usability (Usabilidade)|
@@ -22,8 +22,10 @@ Observação: Todas as abreviações são explicadas na tabela 2.
 |+|Outra Categoria|
 
 </center>
-<p align="center">Tabela 1 - Significado FURPS+.(Fonte: Autores)</p>
+<p align="center">Tabela 1 - Significado FURPS+. (Fonte: Autor, 2023)</p>
 
+<br>
+<br>
 <center>
 
 |Abreviação|Significado|
@@ -33,13 +35,24 @@ Observação: Todas as abreviações são explicadas na tabela 2.
 |ID|Identificador dentro da Categoria|
 
 </center>
-<p align="center">Tabela 2 - Legenda.(Fonte: Autores)</p>
+<p align="center">Tabela 2 - Legenda. (Fonte: Autor, 2023)</p>
+
+## Escorpo
+
+Para essa especificação suplementar compreende, como foco da análise, o uso referente ao aplicativo para Android da empresa CAESB e suas interações, comunicações e registro de dados.
 
 ## Funcionalidades
 Faz referência aos requisitos funcionais, ou seja, relacionados com as funcionalidades do aplicativo, que são capacidade do mesmo realizar as tarefas necessárias. Eles foram levantados na elicitação de requisitos e podem ser vistos todos os elicitados como sua prioridade na parte de [priorização de requisitos](../Elicitacao/priorizacao-FTF.md) e na especificação de [casos de uso](casos_de_uso.md).
 
 ## Usabilidade
-Faz referência requisitos relacionados à facilidade de uso do sistema pelos usuários, o que inclui aspectos de interface como também metas de usabilidade, como as propostas por Nielsen, o que incluí questões como eficiência de uso, acessibilidade, entre outros. Tendo isso mente, dos requisitos elicitados, a tabela 3 mostram os de Usabilidade:
+Faz referência requisitos relacionados à facilidade de uso do sistema pelos usuários, o que inclui aspectos de interface como também metas de usabilidade, como as propostas por Nielsen, o que incluí questões como eficiência de uso, acessibilidade, entre outros. Para atender esse ponto foi identificado que o aplicativo deve atender os seguintes requisitos:
+
+* A interface do usuário deve ser intuitiva e de fácil navegação, considerando o perfil diversificado dos usuários.
+* O aplicativo deve fornecer feedback claro e mensagens de erro compreensíveis em caso de problemas.
+* O tempo médio de treinamento para que usuários normais se tornem produtivos em operações básicas do aplicativo não deve exceder 1 hora.
+* O tempo médio para que um usuário solicite a segunda via de uma fatura através do aplicativo deve ser menor que 2 minutos.
+
+Dentro desse Tópico, dos requisitos elicitados, a tabela 3 mostram os de Usabilidade:
 
 <center>
 
@@ -49,10 +62,17 @@ Faz referência requisitos relacionados à facilidade de uso do sistema pelos us
 |Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3.|ST08|U2|
 
 </center>
-<p align="center">Tabela 3 - Requisitos de Usabilidade. (Fonte: Autores)</p>
+<p align="center">Tabela 3 - Requisitos de Usabilidade. (Fonte: Autor, 2023)</p>
 
 ## Confiabilidade
-Faz referência requisitos relacionados a confiabilidade do aplicativo, ou seja, sua capacidade de funcionar corretamente em diferentes condições, como também como que ele responde a falhas, tanto no quesito de evitar falhas como no de correção de falhas. Tendo isso mente, dos requisitos elicitados, a tabela 4 mostram os de Confiabilidade:
+Faz referência requisitos relacionados a confiabilidade do aplicativo, ou seja, sua capacidade de funcionar corretamente em diferentes condições, como também como que ele responde a falhas, tanto no quesito de evitar falhas como no de correção de falhas. Para atender esse ponto foi identificado que o aplicativo deve atender os seguintes requisitos:
+
+* O aplicativo deve ter uma disponibilidade mínima de 99% durante o horário comercial (das 8h às 18h) para garantir que os usuários possam acessá-lo na maioria das horas de utilização.
+* O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 500 horas, o que significa que o sistema deve operar continuamente, em média, por pelo menos 170 horas antes de ocorrer uma falha.
+* O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser de 4 horas, ou seja, o sistema deve ser restaurado dentro desse período após uma falha.
+* A precisão das informações exibidas nas faturas dos usuários deve ter uma resolução mínima de 2 casas decimais e estar de acordo com as normas contábeis.
+
+Dentro desse Tópico, dos requisitos elicitados, a tabela 4 mostram os de Confiabilidade:
 
 <center>
 
@@ -63,10 +83,18 @@ Faz referência requisitos relacionados a confiabilidade do aplicativo, ou seja,
 |O aplicativo deve ter um procedimento de manutenção que permita que o tempo de inatividade seja limitado a no máximo 10 horas por mês.|INT13|C3|
 
 </center>
-<p align="center">Tabela 4 - Requisitos de Confiabilidade. (Fonte: Autores)</p>
+<p align="center">Tabela 4 - Requisitos de Confiabilidade. (Fonte: Autor, 2023)</p>
 
 ## Desempenho
-Faz referência requisitos relacionados ao desempenho do aplicativo, como o tempo de resposta, tempo de processamento, capacidade de processamento, sua estabilidade e eficiência. Tendo isso mente, dos requisitos elicitados, a tabela 5 mostram os de Desempenho:
+Faz referência requisitos relacionados ao desempenho do aplicativo, como o tempo de resposta, tempo de processamento, capacidade de processamento, sua estabilidade e eficiência. Para atender esse ponto foi identificado que o aplicativo deve atender os seguintes requisitos:
+
+* O tempo médio de resposta para o processamento de uma transação no aplicativo não deve exceder 3 segundos.
+* O aplicativo deve suportar uma taxa mínima de processamento de 100 transações por segundo para atender à demanda dos usuários.
+* O sistema deve ser capaz de acomodar simultaneamente pelo menos 150.000 usuários conectados ao mesmo tempo, garantindo assim uma capacidade adequada.
+* Quando houver uma queda na conexão de internet do usuário, o aplicativo deve ser capaz de fornecer um modo de degradação, permitindo a execução de funções básicas offline, como visualização de faturas anteriores.
+* O aplicativo deve ser otimizado para minimizar o consumo de memória, garantindo um uso eficiente dos recursos do dispositivo do usuário.
+
+Dentro desse Tópico, dos requisitos elicitados, a tabela 5 mostram os de Desempenho:
 
 <center>
 
@@ -77,10 +105,16 @@ Faz referência requisitos relacionados ao desempenho do aplicativo, como o temp
 
 
 </center>
-<p align="center">Tabela 5 - Requisitos de Desempenho. (Fonte: Autores)</p>
+<p align="center">Tabela 5 - Requisitos de Desempenho. (Fonte: Autor, 2023)</p>
 
 ## Suportabilidade
-Faz referência requisitos relacionados a facilidade de manutenção e suporte do aplicativo ao longo do tempo, o que inclui aspectos como facilidade de instalação, configuração e manutenção, uma documentação adequada, treinamento de usuários e um suporte técnico. Tendo isso mente, dos requisitos elicitados, a tabela 6 mostram os de Suportabilidade:
+Faz referência requisitos relacionados a facilidade de manutenção e suporte do aplicativo ao longo do tempo, o que inclui aspectos como facilidade de instalação, configuração e manutenção, uma documentação adequada, treinamento de usuários e um suporte técnico. 
+
+* O código do aplicativo deve ser desenvolvido de acordo com as diretrizes do padrão de codificação definido pela equipe de desenvolvimento da CAESB.
+* O aplicativo deve estar disponível para o Android na versão 5.0
+* O aplicativo deve estar disponível para o IOS na versão 12.0
+
+Dentro desse Tópico, dos requisitos elicitados, a tabela 6 mostram os de Suportabilidade:
 
 <center>
 
@@ -91,7 +125,7 @@ Faz referência requisitos relacionados a facilidade de manutenção e suporte d
 
 
 </center>
-<p align="center">Tabela 6 - Requisitos de Suportabilidade. (Fonte: Autores)</p>
+<p align="center">Tabela 6 - Requisitos de Suportabilidade. (Fonte: Autor, 2023)</p>
 
 ## Outra Categoria
 O + do FURPS+ indica que outras categorias podem ser adicionadas para complementar as categorias dos requisitos, tendo isso em mente, na elicitação de requisitos se teve 2 que entraram em outra categoria, sendo elas:
@@ -107,7 +141,7 @@ Faz referência a requisitos que estão relacionados com a proteção do usuári
 
 
 </center>
-<p align="center">Tabela 7 - Requisitos de Segurança. (Fonte: Autores)</p>
+<p align="center">Tabela 7 - Requisitos de Segurança. (Fonte: Autor, 2023)</p>
 
 ### Acessibilidade 
 Faz referência a requisitos que estão relacionados com o quão acessível é o aplicativo, ou seja, quantos tipos de usuários diferentes ele tem suporte, e se esses usuários com características específicas conseguem não apenas acessar o aplicativo, mas o utilizar normalmente. Tendo isso mente, dos requisitos elicitados, a tabela 8 mostram os de Acessibilidade:
@@ -120,9 +154,12 @@ Faz referência a requisitos que estão relacionados com o quão acessível é o
 
 
 </center>
-<p align="center">Tabela 8 - Requisitos de Acessibilidade. (Fonte: Autores)</p>
+<p align="center">Tabela 8 - Requisitos de Acessibilidade. (Fonte: Autor, 2023)</p>
 
-## Referências
+## Bibliografia
+> SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor
+
+> GOIAS, Rocha; SOBRINHO, Francisco - PHP Software Company - Projeto de Software Floricultura Beija-Flor Especificação Suplementar - Versão 101.6
 
 ## Histórico de Versão
 
