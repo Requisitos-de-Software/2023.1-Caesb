@@ -1,1 +1,172 @@
 # Léxicos
+
+# Introdução
+
+A técnica de léxico consiste em descrever os símbolos e termos específicos de uma linguagem ou domínio de aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma noção (significado/conceito) e um impacto (efeito na aplicação). A descrição segue os princípios da circularidade e do vocabulário mínimo, estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas.
+
+# Metodologia
+
+Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e priorizados, e pelo uso do aplicativo. Seguindo o princípio do vocabulário mínimo, os léxicos serão apresentados de acordo com o exemplo da tabela 1.
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Nome do léxico | Sinônimos do léxico no contexto | Noções do léxico | Impacto do léxico na aplicação | Classificação do léxico (estado, objeto ou verbo) |
+
+<p align="center">Tabela 1: Léxico 01 (Fonte: Autores, 2023)</p>
+
+# Léxicos
+
+### L01
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Fatura  | Conta | Documento com as informações do serviço da Caesb e solicitação de pagamento | O usuário tem acesso ao documento digital | Objeto |
+<p align="center">Tabela 2: Léxico 01 (Fonte: Autores, 2023)</p>
+
+
+### L02
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Consultar  | Acessar | O que o usuário precisa fazer para ter a fatura, análise de consumo, etc. | Ter acesso as funcionalidades do aplicativo | Verbo |
+<p align="center">Tabela 3: Léxico 02 (Fonte: Autores, 2023)</p>
+
+### L03
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Acessibilidade | Inclusão | Forma que as informções do aplicativo são disponibilizadas | Permite o uso de todos os usuários | Estado |
+<p align="center">Tabela 4: Léxico 03 (Fonte: Autores, 2023)</p>
+
+### L04
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Solicitar serviço  | Demandar | Fazer um chamado a Caesb de determinado serviço | Permite a agilidade para demandar um serviço | Verbo |
+<p align="center">Tabela 5: Léxico 04 (Fonte: Autores, 2023)</p>
+
+### L05
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Cadastro | Dados pessoais | Dados dos usuários para permitir o acesso as funcionalidades e poder víncular e alterar o vínculo a uma residênncia | Permite a agilidade no processo de verificação e portabilidade de conta | Estado |
+<p align="center">Tabela 6: Léxico 05 (Fonte: Autores, 2023)</p>
+
+### L06
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Informar | Relatar | Informar pelo aplicativo vazamentos | Permite a agilidade no processo | Verbo |
+<p align="center">Tabela 7: Léxico 06 (Fonte: Autores, 2023)</p>
+
+### L07
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Notificar | Avisar | Alertas que o usuário recebe com base em determinados gatilhos no sistema | Sistema mais interativo | Verbo |
+<p align="center">Tabela 8: Léxico 07 (Fonte: Autores, 2023)</p>
+
+
+### L08
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Segurança | Confiança | Proteção dos dados do usuário | Garante que os dados não serão vazados, ou interceptados. Gera confiança ao usuário. | Estado |
+<p align="center">Tabela 9: Léxico 08 (Fonte: Autores, 2023)</p>
+
+
+### L09
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Pagar | Debitar | Pagar diretamente pelo aplicativo a conta, ai inves de apenas acessar a conta | Permite a agilidade no processo | Verbo |
+<p align="center">Tabela 10: Léxico 09 (Fonte: Autores, 2023)</p>
+
+
+### L10
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Consumo | Gastos | Maior detalhe do consumo dos meses | Permite que o usuário visualize melhor e análise seu consumo | Objeto |
+<p align="center">Tabela 11: Léxico 10 (Fonte: Autores, 2023)</p>
+
+
+### L11
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Pagamento | Opções de pagamento | Formas de pagamento diversificadas | Permite a escolha da melhor forma de pagamento pelo usuário | Objetos |
+<p align="center">Tabela 12: Léxico 11 (Fonte: Autores, 2023)</p>
+
+
+### L12
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Compreensão | Objetividade | App direto sobre a informação | Faciliade no uso | Estado |
+<p align="center">Tabela 13: Léxico 12 (Fonte: Autores, 2023)</p>
+### L13
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Desempenho | Velocidade | Rapidez na navegação do App | Agilidade na hora de acessar uma tarefa e satisfação | Estado |
+<p align="centerTabela 14: Léxico 13 (Fonte: Autores, 2023)p>
+### L14
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Disponibilidade | Prontidão | Sistema se mantém mesmo em horários críticos (dias da semana e final de mês) | Agilidade nos processos e satisfação | Estado |
+
+<p align="center">Tabela 15: Léxico 14 (Fonte: Autores, 2023)</p>
+
+
+### L15
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Contar Suporte | Contar  Assistência técnica | Pedir ajuda via suporte no aplicativo | Receber auxílio no uso do app | Verbo |
+<p align="center">Tabela 16: Léxico 15 (Fonte: Autores, 2023)</p>
+
+
+### L16
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Mutiplataforma | Adaptável | Compatibilidade com diversos dispositivos e plataformas | Melhor usabilidade em diferentes dispositivos | Estado |
+<p align="center">Tabela 17: Léxico 16 (Fonte: Autores, 2023)</p>
+
+
+### L17
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Editar dados | Alterar | Alterar a titulatidade das casas associadas e dados do perfil | Permite a alteração de residência e perfil de forma menos burocrática | Verbo |
+<p align="center">Tabela 18: Léxico 17 (Fonte: Autores, 2023)</p>
+
+
+### L18
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Idioma | Língua | Opções de diferentes idiomas | Acessével a estrangeiros  | Estado |
+<p align="center">Tabela 19: Léxico 18 (Fonte: Autores, 2023)</p>
+
+
+### L19
+
+| Léxico | Sinônimos | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Alterar Idioma | Alterar Língua | Permite a troca de idioma no site | Torna acessível a estrangeiros  | Estado |
+
+<p align="center">Tabela 20: Léxico 19 (Fonte: Autores, 2023)</p>
+
+
+# Bibliografia
+
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário*. Autopublicação. ISBN: 978-65-00-19677-1.
+
+## **Histórico de versões**
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+|-----|------|-----|-----|-----|-----|
+| 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)   |
