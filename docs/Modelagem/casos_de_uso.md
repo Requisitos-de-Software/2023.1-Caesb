@@ -15,6 +15,9 @@ Passo a passo para a formulação dos casos de uso.
 7. Procure e retire os casos de usos que realizam funções comuns;
 8. Repita os passos 2 e 7 para todos os outros usuários.
 
+## Motivação
+A utilização de casos de uso em um projeto é de extrema importância devido ao seu papel crucial na compreensão dos requisitos do sistema. Por meio dos casos de uso, é possível identificar as funcionalidades essenciais e as interações entre os atores e o sistema de forma clara e concisa. Assim, a elaboração de um artefato de casos de uso se torna fundamental para capturar, comunicar, validar e orientar os requisitos de software de maneira eficiente e eficaz.
+
 ## Diagrama UML de Casos de Uso
 O diagrama de Casos de Uso, representa os caminhos de utilização do e resposta do sistema, com relação a visão do usuário. Por meio da Figura 1, podemos observar o diagrama de casos de uso do aplicativo da CAESB.
 
