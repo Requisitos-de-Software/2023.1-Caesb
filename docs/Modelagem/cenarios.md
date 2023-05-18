@@ -13,7 +13,16 @@ soluções de design e avaliar se um produto satisfaz a necessidade dos seus usu
 Levando em consideração os fatos supracitados, pode-se compreender que cenários são uma estratégia viável e efetiva de simular o comportamento de um software. Devido a isso, o grupo escolheu realizar 6 cenários para auxiliar o desenvolvimento dos próximos artefatos da disciplina.
 
 ## Modelo de Cenário
-Além disso, também de acordo com o livro da Simone, é apresentado os modelos de cenário, que envolvem contexto, atores, objetivos, planejamento, ações, eventos e avaliação. Dessa forma, no contexto de uma situação ou problema, é fundamental compreender o ambiente e as circunstâncias em que ele ocorre. Os atores envolvidos, como indivíduos, organizações ou grupos, desempenham papéis importantes e têm interesses diversos nessa situação. O objetivo estabelece o resultado desejado que se busca alcançar. O planejamento é essencial para definir metas, estratégias e um roteiro para atingir essas metas. As ações, por sua vez, são as atividades concretas realizadas para alcançar os objetivos estabelecidos. Os eventos, como reuniões e conferências, fornecem oportunidades para interações e compartilhamento de conhecimentos. Por fim, a avaliação é realizada para analisar se os objetivos foram alcançados, avaliar a eficácia das ações e identificar áreas de melhoria. Esses aspectos do cenário são essenciais para uma compreensão completa e uma abordagem estratégica em relação a um problema ou situação específica. Sendo assim, na tabela 1 abaixo é apresentado de forma mais resumida o modelo de cenário apresentado pelo grupo
+Além disso, também de acordo com o livro da Simone, é apresentado os modelos de cenário, que envolvem contexto, atores, objetivos, planejamento, ações, eventos e avaliação. Dessa forma:
+- no contexto de uma situação ou problema, é fundamental compreender o ambiente e as circunstâncias em que ele ocorre. 
+- Os atores envolvidos, como indivíduos, organizações ou grupos, desempenham papéis importantes e têm interesses diversos nessa situação.
+- O objetivo estabelece o resultado desejado que se busca alcançar. 
+- O planejamento é essencial para definir metas, estratégias e um roteiro para atingir essas metas.
+- As ações, por sua vez, são as atividades concretas realizadas para alcançar os objetivos estabelecidos.
+- Os eventos, como reuniões e conferências, fornecem oportunidades para interações e compartilhamento de conhecimentos.
+- Por fim, a avaliação é realizada para analisar se os objetivos foram alcançados, avaliar a eficácia das ações e identificar áreas de melhoria.
+
+Esses aspectos do cenário são essenciais para uma compreensão completa e uma abordagem estratégica em relação a um problema ou situação específica. Sendo assim, na tabela 1 abaixo é apresentado de forma mais resumida o modelo de cenário apresentado pelo grupo
  
  
 
