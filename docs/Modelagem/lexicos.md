@@ -2,11 +2,12 @@
 
 ## Introdução
 
-A técnica de léxico consiste em descrever os símbolos e termos específicos de uma linguagem ou domínio de aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma noção (significado/conceito) e um impacto (efeito na aplicação). A descrição segue os princípios da circularidade e do vocabulário mínimo, estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas.
+A técnica de léxico consiste em descrever os símbolos e termos específicos de uma aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma **noção** (significado/conceito) e um **impacto** (efeito na aplicação). A descrição segue os princípios da circularidade e do **vocabulário mínimo**, estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas.
 
 ## Metodologia
+A construção de todos os léxicos seguirá o exemplo a seguir, conforme a tabela 1.
 
-Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e priorizados, e pelo uso do aplicativo. Seguindo o princípio do vocabulário mínimo, os léxicos serão apresentados de acordo com o exemplo da tabela 1.
+**L0X** _(número do léxico)_
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -15,6 +16,7 @@ Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e pri
 <p align="center">Tabela 1: Exemplo de léxico (Fonte: Autor, 2023)</p>
 
 ## Léxicos
+Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, priorizados, e pelo uso do aplicativo. E são os seguintes:
 
 **L01**
 
@@ -49,7 +51,7 @@ Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e pri
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
-| Cadastro | Dados pessoais | Dados dos usuários para permitir o acesso as funcionalidades e poder víncular e alterar o vínculo a uma residênncia | Permite a agilidade no processo de verificação e portabilidade de conta | Estado |
+| Cadastro | Dados pessoais | Dados dos usuários e residência | Permite associar um usuário a uma ou mais residências com contas | Estado |
 <p align="center">Tabela 6: Léxico 05 (Fonte: Autor, 2023)</p>
 
 **L06**
@@ -125,7 +127,7 @@ Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e pri
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
-| Contar Suporte | Contar  Assistência técnica | Pedir ajuda via suporte no aplicativo | Receber auxílio no uso do app | Verbo |
+| Contatar Suporte | Contatar  Assistência técnica | Pedir ajuda via suporte no aplicativo | Receber auxílio no uso do app | Verbo |
 <p align="center">Tabela 16: Léxico 15 (Fonte: Autor, 2023)</p>
 
 
@@ -171,4 +173,4 @@ Os léxicos da Cesb foram identificados a partir dos requisitos elicitados e pri
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 |-----|------|-----|-----|-----|-----|
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)   |
-| 17/05/2023 |        17/05/2023        |  1.0   | Ajuste do style | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
+| 17/05/2023 |        18/05/2023        |  2.0   | Ajuste do style | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
