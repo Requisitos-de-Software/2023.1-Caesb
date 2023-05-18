@@ -14,6 +14,7 @@ Levando em consideração os fatos supracitados, pode-se compreender que cenári
 
 ## Modelo de Cenário
 Além disso, também de acordo com o livro da Simone, é apresentado os modelos de cenário, que envolvem contexto, atores, objetivos, planejamento, ações, eventos e avaliação. Dessa forma:
+
 - no contexto de uma situação ou problema, é fundamental compreender o ambiente e as circunstâncias em que ele ocorre. 
 - Os atores envolvidos, como indivíduos, organizações ou grupos, desempenham papéis importantes e têm interesses diversos nessa situação.
 - O objetivo estabelece o resultado desejado que se busca alcançar. 
