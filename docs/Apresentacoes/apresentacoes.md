@@ -20,7 +20,7 @@ Durante o desenvolvimento da disciplina, ocorrerão entregas com seus respectivo
 | 01/05/2023 |        01/05/2023        |  2.0   | Gravação do vídeo |Todos | [Carla](https://github.com/ccarlaa) |
 | 01/05/2023 |        01/05/2023        |  2.0   | Edição do Vídeo |[Carla](https://github.com/ccarlaa)  | [Pedro](https://github.com/pedrobarbosaocb) |
 | 01/05/2023 |        01/05/2023        |  2.0   | Atualização do documento |[Carla](https://github.com/ccarlaa) | [Daniel](https://github.com/daniel-de-sousa) |
-| 01/05/2023 |        01/05/2023        |  3.0   | Atualização do documento |[Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
+| 17/05/2023 |        17/05/2023        |  3.0   | Atualização do documento |[Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
 
 
 
