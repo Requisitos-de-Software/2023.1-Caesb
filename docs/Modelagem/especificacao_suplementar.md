@@ -37,7 +37,7 @@ Observação: Todas as abreviações são explicadas na tabela 2.
 </center>
 <p align="center">Tabela 2 - Legenda. (Fonte: Autor, 2023)</p>
 
-## Escorpo
+## Escopo
 
 Para essa especificação suplementar compreende, como foco da análise, o uso referente ao aplicativo para Android da empresa CAESB e suas interações, comunicações e registro de dados.
 
@@ -68,7 +68,7 @@ Dentro desse Tópico, dos requisitos elicitados, a tabela 3 mostram os de Usabil
 Faz referência requisitos relacionados a confiabilidade do aplicativo, ou seja, sua capacidade de funcionar corretamente em diferentes condições, como também como que ele responde a falhas, tanto no quesito de evitar falhas como no de correção de falhas. Para atender esse ponto foi identificado que o aplicativo deve atender os seguintes requisitos:
 
 * O aplicativo deve ter uma disponibilidade mínima de 99% durante o horário comercial (das 8h às 18h) para garantir que os usuários possam acessá-lo na maioria das horas de utilização.
-* O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 500 horas, o que significa que o sistema deve operar continuamente, em média, por pelo menos 170 horas antes de ocorrer uma falha.
+* O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 170 horas, o que significa que o sistema deve operar continuamente, em média, por pelo menos 170 horas antes de ocorrer uma falha.
 * O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser de 4 horas, ou seja, o sistema deve ser restaurado dentro desse período após uma falha.
 * A precisão das informações exibidas nas faturas dos usuários deve ter uma resolução mínima de 2 casas decimais e estar de acordo com as normas contábeis.
 
