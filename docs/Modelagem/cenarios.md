@@ -3,6 +3,7 @@
 
 De acordo com o livro Interação Humano-Computador,  Simone Diniz Junqueiro Barbosa apresenta que  Cenários são narrativas textuais ou pictóricas, concretas, rica em detalhes contextuais, de uma situação de uso da aplicação envolvendo usuários, processos e dados reais ou potenciais. Os cenários podem ser utilizados
 em diversas etapas do processo, com diferentes objetivos, como:
+
 - Descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento
 da atividade
 - Levantar questões sobre a introdução de tecnologia
