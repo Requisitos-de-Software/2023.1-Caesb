@@ -229,3 +229,4 @@ Os léxicos da Caesb foram listas abaixo e descritos por ordem de relevância na
 |-----|------|-----|-----|-----|-----|
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)   |
 | 17/05/2023 |        18/05/2023        |  2.0   | Ajuste do style | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
+| 18/05/2023 |        19/05/2023        |  3.0   | Melhorias após a Entrega 3 | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
