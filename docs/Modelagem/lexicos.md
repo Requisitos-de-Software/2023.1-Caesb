@@ -4,7 +4,7 @@
 
 A técnica de léxico consiste em descrever os símbolos e termos específicos de uma aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma **noção** (significado/conceito) e um **impacto** (efeito na aplicação).
 ## Metodologia
-Os léxicos foram identificados a partir dos requisitos [elicitados](), [priorizados](), e pelo uso do aplicativo.E a sua descrição segue o **vocabulário mínimo** estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
+Os léxicos foram identificados a partir dos requisitos elicitados e [priorizados](../Elicitacao/priorizacao-FTF.md), além do uso da aplicação.E a sua descrição segue o **vocabulário mínimo** estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
 
 Além disso, damos um **sinônimo** para os léxicos, auxiliando no entendimento e evitando ambiguidade. É importante, também, classificar o léxico em **estado, objeto ou modelo**, respectivamente um seria uma condição/forma da aplicação, o outro uma informação e o último uma ação que o software realizará, provavelmente sobre determinado objeto.
 
@@ -19,6 +19,7 @@ Dessa forma, a construção de todos os léxicos seguirá a estrutura apresentad
 <p align="center">Tabela 1: Exemplo de léxico (Fonte: Autor, 2023)</p>
 
 ## Léxicos
+Os léxicos da Caesb foram listas abaixo e descritos por ordem de relevância nas Tabela 2 a 20.
 <style>
   .etiqueta-container {
     /* display: flex;
