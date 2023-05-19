@@ -18,7 +18,58 @@ A construção de todos os léxicos seguirá o exemplo a seguir, conforme a tabe
 ## Léxicos
 Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, priorizados, e pelo uso do aplicativo. E são os seguintes:
 
-**L01**
+
+<style>
+  .etiqueta-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .etiqueta {
+    background-color: white;
+    border: 2px solid rgba(0, 0, 255, 0.8);
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 6px;
+    width: 124px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  
+  .etiqueta a {
+    color: blue;
+    text-decoration: none;
+  }
+</style>
+
+<div class="etiqueta-container">
+  <div class="etiqueta"><a href="#L03">Acessibilidade</a></div>
+  <div class="etiqueta"><a href="#L19">Alterar Idioma</a></div>
+  <div class="etiqueta"><a href="#L05">Cadastro</a></div>
+  <div class="etiqueta"><a href="#L12">Compreensão</a></div>
+  <div class="etiqueta"><a href="#L10">Consumo</a></div>
+  <div class="etiqueta"><a href="#L15">Contatar Suporte</a></div>
+  <div class="etiqueta"><a href="#L02">Consultar</a></div>
+  <div class="etiqueta"><a href="#L13">Desempenho</a></div>
+  <div class="etiqueta"><a href="#L14">Disponibilidade</a></div>
+  <div class="etiqueta"><a href="#L17">Editar dados</a></div>
+  <div class="etiqueta"><a href="#L01">Fatura</a></div>
+  <div class="etiqueta"><a href="#L18">Idioma</a></div>
+  <div class="etiqueta"><a href="#L06">Informar</a></div>
+  <div class="etiqueta"><a href="#L16">Multiplataforma</a></div>
+  <div class="etiqueta"><a href="#L07">Notificar</a></div>
+  <div class="etiqueta"><a href="#L11">Pagamento</a></div>
+  <div class="etiqueta"><a href="#L09">Pagar</a></div>
+  <div class="etiqueta"><a href="#L08">Segurança</a></div>
+  <div class="etiqueta"><a href="#L04">Solicitar Serviço</a></div>
+</div>
+
+
+### <div id="L01"><b>L01 - Fatura</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -26,42 +77,42 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 2: Léxico 01 (Fonte: Autor, 2023)</p>
 
 
-**L02**
+### <div id="L02"><b>L02 - Consultar </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Consultar  | Acessar | O que o usuário precisa fazer para ter a fatura, análise de consumo, etc. | Ter acesso as funcionalidades do aplicativo | Verbo |
 <p align="center">Tabela 3: Léxico 02 (Fonte: Autor, 2023)</p>
 
-**L03**
+### <div id="L03"><b>L03 - Acessibilidade </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Acessibilidade | Inclusão | Forma que as informções do aplicativo são disponibilizadas | Permite o uso de todos os usuários | Estado |
 <p align="center">Tabela 4: Léxico 03 (Fonte: Autor, 2023)</p>
 
-**L04**
+### <div id="L04"><b>L04 - Solicitar Serviço</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Solicitar serviço  | Demandar | Fazer um chamado a Caesb de determinado serviço | Permite a agilidade para demandar um serviço | Verbo |
 <p align="center">Tabela 5: Léxico 04 (Fonte: Autor, 2023)</p>
 
-**L05**
+### <div id="L05"><b>L05 - Cadastro </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Cadastro | Dados pessoais | Dados dos usuários e residência | Permite associar um usuário a uma ou mais residências com contas | Estado |
 <p align="center">Tabela 6: Léxico 05 (Fonte: Autor, 2023)</p>
 
-**L06**
+### <div id="L06"><b>L06 - Informar </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Informar | Relatar | Informar pelo aplicativo vazamentos | Permite a agilidade no processo | Verbo |
 <p align="center">Tabela 7: Léxico 06 (Fonte: Autor, 2023)</p>
 
-**L07**
+### <div id="L07"><b>L07 - Notificar </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -69,7 +120,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 8: Léxico 07 (Fonte: Autor, 2023)</p>
 
 
-**L08**
+### <div id="L08"><b>L08 - Segurança </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -77,7 +128,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 9: Léxico 08 (Fonte: Autor, 2023)</p>
 
 
-**L09**
+### <div id="L09"><b>L09 - Pagar </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -85,7 +136,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 10: Léxico 09 (Fonte: Autor, 2023)</p>
 
 
-**L10**
+### <div id="L10"><b>L10 - Consumo </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -93,7 +144,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 11: Léxico 10 (Fonte: Autor, 2023)</p>
 
 
-**L11**
+### <div id="L11"><b>L11 - Pagamento </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -101,20 +152,22 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 12: Léxico 11 (Fonte: Autor, 2023)</p>
 
 
-**L12**
+### <div id="L12"><b>L12 - Compreensão </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Compreensão | Objetividade | App direto sobre a informação | Faciliade no uso | Estado |
 <p align="center">Tabela 13: Léxico 12 (Fonte: Autor, 2023)</p>
-**L13**
+
+
+### <div id="L13"><b>L13 - Desempenho </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Desempenho | Velocidade | Rapidez na navegação do App | Agilidade na hora de acessar uma tarefa e satisfação | Estado |
 <p align="center">Tabela 14: Léxico 13 (Fonte: Autor, 2023)</p>
 
-**L14**
+### <div id="L14"><b>L14 - Disponibilidade </b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -123,7 +176,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 15: Léxico 14 (Fonte: Autor, 2023)</p>
 
 
-**L15**
+### <div id="L15"><b>L15 - Contatar suporte</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -131,7 +184,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 16: Léxico 15 (Fonte: Autor, 2023)</p>
 
 
-**L16**
+### <div id="L16"><b>L16 - Multiplataforma</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -139,7 +192,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 17: Léxico 16 (Fonte: Autor, 2023)</p>
 
 
-**L17**
+### <div id="L17"><b> L17 - Editar dados</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -147,7 +200,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 18: Léxico 17 (Fonte: Autor, 2023)</p>
 
 
-**L18**
+### <div id="L18"><b>L18 - Idioma</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -155,7 +208,7 @@ Os léxicos da Caesb foram identificados a partir dos requisitos elicitados, pri
 <p align="center">Tabela 19: Léxico 18 (Fonte: Autor, 2023)</p>
 
 
-**L19**
+### <div id="L19"><b>L19 - Alterar Idioma</b></div>
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
