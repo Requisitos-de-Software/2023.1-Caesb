@@ -75,4 +75,4 @@ A seguir, se tem na tabela 2 os requisitos não funcionais do aplicativo que o a
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
 | 30/04/2023 |        30/04/2023        |  1.0   | Criação do documento   | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
-| 19/05/2023 | 19/05/2023 |  1.1   | Fazendo correção da Revisão | [Daniel](https://github.com/guilhermekishimoto) | [Caetano](https://github.com/caeslucio) |
+| 19/05/2023 | 19/05/2023 |  1.1   | Fazendo correção da Revisão | [Daniel](https://github.com/daniel-de-sousa) | [Caetano](https://github.com/caeslucio) |
