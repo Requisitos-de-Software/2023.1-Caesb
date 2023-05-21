@@ -76,6 +76,11 @@ A seguir, apresentamos a tabela 2 com as especificações das histórias de usu�
 <p> Tabela 2: Histórias de usuário (Fonte: autor, 2023).</p>
 </div>
 
+
+## Bibliografia
+
+ > Slides Requisitos - aula 15. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
