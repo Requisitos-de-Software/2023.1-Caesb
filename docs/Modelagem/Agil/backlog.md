@@ -74,34 +74,133 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
 ## Backlog
 Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usuário correspondentes.
 
-| Temas       | Épicos                                      | Histórias de Usuário                                              | ID | Rastreabilidade |
-|:-----------:|:-------------------------------------------:|-------------------------------------------------------------------|:------:|:---------------:|
-|             | Pagamento                                   | Realizar pagamento pelo pix                                       |[US01]()| RF08            |
-|             |                                             | Realizar pagamento por boleto                                     |[US02]()| RF09            |
-|             |                                             | Realizar pagamento por cartão de débito/crédito                   |[US03]()| RF12            |
-|             |                                             | Poder cadastrar cartão de crédito/débito                          |[US04]()| RF16            |
-|Consumo      |                                             | Visualizar histórico de pagamentos                                |[US05]()| RF19            |
-|             |                                             | Visualizar 2a via da fatura                                       |[US06]()| RF01            |
-|             |                                             | Visualizar consumo junto com os custos detalhados                 |[US07]()| RF05            |
-|             |                                             | Ser notificado sobre fatura proxima do vencimento                 |[US08]()| RF10            |
-|             |                                             | Poder ativar pagamento automático da fatura por cartão cadastrado |[US09]()| RF17            |
-|             |--                                           | --                                                                |--      | --              |
-|             | Acompanhamento                              | Verificar andamento da leitura                                    |[US10]()| RF21            |
-|             |                                             | Ser notificado sobre a próxima leitura                            |[US11]()| RF13            |
-|             |                                             | Visualizar histórico de consumo                                   |[US12]()| RF06            |
-|--           |--                                           | --                                                                |--      | --              |
-|             | Detalhamento                                | Ter acesso aos protocolos de serviço                              |[US13]()| RF11            |
-|             |                                             | Ser notificado sobre falta de água na região                      |[US14]()| RF07            |
-|             |                                             | Saber motivo pelo qual a qualidade do lago indicada               |[US15]()| RF19            |
-|             |--                                           | --                                                                |--      | --              |
-|Serviços     | Solicitação                                 | Solicitar serviço                                                 |[US16]()| RF02            |
-|             |                                             | Solicitar autoleitura                                             |[US17]()| RF22            |
-|             |                                             | Denunciar vazamento de agua                                       |[US18]()| RF04            |
-|             |                                             | Devo poder contactar a equipe de suporte                          |[US19]()| RF14            |
-|             |--                                           | --                                                                |--      | --              |
-|             | Conta                                       | Poder cadastrar mais do que um imovel                             |[US20]()| RF18            |
-|             |                                             | Poder entrar no aplicativo utilizando meus dados                  |[US21]()| RF03            |
-|             |                                             | Entrar usando digital                                             |[US22]()| RF15            |
+---
+<table>
+  <tr>
+    <th>Temas</th>
+    <th>Épicos</th>
+    <th>Histórias de Usuário</th>
+    <th>ID</th>
+    <th>Rastreabilidade</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="12">Consumo</td>
+    <td style="vertical-align:middle" rowspan="9">EP01 - Pagamento</td>
+    <td>Realizar pagamento pelo pix</td>
+    <td><a href="#">US01</a></td>
+    <td>RF08</td>
+  </tr>
+  <tr>
+    <td>Realizar pagamento por boleto</td>
+    <td><a href="#">US02</a></td>
+    <td>RF09</td>
+  </tr>
+  <tr>
+    <td>Realizar pagamento por cartão de débito/crédito</td>
+    <td><a href="#">US03</a></td>
+    <td>RF12</td>
+  </tr>
+  <tr>
+    <td>Poder cadastrar cartão de crédito/débito</td>
+    <td><a href="#">US04</a></td>
+    <td>RF16</td>
+  </tr>
+  <tr>
+    <td>Visualizar histórico de pagamentos</td>
+    <td><a href="#">US05</a></td>
+    <td>RF19</td>
+  </tr>
+  <tr>
+    <td>Visualizar 2a via da fatura</td>
+    <td><a href="#">US06</a></td>
+    <td>RF01</td>
+  </tr>
+  <tr>
+    <td>Visualizar consumo junto com os custos detalhados</td>
+    <td><a href="#">US07</a></td>
+    <td>RF05</td>
+  </tr>
+  <tr>
+    <td>Ser notificado sobre fatura proxima do vencimento</td>
+    <td><a href="#">US08</a></td>
+    <td>RF10</td>
+  </tr>
+  <tr>
+    <td>Poder ativar pagamento automático da fatura por cartão cadastrado</td>
+    <td><a href="#">US09</a></td>
+    <td>RF17</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">EP02 - Acompanhamento</td>
+    <td>Verificar andamento da leitura</td>
+    <td><a href="#">US10</a></td>
+    <td>RF21</td>
+  </tr>
+  <tr>
+    <td>Ser notificado sobre a próxima leitura</td>
+    <td><a href="#">US11</a></td>
+    <td>RF13</td>
+  </tr>
+  <tr>
+    <td>Visualizar histórico de consumo</td>
+    <td><a href="#">US12</a></td>
+    <td>RF06</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="10">Serviços</td>
+    <td style="vertical-align:middle" rowspan="3">EP03 - Detalhamento</td>
+    <td>Ter acesso aos protocolos de serviço</td>
+    <td><a href="#">US13</a></td>
+    <td>RF11</td>
+  </tr>
+  <tr>
+    <td>Ser notificado sobre falta de água na região</td>
+    <td><a href="#">US14</a></td>
+    <td>RF07</td>
+  </tr>
+  <tr>
+    <td>Saber motivo pelo qual a qualidade do lago indicada</td>
+    <td><a href="#">US15</a></td>
+    <td>RF19</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle"rowspan="4">EP04 - Solicitação</td>
+    <td>Solicitar serviço</td>
+    <td><a href="#">US16</a></td>
+    <td>RF02</td>
+  </tr>
+  <tr>
+    <td>Solicitar autoleitura</td>
+    <td><a href="#">US17</a></td>
+    <td>RF22</td>
+  </tr>
+  <tr>
+    <td>Denunciar vazamento de água</td>
+    <td><a href="#">US18</a></td>
+    <td>RF04</td>
+  </tr>
+  <tr>
+    <td>Devo poder contactar a equipe de suporte</td>
+    <td><a href="#">US19</a></td>
+    <td>RF14</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">EP05 - Conta</td>
+    <td>Poder cadastrar mais do que um imóvel</td>
+    <td><a href="#">US20</a></td>
+    <td>RF18</td>
+  </tr>
+  <tr>
+    <td>Poder entrar no aplicativo utilizando meus dados</td>
+    <td><a href="#">US21</a></td>
+    <td>RF03</td>
+  </tr>
+  <tr>
+    <td>Entrar usando digital</td>
+    <td><a href="#">US22</a></td>
+    <td>RF15</td>
+  </tr>
+</table>
 
 <p style="text-align: center"> Tabela 3: Apresentação do Backlog (Fonte: autores, 2023).</p>
 
