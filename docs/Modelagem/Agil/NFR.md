@@ -84,7 +84,7 @@ Os gráficos a seguir foram dispostos conforme a metodologia FURPS+ definida na 
 
 <center>
 
-![SIG de Usabilidade](../../assets/modelagem/agil/nfr_framework/sig_de_confiabilidade.png)
+![SIG de Usabilidade](../../assets/modelagem/agil/nfr_framework/sig_de_usabilidade.png)
 
 
 <figcaption>
