@@ -106,6 +106,28 @@ Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usu�
 <p style="text-align: center"> Tabela 3: Apresentação do Backlog (Fonte: autores, 2023).</p>
 
 ## Validação
+Durante o processo de validação do backlog tiverem os respectivos participantes, como também seus cargos apresentados na tabela 4.
+
+<center>
+
+|                Nome               |           Cargo           |        Papel       |
+|:---------------------------------:|:-------------------------:|:------------------:|
+| Paulo Victor Fonseca Sousa        | Equipe de Desenvolvimento | Entrevistador      |
+| Wildemberg Sales Da Silva Junior  | Usuário                   | P.O(Product Owner) |
+
+</center>
+
+<p style="text-align: center"> Tabela 4: Participantes da validação do Backlog (Fonte: autores, 2023).</p>
+
+Como também a entrevista de validação no iframe 1.
+
+<center>
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/mGdaJMpBTOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center"> Iframe 1: Entrevista com o Usuário no papel de P.O (Fonte: autores, 2023).</p>
 
 ## Bibliografia
 > SERRANO, Milene; Slides: Requisitos - Aula 15. - Disponibiliados pelo professor.
