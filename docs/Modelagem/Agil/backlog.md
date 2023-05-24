@@ -57,13 +57,35 @@ Com base nos temas, foi possível criar os seguintes épicos apresentados na tab
 
 <center>
 
-|Tema|Épicos|ID|
-|:--:|:-----|::|
-|Consumo |Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.|EP01|
-|        |Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.|EP02|
-|Serviços|Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
-|        |Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
-|        |Conta: Toda funcionalidade que envolve a conta de usuário|EP05|
+<table>
+  <tr>
+    <th>Tema</th>
+    <th>Épicos</th>
+    <th>ID</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="2">Consumo</td>
+    <td>Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">Serviços</td>
+    <td>Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>Conta: Toda funcionalidade que envolve a conta de usuário</td>
+    <td>EP05</td>
+  </tr>
+</table>
 
 </center>
 
@@ -74,7 +96,6 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
 ## Backlog
 Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usuário correspondentes.
 
----
 <table>
   <tr>
     <th>Temas</th>
