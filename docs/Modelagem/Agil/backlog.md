@@ -61,8 +61,8 @@ Com base nos temas, foi possível criar os seguintes épicos apresentados na tab
 |:--:|:-----|::|
 |Consumo |Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.|EP01|
 |        |Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.|EP02|
-|Serviços|Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
-|        |Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
+|        |Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
+|Serviços|Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
 |        |Conta: Toda funcionalidade que envolve a conta de usuário|EP05|
 
 </center>
@@ -74,36 +74,38 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
 ## Backlog
 Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usuário correspondentes.
 
-| Temas       | Épicos                                      | Histórias de Usuário                                              | ID | Rastreabilidade |
-|:-----------:|:-------------------------------------------:|-------------------------------------------------------------------|:------:|:---------------:|
-|             | Pagamento                                   | Realizar pagamento pelo pix                                       |[US01]()| RF08            |
-|             |                                             | Realizar pagamento por boleto                                     |[US02]()| RF09            |
-|             |                                             | Realizar pagamento por cartão de débito/crédito                   |[US03]()| RF12            |
-|             |                                             | Poder cadastrar cartão de crédito/débito                          |[US04]()| RF16            |
-|Consumo      |                                             | Visualizar histórico de pagamentos                                |[US05]()| RF19            |
-|             |                                             | Visualizar 2a via da fatura                                       |[US06]()| RF01            |
-|             |                                             | Visualizar consumo junto com os custos detalhados                 |[US07]()| RF05            |
-|             |                                             | Ser notificado sobre fatura proxima do vencimento                 |[US08]()| RF10            |
-|             |                                             | Poder ativar pagamento automático da fatura por cartão cadastrado |[US09]()| RF17            |
-|             |--                                           | --                                                                |--      | --              |
-|             | Acompanhamento                              | Verificar andamento da leitura                                    |[US10]()| RF21            |
-|             |                                             | Ser notificado sobre a próxima leitura                            |[US11]()| RF13            |
-|             |                                             | Visualizar histórico de consumo                                   |[US12]()| RF06            |
-|--           |--                                           | --                                                                |--      | --              |
-|             | Detalhamento                                | Ter acesso aos protocolos de serviço                              |[US13]()| RF11            |
-|             |                                             | Ser notificado sobre falta de água na região                      |[US14]()| RF07            |
-|             |                                             | Saber motivo pelo qual a qualidade do lago indicada               |[US15]()| RF19            |
-|             |--                                           | --                                                                |--      | --              |
-|Serviços     | Solicitação                                 | Solicitar serviço                                                 |[US16]()| RF02            |
-|             |                                             | Solicitar autoleitura                                             |[US17]()| RF22            |
-|             |                                             | Denunciar vazamento de agua                                       |[US18]()| RF04            |
-|             |                                             | Devo poder contactar a equipe de suporte                          |[US19]()| RF14            |
-|             |--                                           | --                                                                |--      | --              |
-|             | Conta                                       | Poder cadastrar mais do que um imovel                             |[US20]()| RF18            |
-|             |                                             | Poder entrar no aplicativo utilizando meus dados                  |[US21]()| RF03            |
-|             |                                             | Entrar usando digital                                             |[US22]()| RF15            |
+| Temas       | Épicos                             | Histórias de Usuário                                                                              |  ID  | Rastreabilidade |
+|:-----------:|:----------------------------------:|---------------------------------------------------------------------------------------------------|:----:|:---------------:|
+|             | Pagamento                          | Eu, como usuário, desejo realizar o pagamento da fatura pelo PIX.                                 | US01 | RF08            |
+|             |                                    | Eu, como usuário, desejo realizar o pagamento da fatura por boleto.                               | US02 | RF09            |
+|             |                                    | Eu, como usuário, desejo efetuar o pagamento da fatura utilizando cartão de débito ou crédito.    | US03 | RF12            |
+|             |                                    | Eu, como usuário, desejo cadastrar um cartão de crédito/débito para facilitar pagamentos futuros. | US04 | RF16            |
+|Consumo      |                                    | Eu, como usuário, desejo ver o histórico de pagamentos realizados.                                | US05 | RF19            |
+|             |                                    | Eu, como usuário, desejo visualizar a segunda via da fatura.                                      | US06 | RF01            |
+|             |                                    | Eu, como usuário, desejo ver o consumo de água com os custos detalhados.                          | US07 | RF05            |
+|             |                                    | Eu, como usuário, desejo receber notificações sobre faturas próximas do vencimento.               | US08 | RF10            |
+|             |                                    | Eu, como usuário, desejo ativar o pagamento automático da fatura por cartão cadastrado.           | US09 | RF17            |
+|             |--                                  | --                                                                                                |--    | --              |
+|             | Acompanhamento                     | Eu, como usuário, desejo verificar o andamento da leitura do medidor de água.                     | US10 | RF21            |
+|             |                                    | Eu, como usuário, desejo receber notificações sobre a próxima leitura do medidor de água.         | US11 | RF13            |
+|             |                                    | Eu, como usuário, desejo visualizar o histórico de consumo de água.                               | US12 | RF06            |
+|--           |--                                  | --                                                                                                |--    | --              |
+|             | Detalhamento                       | Eu, como usuário, desejo ter acesso aos protocolos de serviço relacionados às solicitações realizadas.| US13 | RF11            |
+|             |                                    | Eu, como usuário, desejo receber notificações sobre falta de água na região.                      | US14 | RF07            |
+|             |                                    | Eu, como usuário, desejo acessar informações sobre a qualidade do lago.                           | US15 | RF19            |
+|             |--                                  | --                                                                                                |--    | --              |
+|Serviços     | Solicitação                        | Eu, como usuário, desejo solicitar um serviço específico oferecido pela CAESB.                    | US16 | RF02            |
+|             |                                    | Eu, como usuário, desejo solicitar a autoleitura do medidor de água.                              | US17 | RF22            |
+|             |                                    | Eu, como usuário, desejo denunciar um vazamento de água para a CAESB.                             | US18 | RF04            |
+|             |                                    | Eu, como usuário, desejo entrar em contato com a equipe de suporte da CAESB.                      | US19 | RF14            |
+|             |--                                  | --                                                                                                |--    | --              |
+|             | Conta                              | Eu, como usuário, desejo cadastrar mais de um imóvel em minha conta.                              | US20 | RF18            |
+|             |                                    | Eu, como usuário, desejo entrar no aplicativo utilizando minhas credenciais de acesso.            | US21 | RF03            |
+|             |                                    | Eu, como usuário, desejo utilizar a autenticação biométrica, como a impressão digital, para acessar o aplicativo.| US22 | RF15            |
 
 <p style="text-align: center"> Tabela 3: Apresentação do Backlog (Fonte: autores, 2023).</p>
+
+## Validação
 
 ## Bibliografia
 > SERRANO, Milene; Slides: Requisitos - Aula 15. - Disponibiliados pelo professor.
