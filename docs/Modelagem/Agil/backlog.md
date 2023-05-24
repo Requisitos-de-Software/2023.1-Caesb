@@ -108,117 +108,117 @@ Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usu�
     <td style="vertical-align:middle" rowspan="12">Consumo</td>
     <td style="vertical-align:middle" rowspan="9">EP01 - Pagamento</td>
     <td>Realizar pagamento pelo pix</td>
-    <td><a href="#">US01</a></td>
+    <td>US01</td>
     <td>RF08</td>
   </tr>
   <tr>
     <td>Realizar pagamento por boleto</td>
-    <td><a href="#">US02</a></td>
+    <td>US02</td>
     <td>RF09</td>
   </tr>
   <tr>
     <td>Realizar pagamento por cartão de débito/crédito</td>
-    <td><a href="#">US03</a></td>
+    <td>US03</td>
     <td>RF12</td>
   </tr>
   <tr>
     <td>Poder cadastrar cartão de crédito/débito</td>
-    <td><a href="#">US04</a></td>
+    <td>US04</td>
     <td>RF16</td>
   </tr>
   <tr>
     <td>Visualizar histórico de pagamentos</td>
-    <td><a href="#">US05</a></td>
+    <td>US05</td>
     <td>RF19</td>
   </tr>
   <tr>
     <td>Visualizar 2a via da fatura</td>
-    <td><a href="#">US06</a></td>
+    <td>US06</td>
     <td>RF01</td>
   </tr>
   <tr>
     <td>Visualizar consumo junto com os custos detalhados</td>
-    <td><a href="#">US07</a></td>
+    <td>US07</td>
     <td>RF05</td>
   </tr>
   <tr>
     <td>Ser notificado sobre fatura proxima do vencimento</td>
-    <td><a href="#">US08</a></td>
+    <td>US08</td>
     <td>RF10</td>
   </tr>
   <tr>
     <td>Poder ativar pagamento automático da fatura por cartão cadastrado</td>
-    <td><a href="#">US09</a></td>
+    <td>US09</td>
     <td>RF17</td>
   </tr>
   <tr>
     <td style="vertical-align:middle" rowspan="3">EP02 - Acompanhamento</td>
     <td>Verificar andamento da leitura</td>
-    <td><a href="#">US10</a></td>
+    <td>US10</td>
     <td>RF21</td>
   </tr>
   <tr>
     <td>Ser notificado sobre a próxima leitura</td>
-    <td><a href="#">US11</a></td>
+    <td>US11</td>
     <td>RF13</td>
   </tr>
   <tr>
     <td>Visualizar histórico de consumo</td>
-    <td><a href="#">US12</a></td>
+    <td>US12</td>
     <td>RF06</td>
   </tr>
   <tr>
     <td style="vertical-align:middle" rowspan="10">Serviços</td>
     <td style="vertical-align:middle" rowspan="3">EP03 - Detalhamento</td>
     <td>Ter acesso aos protocolos de serviço</td>
-    <td><a href="#">US13</a></td>
+    <td>US13</td>
     <td>RF11</td>
   </tr>
   <tr>
     <td>Ser notificado sobre falta de água na região</td>
-    <td><a href="#">US14</a></td>
+    <td>US14</td>
     <td>RF07</td>
   </tr>
   <tr>
     <td>Saber motivo pelo qual a qualidade do lago indicada</td>
-    <td><a href="#">US15</a></td>
+    <td>US15</td>
     <td>RF19</td>
   </tr>
   <tr>
     <td style="vertical-align:middle"rowspan="4">EP04 - Solicitação</td>
     <td>Solicitar serviço</td>
-    <td><a href="#">US16</a></td>
+    <td>US16</td>
     <td>RF02</td>
   </tr>
   <tr>
     <td>Solicitar autoleitura</td>
-    <td><a href="#">US17</a></td>
+    <td>US17</td>
     <td>RF22</td>
   </tr>
   <tr>
     <td>Denunciar vazamento de água</td>
-    <td><a href="#">US18</a></td>
+    <td>US18</td>
     <td>RF04</td>
   </tr>
   <tr>
     <td>Devo poder contactar a equipe de suporte</td>
-    <td><a href="#">US19</a></td>
+    <td>US19</td>
     <td>RF14</td>
   </tr>
   <tr>
     <td style="vertical-align:middle" rowspan="3">EP05 - Conta</td>
     <td>Poder cadastrar mais do que um imóvel</td>
-    <td><a href="#">US20</a></td>
+    <td>US20</td>
     <td>RF18</td>
   </tr>
   <tr>
     <td>Poder entrar no aplicativo utilizando meus dados</td>
-    <td><a href="#">US21</a></td>
+    <td>US21</td>
     <td>RF03</td>
   </tr>
   <tr>
     <td>Entrar usando digital</td>
-    <td><a href="#">US22</a></td>
+    <td>US22</td>
     <td>RF15</td>
   </tr>
 </table>
