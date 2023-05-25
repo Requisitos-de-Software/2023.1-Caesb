@@ -39,6 +39,8 @@ A seguir, na tabela 1, é possível observar os requisitos elicitados por intros
 <p> Tabela 1: Requisitos elicitados (Fonte: autores, 2023).</p>
 </div>
 
+## Elicitação Pós-Priorização
+
 A seguir, se tem na tabela 2 os requisitos não funcionais do aplicativo que o aplicativo deve possuir, presente também no artefato de [Especificação Suplementar](../Modelagem/especificacao_suplementar.md).
 
 <center>
