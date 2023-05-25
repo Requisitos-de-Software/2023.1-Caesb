@@ -78,30 +78,19 @@ parcialmente negado.
 - **SOME** É utilizada quando o sinal da contribuição é conhecido (positivo ou negativo), mas a extensão (parcial ou total) não é. Nesses casos, quando há alguma incerteza em se utilizar HELP ou MAKE deve-se utilizar o tipo de contribuição SOME (+). Da mesma forma quando não há certeza em se utilizar HURT ou BREAK deve-se utilizar SOME (-).
 
 ## Gráficos de Interdependência de Softgoals (SIG)
-Os gráficos a seguir foram dispostos conforme a metodologia FURPS+ definida na [Especificação Suplementar](../especificacao_suplementar.md), Os grafos a seguir são referentes aos SIGs de Usabilidade ([Figura 3](#sig-de-usabilidade)), Confiabilidade ([Figura 4](#sig-de-confiabilidade)) e Disponibilidade ([Figura 5](#sig-de-disponibilidade)). A ferramenta utilizada para a confecção dos diagramas foi o [Lucidchart](https://www.lucidchart.com/).
+Os Requisitos Não-Funcionais presentes no projeto e representados pelo Framework tiveram como base a [Especificação Suplementar](../especificacao_suplementar.md) e os [Requisitos Priorizados](../../Elicitacao/priorizacao-FTF.md).
 
-### SIG de Usabilidade
-
-<center>
-
-![SIG de Usabilidade](../../assets/modelagem/agil/nfr_framework/sig_de_usabilidade.png)
-
-
-<figcaption>
-    Figura 3: SIG de Usabilidade (Fonte: Raquel, 2023)
-</figcaption>
-</center>
-<br>
+Os Gráficos de Interdependência de Softgoals foram dispostos conforme a metodologia FURPS+ e foram construidos com a ferramenta [Lucidchart](https://www.lucidchart.com/). Os NFRs  representados peloS SIGs são o de [Confiabilidade](#sig-de-confiabilidade) (Figura 3), [Disponibilidade](#sig-de-disponibilidade) (Figura 4) e [Usabilidade](#sig-de-usabilidade) (Figura 5). 
 
 ### SIG de Confiabilidade
 
 <center>
 
-![SIG de Confiabilidade](../../assets/modelagem/agil/nfr_framework/sig_de_confiabilidade.png)
+![SIG de Confiabilidade](../../assets/modelagem/agil/nfr_framework/confiabilidade.png)
 
 
 <figcaption>
-    Figura 4: SIG de Confiabilidade (Fonte: Raquel, 2023)
+    Figura 3: SIG de Confiabilidade (Fonte: Raquel, 2023)
 </figcaption>
 </center>
 <br>
@@ -110,14 +99,30 @@ Os gráficos a seguir foram dispostos conforme a metodologia FURPS+ definida na 
 
 <center>
 
-![SIG de Disponibilidade](../../assets/modelagem/agil/nfr_framework/sig_de_disponibilidade.png)
+
+
+<img width="500px" src="../../../assets/modelagem/agil/nfr_framework/sig_de_disponibilidade.png">
 
 
 <figcaption>
-    Figura 5: SIG de Disponibilidade (Fonte: Raquel, 2023)
+    Figura 4: SIG de Disponibilidade (Fonte: Raquel, 2023)
 </figcaption>
 </center>
 <br>
+
+### SIG de Usabilidade
+
+<center>
+
+![SIG de Usabilidade](../../assets/modelagem/agil/nfr_framework/usabilidade.png)
+
+
+<figcaption>
+    Figura 5: SIG de Usabilidade (Fonte: Raquel, 2023)
+</figcaption>
+</center>
+<br>
+
 
 
 ## Bibliografia
