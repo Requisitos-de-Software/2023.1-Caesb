@@ -61,8 +61,8 @@ Com base nos temas, foi possível criar os seguintes épicos apresentados na tab
 |:--:|:-----|::|
 |Consumo |Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.|EP01|
 |        |Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.|EP02|
-|        |Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
-|Serviços|Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
+|Serviços|Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
+|        |Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
 |        |Conta: Toda funcionalidade que envolve a conta de usuário|EP05|
 
 </center>
@@ -106,20 +106,7 @@ Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usu�
 <p style="text-align: center"> Tabela 3: Apresentação do Backlog (Fonte: autores, 2023).</p>
 
 ## Validação
-Durante o processo de validação do backlog tiverem os respectivos participantes, como também seus cargos apresentados na tabela 4.
-
-<center>
-
-|                Nome               |           Cargo           |        Papel       |
-|:---------------------------------:|:-------------------------:|:------------------:|
-| Paulo Victor Fonseca Sousa        | Equipe de Desenvolvimento | Entrevistador      |
-| Wildemberg Sales Da Silva Junior  | Usuário                   | P.O(Product Owner) |
-
-</center>
-
-<p style="text-align: center"> Tabela 4: Participantes da validação do Backlog (Fonte: autores, 2023).</p>
-
-Como também a entrevista de validação no iframe 1.
+Durante o processo de validação do backlog tiverem os respectivos participantes, como também seus cargos apresentados na tabela 4. Como também a entrevista de validação no iframe 1.
 
 <center>
 
@@ -128,6 +115,19 @@ Como também a entrevista de validação no iframe 1.
 </center>
 
 <p style="text-align: center"> Iframe 1: Entrevista com o Usuário no papel de P.O (Fonte: autores, 2023).</p>
+
+## Participantes
+
+Para a criação do artefato, contamos com a participação dos seguintes membros, conforme ilustrado na Tabela 1 a seguir.
+
+| Nome  | Cargo |
+|-------|-------|
+| Guilherme  | Equipe de desenvolviento   |
+| Paulo Victor | Equipe de desenvolviento   | 
+| Wildemberg Sales  | Product Owner   |
+<div style="text-align: center">
+<p> Tabela 4: Participantes (Fonte: autor, 2023).</p>
+</div>
 
 ## Bibliografia
 > SERRANO, Milene; Slides: Requisitos - Aula 15. - Disponibiliados pelo professor.
@@ -139,3 +139,9 @@ Como também a entrevista de validação no iframe 1.
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
 | 20/05/2023 | 20/05/2023 |  1.0   | Criação do Documento | [Daniel](https://github.com/daniel-de-sousa) e [Pedro](https://github.com/pedrobarbosaocb) |  [Caetano](https://github.com/caeslucio) |
+
+
+
+
+
+
