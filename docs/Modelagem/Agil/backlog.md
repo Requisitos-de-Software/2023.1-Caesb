@@ -118,7 +118,7 @@ Durante o processo de validação do backlog tiverem os respectivos participante
 
 ## Participantes
 
-Para a criação do artefato, contamos com a participação dos seguintes membros, conforme ilustrado na Tabela 1 a seguir.
+Para a criação do artefato, contamos com a participação dos seguintes membros, conforme ilustrado na Tabela 4 a seguir.
 
 | Nome  | Cargo |
 |-------|-------|
