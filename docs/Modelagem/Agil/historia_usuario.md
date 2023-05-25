@@ -17,8 +17,17 @@ Para a criação do artefato, contamos com a participação dos seguintes membro
 ## Introdução:
 Neste artefato, será realizado as histórias de usuário do projeto do aplicativo da CAESB. As histórias de usuário são uma técnica ágil para capturar requisitos e definir as funcionalidades do aplicativo de forma centrada no usuário. Elas permitem que a equipe de desenvolvimento compreenda as necessidades dos usuários e oriente o processo de desenvolvimento para atender a essas necessidades de maneira eficiente.
 
+## Motivo de se ter as histórias de usuário no projeto:
+As histórias de usuário desempenham um papel fundamental no desenvolvimento do aplicativo CAESB, por diversos motivos:
+
+- Foco no usuário: As histórias de usuário permitem que a equipe de desenvolvimento se concentre nas necessidades reais dos usuários. Ao capturar as funcionalidades em termos de tarefas que os usuários desejam realizar, é possível criar um aplicativo final mais alinhado com suas expectativas e requisitos.
+- Comunicação eficaz: As histórias de usuário são uma ferramenta de comunicação poderosa entre a equipe de desenvolvimento e os stakeholders. Elas proporcionam uma maneira clara e concisa de transmitir informações sobre as funcionalidades desejadas, evitando ambiguidades e mal-entendidos.
+- Priorização de requisitos: Com as histórias de usuário, é possível priorizar as funcionalidades de acordo com sua importância e valor percebido pelos usuários. Isso permite que a equipe de desenvolvimento foque nas características mais cruciais e entregue valor em incrementos iterativos.
+- Estimativas e planejamento: Ao definir as histórias de usuário com critérios de aceitação e uma estimativa de esforço, a equipe de desenvolvimento pode realizar um planejamento mais preciso das atividades e do tempo necessário para implementar cada funcionalidade. Isso contribui para uma alocação de recursos mais eficiente e um cronograma mais realista.
+
+
 ## Metodologia:
-A metodologia adotada para a definição das histórias de usuário segue uma abordagem ágil, permitindo um processo iterativo e colaborativo. Durante a fase de planejamento do projeto, a equipe de desenvolvimento identificou  as funcionalidades-chave através da [instrospecção](../../Elicitacao/introspeccao.md), do [questionário](../../Elicitacao/questionario.md), e do [storytelling](../../Elicitacao/storytelling.md) que serão abordadas. Em seguida, essas funcionalidades foram priorizadas através da [priorização in or out](../../Elicitacao/priorizacaoInOrOut.md), e por fim foram  expressas como histórias de usuário, a partir do [backlog](../Agil/backlog.md) seguindo um formato específico que inclui uma descrição sucinta, critérios de aceitação e uma estimativa de esforço.
+A metodologia adotada para a definição das histórias de usuário segue uma abordagem ágil, permitindo um processo iterativo e colaborativo. Durante a fase de planejamento do projeto, a equipe de desenvolvimento identificou  as funcionalidades-chave através da [instrospecção](../../Elicitacao/introspeccao.md), do [questionário](../../Elicitacao/questionario.md), e do [storytelling](../../Elicitacao/storytelling.md) que serão abordadas. Em seguida, essas funcionalidades foram priorizadas através da [priorização in or out](../../Elicitacao/priorizacaoInOrOut.md), e  expressas como histórias de usuário, a partir do [backlog](../Agil/backlog.md) seguindo um formato específico que inclui uma descrição sucinta, critérios de aceitação e uma estimativa de esforço. Por fim, foi realizado uma entrevista com um usuário com papel de PO para validar o que foi realizado.
 
 
 ## Modelo de História de Usuário:
@@ -35,14 +44,6 @@ A tabela 2 abaixo tem como objetivo fornecer uma compreensão detalhada de cada 
 <div style="text-align: center">
 <p> Tabela 2: Modelo texto estruturado para descrição de  História de usuário (Fonte: autor, 2023).</p>
 </div>
-
-## Motivo de se ter as histórias de usuário no projeto:
-As histórias de usuário desempenham um papel fundamental no desenvolvimento do aplicativo CAESB, por diversos motivos:
-
-- Foco no usuário: As histórias de usuário permitem que a equipe de desenvolvimento se concentre nas necessidades reais dos usuários. Ao capturar as funcionalidades em termos de tarefas que os usuários desejam realizar, é possível criar um aplicativo final mais alinhado com suas expectativas e requisitos.
-- Comunicação eficaz: As histórias de usuário são uma ferramenta de comunicação poderosa entre a equipe de desenvolvimento e os stakeholders. Elas proporcionam uma maneira clara e concisa de transmitir informações sobre as funcionalidades desejadas, evitando ambiguidades e mal-entendidos.
-- Priorização de requisitos: Com as histórias de usuário, é possível priorizar as funcionalidades de acordo com sua importância e valor percebido pelos usuários. Isso permite que a equipe de desenvolvimento foque nas características mais cruciais e entregue valor em incrementos iterativos.
-- Estimativas e planejamento: Ao definir as histórias de usuário com critérios de aceitação e uma estimativa de esforço, a equipe de desenvolvimento pode realizar um planejamento mais preciso das atividades e do tempo necessário para implementar cada funcionalidade. Isso contribui para uma alocação de recursos mais eficiente e um cronograma mais realista.
 
 ## Critérios de Prioridade:
 
@@ -100,4 +101,4 @@ A seguir, apresentamos a tabela 3 com as especificações das histórias de usu�
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 24/05/2023 |        25/05/2023        |  2.0   | Ajuste do documento | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
-| 21/05/2023 |        22/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
+| 21/05/2023 |        22/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|    
