@@ -228,14 +228,6 @@ Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usu�
 ## Validação
 Durante o processo de validação do backlog tiverem os respectivos participantes, como também seus cargos apresentados na tabela 4.
 
-<center>
-
-|                Nome               |           Papel           |        Cargo       |
-|:---------------------------------:|:-------------------------:|:------------------:|
-| Paulo Victor Fonseca Sousa        | Equipe de Desenvolvimento | Entrevistador      |
-| Wildemberg Sales Da Silva Junior  | Usuário                   | P.O(Product Owner) |
-
-
 </center>
 
 <p style="text-align: center"> Tabela 4: Participantes da validação do Backlog (Fonte: autores, 2023).</p>
