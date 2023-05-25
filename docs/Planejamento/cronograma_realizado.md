@@ -61,11 +61,11 @@
 | Atividade              | Local          | Período de desenvolvimento | Responsáveis              | Participantes | Período de revisão | Revisores       |
 |------------------------|----------------|----------------------------|---------------------------|---------------|--------------------|-----------------|
 | Correções da entrega 3 | Teams (remoto) | 18/05 - 19/05              | Todos                     | Todos         | 20/05              | Daniel e Raquel |
-| História de usuários   | Teams (remoto) | 17/05 - 20/05              | Guilherme e Paulo         | -             | 20/05              | Daniel          |
+| História de usuários   | Teams (remoto) | 21/05 - 21/05              | Guilherme e Paulo         | -             | 22/05              | Daniel          |
 | Backlogs               | Teams (remoto) | 20/05 - 24/05              | Pedro e Daniel            | -             | 20/05              | Caetano         |
 | NFR Framework          | Teams (remoto) | 22/05 - 23/05              | Raquel e Caetano          | -             | 23/05              | Paulo           |
-| Gravação               | Teams (remoto) | 21/05                      | Caetano                   | Todos         | 21/05              | Pedro           |
-| Edição de vídeo        | Teams (remoto) | 22/05 - 23/05              | Guilherme                 | -             | 23/05              | Paulo           |
+| Gravação               | Teams (remoto) | 24/05                      | Caetano                   | Todos         | 24/05              | Pedro           |
+| Edição de vídeo        | Teams (remoto) | 24/05 - 24/05              | Guilherme                 | -             | 24/05              | Paulo           |
 
 
 <p><center>Tabela 4: Entrega 4 (Fonte: autor, 2023).</center></p>
