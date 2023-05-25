@@ -3,7 +3,7 @@
 ## Introdução
 O backlog é uma lista que contempla todas as funcionalidades desejadas para um determinado produto, no caso do projeto, do aplicativo. É uma ferramenta fundamental para organizar e priorizar o trabalho em equipe, fornecendo uma visão geral das atividades pendentes e o progresso do projeto.
 
-O backlog é criando durante o processo de planejamento do projeto e ele não precisa estar completo no início do projeto, uma vez que pode começar com tudo aquilo que é mais óbvio e fundamental a um primeiro momento, e mudá-lo com o tempo, a medida que se aprende mais sobre o produto e seus usuários.
+O backlog é criado durante o processo de planejamento do projeto e ele não precisa estar completo no início do projeto, uma vez que pode começar com tudo aquilo que é mais óbvio e fundamental a um primeiro momento, e mudá-lo com o tempo, a medida que se aprende mais sobre o produto e seus usuários.
 
 ## Motivo da Escolha
 Foi escolhido utilizar o backlog pelos benefícios significativos que ele traz para todas as partes envolvidas durante o desenvolvimento do projeto. Proporcionando transparência e permitindo uma visão clara e compartilhada das atividades pendentes e uma comunicação eficiente das equipes de stackholders. Uma vez que ele traz uma divisão clara de Temas, Épicos e Histórias de Usuários.
@@ -15,7 +15,8 @@ Para que fosse realizado o backlog, se utilizou todos os requisitos elicitados p
 * [Questionário](../../Elicitacao/questionario.md)
 * [StoryTelling](../../Elicitacao/storytelling.md)
 
-Diante de todos os requisitos apresentados nessas páginas, foi divido todos em temas relativos o qual estavam inserindo dentro do aplicativo e dentro de cada tema ocorre mais uma divisão, sendo os Épicos e cada épico apresentou sua história de usuário.
+Diante de todos os requisitos apresentados nessas páginas, foi divido todos em temas relativos o qual estavam inserindo dentro do aplicativo e dentro de cada tema ocorre mais uma divisão, sendo os Épicos e cada épico apresentou sua história de usuário. 
+Para a validação, foi utilizado uma entrevista que pode ser encontrada no tópico de validação.
 Dessa forma, foram organizados todos os requisitos funcionais e apresentados todos na tabela 1. 
 
 | ID   | Descrição                                                                                                           | Rastreabilidade          |
@@ -57,13 +58,35 @@ Com base nos temas, foi possível criar os seguintes épicos apresentados na tab
 
 <center>
 
-|Tema|Épicos|ID|
-|:--:|:-----|::|
-|Consumo |Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.|EP01|
-|        |Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.|EP02|
-|Serviços|Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.|EP03|
-|        |Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.|EP04|
-|        |Conta: Toda funcionalidade que envolve a conta de usuário|EP05|
+<table>
+  <tr>
+    <th>Tema</th>
+    <th>Épicos</th>
+    <th>ID</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="2">Consumo</td>
+    <td>Pagamento: Todas as funcionalidades de pagamentos e suas formas de ser realizado.</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>Acompanhamento: Todas as funcionalidades que podem dar feddback ao usuário sobre o consumo.</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">Serviços</td>
+    <td>Detalhamento: Funcionalidades que permitem o usuário acessar informações valiosas de seu interesse.</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>Solicitação:  Todo tipo de solicitação de serviço que o usuário pode fazer.</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>Conta: Toda funcionalidade que envolve a conta de usuário</td>
+    <td>EP05</td>
+  </tr>
+</table>
 
 </center>
 
@@ -74,39 +97,155 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
 ## Backlog
 Na tabela 3 possui o Backlog completo com os temas, épicos e histórias de usuário correspondentes.
 
-| Temas       | Épicos                             | Histórias de Usuário                                                                              |  ID  | Rastreabilidade |
-|:-----------:|:----------------------------------:|---------------------------------------------------------------------------------------------------|:----:|:---------------:|
-|             | Pagamento                          | Eu, como usuário, desejo realizar o pagamento da fatura pelo PIX.                                 | US01 | RF08            |
-|             |                                    | Eu, como usuário, desejo realizar o pagamento da fatura por boleto.                               | US02 | RF09            |
-|             |                                    | Eu, como usuário, desejo efetuar o pagamento da fatura utilizando cartão de débito ou crédito.    | US03 | RF12            |
-|             |                                    | Eu, como usuário, desejo cadastrar um cartão de crédito/débito para facilitar pagamentos futuros. | US04 | RF16            |
-|Consumo      |                                    | Eu, como usuário, desejo ver o histórico de pagamentos realizados.                                | US05 | RF19            |
-|             |                                    | Eu, como usuário, desejo visualizar a segunda via da fatura.                                      | US06 | RF01            |
-|             |                                    | Eu, como usuário, desejo ver o consumo de água com os custos detalhados.                          | US07 | RF05            |
-|             |                                    | Eu, como usuário, desejo receber notificações sobre faturas próximas do vencimento.               | US08 | RF10            |
-|             |                                    | Eu, como usuário, desejo ativar o pagamento automático da fatura por cartão cadastrado.           | US09 | RF17            |
-|             |--                                  | --                                                                                                |--    | --              |
-|             | Acompanhamento                     | Eu, como usuário, desejo verificar o andamento da leitura do medidor de água.                     | US10 | RF21            |
-|             |                                    | Eu, como usuário, desejo receber notificações sobre a próxima leitura do medidor de água.         | US11 | RF13            |
-|             |                                    | Eu, como usuário, desejo visualizar o histórico de consumo de água.                               | US12 | RF06            |
-|--           |--                                  | --                                                                                                |--    | --              |
-|             | Detalhamento                       | Eu, como usuário, desejo ter acesso aos protocolos de serviço relacionados às solicitações realizadas.| US13 | RF11            |
-|             |                                    | Eu, como usuário, desejo receber notificações sobre falta de água na região.                      | US14 | RF07            |
-|             |                                    | Eu, como usuário, desejo acessar informações sobre a qualidade do lago.                           | US15 | RF19            |
-|             |--                                  | --                                                                                                |--    | --              |
-|Serviços     | Solicitação                        | Eu, como usuário, desejo solicitar um serviço específico oferecido pela CAESB.                    | US16 | RF02            |
-|             |                                    | Eu, como usuário, desejo solicitar a autoleitura do medidor de água.                              | US17 | RF22            |
-|             |                                    | Eu, como usuário, desejo denunciar um vazamento de água para a CAESB.                             | US18 | RF04            |
-|             |                                    | Eu, como usuário, desejo entrar em contato com a equipe de suporte da CAESB.                      | US19 | RF14            |
-|             |--                                  | --                                                                                                |--    | --              |
-|             | Conta                              | Eu, como usuário, desejo cadastrar mais de um imóvel em minha conta.                              | US20 | RF18            |
-|             |                                    | Eu, como usuário, desejo entrar no aplicativo utilizando minhas credenciais de acesso.            | US21 | RF03            |
-|             |                                    | Eu, como usuário, desejo utilizar a autenticação biométrica, como a impressão digital, para acessar o aplicativo.| US22 | RF15            |
+
+
+<table>
+  <tr>
+    <th>Temas</th>
+    <th>Épicos</th>
+    <th>Histórias de Usuário</th>
+    <th>ID</th>
+    <th>Rastreabilidade</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="12">Consumo</td>
+    <td style="vertical-align:middle" rowspan="9">EP01 - Pagamento</td>
+    <td>Eu, como usuário, desejo realizar o pagamento da fatura pelo PIX.</td>
+    <td>US01</td>
+    <td>RF08</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo realizar o pagamento da fatura por boleto.</td>
+    <td>US02</td>
+    <td>RF09</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo efetuar o pagamento da fatura utilizando cartão de débito ou crédito.</td>
+    <td>US03</td>
+    <td>RF12</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo cadastrar um cartão de crédito/débito para facilitar pagamentos futuros.</td>
+    <td>US04</td>
+    <td>RF16</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo ver o histórico de pagamentos realizados.</td>
+    <td>US05</td>
+    <td>RF19</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo visualizar a segunda via da fatura.</td>
+    <td>US06</td>
+    <td>RF01</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo ver o consumo de água com os custos detalhados.</td>
+    <td>US07</td>
+    <td>RF05</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo receber notificações sobre faturas próximas do vencimento.</td>
+    <td>US08</td>
+    <td>RF10</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo ativar o pagamento automático da fatura por cartão cadastrado.</td>
+    <td>US09</td>
+    <td>RF17</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">EP02 - Acompanhamento</td>
+    <td>Eu, como usuário, desejo verificar o andamento da leitura do medidor de água.</td>
+    <td>US10</td>
+    <td>RF21</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo receber notificações sobre a próxima leitura do medidor de água.</td>
+    <td>US11</td>
+    <td>RF13</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo visualizar o histórico de consumo de água.</td>
+    <td>US12</td>
+    <td>RF06</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="10">Serviços</td>
+    <td style="vertical-align:middle" rowspan="3">EP03 - Detalhamento</td>
+    <td>Eu, como usuário, desejo ter acesso aos protocolos de serviço relacionados às solicitações realizadas.</td>
+    <td>US13</td>
+    <td>RF11</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo receber notificações sobre falta de água na região.</td>
+    <td>US14</td>
+    <td>RF07</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo acessar informações sobre a qualidade do lago.</td>
+    <td>US15</td>
+    <td>RF19</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle"rowspan="4">EP04 - Solicitação</td>
+    <td>Eu, como usuário, desejo solicitar um serviço específico oferecido pela CAESB.</td>
+    <td>US16</td>
+    <td>RF02</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo solicitar a autoleitura do medidor de água.</td>
+    <td>US17</td>
+    <td>RF22</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo denunciar um vazamento de água para a CAESB.</td>
+    <td>US18</td>
+    <td>RF04</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo entrar em contato com a equipe de suporte da CAESB.</td>
+    <td>US19</td>
+    <td>RF14</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">EP05 - Conta</td>
+    <td>Eu, como usuário, desejo cadastrar mais de um imóvel em minha conta.</td>
+    <td>US20</td>
+    <td>RF18</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo entrar no aplicativo utilizando minhas credenciais de acesso.</td>
+    <td>US21</td>
+    <td>RF03</td>
+  </tr>
+  <tr>
+    <td>Eu, como usuário, desejo utilizar a autenticação biométrica, como a impressão digital, para acessar o aplicativo.</td>
+    <td>US22</td>
+    <td>RF15</td>
+  </tr>
+</table>
 
 <p style="text-align: center"> Tabela 3: Apresentação do Backlog (Fonte: autores, 2023).</p>
 
 ## Validação
 Durante o processo de validação do backlog tiverem os respectivos participantes, como também seus cargos apresentados na tabela 4. Como também a entrevista de validação no iframe 1.
+
+### Participantes
+
+<center>
+
+|        Nome       |            Cargo           |
+|:-----------------:|:--------------------------:|
+| Paulo Victor      | Equipe de desenvolviento   | 
+| Wildemberg Sales  | Product Owner              |
+<div style="text-align: center">
+<p> Tabela 4: Participantes (Fonte: autor, 2023).</p>
+</div>
+
+</center>
+
+### Entrevista
 
 <center>
 
@@ -116,18 +255,7 @@ Durante o processo de validação do backlog tiverem os respectivos participante
 
 <p style="text-align: center"> Iframe 1: Entrevista com o Usuário no papel de P.O (Fonte: autores, 2023).</p>
 
-## Participantes
 
-Para a criação do artefato, contamos com a participação dos seguintes membros, conforme ilustrado na Tabela 4 a seguir.
-
-| Nome  | Cargo |
-|-------|-------|
-| Guilherme  | Equipe de desenvolviento   |
-| Paulo Victor | Equipe de desenvolviento   | 
-| Wildemberg Sales  | Product Owner   |
-<div style="text-align: center">
-<p> Tabela 4: Participantes (Fonte: autor, 2023).</p>
-</div>
 
 ## Bibliografia
 > SERRANO, Milene; Slides: Requisitos - Aula 15. - Disponibiliados pelo professor.
@@ -139,6 +267,7 @@ Para a criação do artefato, contamos com a participação dos seguintes membro
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
 | 20/05/2023 | 20/05/2023 |  1.0   | Criação do Documento | [Daniel](https://github.com/daniel-de-sousa) e [Pedro](https://github.com/pedrobarbosaocb) |  [Caetano](https://github.com/caeslucio) |
+| 24/05/2023 | 24/05/2023 |  1.1   | Refinamento do Documento | [Daniel](https://github.com/daniel-de-sousa) e [Pedro](https://github.com/pedrobarbosaocb) |  [Caetano](https://github.com/caeslucio) |
 
 
 
