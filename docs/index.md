@@ -93,11 +93,11 @@ Os integrantes que comõem o grupo 4, da Caesb, estão presentes na Tabela 1.
 
 ## :droplet: Bibliografia
 
-> Análise do projeto Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/).
+> Análise do projeto Lichess. Disponível no [link](https://github.com/Requisitos-de-Software/2022.2-Lichess).
 
-> Análise do projeto SEI. Disponível no [link](https://github.com/Interacao-Humano-Computador/2020.1-SEI).
+> Análise do projeto MEI. Disponível no [link](https://github.com/Requisitos-de-Software/2022.2-MEI).
 
-> Análise do projeto Skoob. Disponível no [link](https://github.com/Interacao-Humano-Computador/2022.2-Skoob).
+> Análise do projeto Grasshopper. Disponível no [link](https://github.com/Requisitos-de-Software/2022.2-Grasshopper).
 
 ## :droplet: Histórico de Versão
 <div align="center">
@@ -135,6 +135,4 @@ Os integrantes que comõem o grupo 4, da Caesb, estão presentes na Tabela 1.
         <td><a href="https://github.com/daniel-de-sousa">Daniel</a></td>
     </tr>
     </table>
-
-
 </div>
