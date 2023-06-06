@@ -19,7 +19,7 @@ A técnica do FTF consiste basicamente em:
 
 A priorização foi realizada com a análise dos requisitos elicitados pelos métodos de [questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/), [introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao) e [storytelling](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/storytelling). E pode ser analisada no Iframe 1, como forma de auxiliar o entendimento acompanhe a Legenda - Iframe 1.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShz1C17Dm7EovR5B8yPn-27qDseKO1yYnNFOtmSTN3poSaEmyaHRzTXM78jlE9kgvdbEEJYV_4RKGZ/pubhtml" width="2400" height="2100" frameborder="0"></iframe>
+<iframe align="center" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShz1C17Dm7EovR5B8yPn-27qDseKO1yYnNFOtmSTN3poSaEmyaHRzTXM78jlE9kgvdbEEJYV_4RKGZ/pubhtml" width="2400" height="2100" frameborder="0"></iframe>
 
 <center>Iframe 1 - Priorização 1. Fonte: Autores</center>
 
