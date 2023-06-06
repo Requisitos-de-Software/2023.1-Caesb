@@ -79,6 +79,12 @@ nav:
       - Backlog: Modelagem/Agil/backlog.md
       - Histórias de Usuário: Modelagem/Agil/historia_usuario.md
       - NFR Framework: Modelagem/Agil/NFR.md
+  - Verificação: 
+      - Grupo 5:
+        - Entrega 1: Verificacao/Grupo5/Entrega1/Entrega1.md
+        - Entrega 2: Verificacao/Grupo5/Entrega2/Entrega2.md
+        - Entrega 3: Verificacao/Grupo5/Entrega3/Entrega3.md
+        - Entrega 4: Verificacao/Grupo5/Entrega4/Entrega4.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
