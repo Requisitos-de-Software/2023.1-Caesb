@@ -47,6 +47,7 @@ O cenário está associado a requisitos, porém, poderia linkar o cenário com o
 ## Casos de Uso
 
 ### Checklist
+As perguntas deste checklist foram formuladas com base no vídeo [Tutorial de Caso de Uso UML](https://www.youtube.com/watch?v=ab6eDdwS3rA) do canal Lucid Software Português.
 
 | ID  | Perguntas                                                                                                                      | Respostas |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|-----------|
