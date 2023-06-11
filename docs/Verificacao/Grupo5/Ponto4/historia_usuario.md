@@ -22,9 +22,9 @@ Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks rea
 | 5 | As histórias de usuários estão redigidas de maneira clara e sucinta, incluindo informações sobre "quem", "o que" e "por que"? | Incompleto | Explicação no texto abaixo|
 | 6 |Cada história de usuário possui um título autoexplicativo, que resume o objetivo principal da história? | Não  | Não possuem título autoexplicativo|
 | 7 | As histórias de usuário contêm critérios de aceitação que estabelecem os requisitos para considerar a história concluída? | Sim | |
-| 7 | As histórias de usuário contêm um campo para prioridade alta, baixa ou média | Não | Não há esse campo|
-| 8 |As histórias de usuários foram realizadas ou validadas com o auxilidio do cliente ou personas? | Não | Explicação no texto abaixo|
-| 9 | As histórias de usuário são passíveis de teste com base nos critérios de aceitação definidos? | Incompleto |Explicado no texto abaixo |
+| 9 | As histórias de usuário contêm um campo para prioridade alta, baixa ou média | Não | Não há esse campo|
+| 9 |As histórias de usuários foram realizadas ou validadas com o auxilidio do cliente ou personas? | Não | Explicação no texto abaixo|
+| 10 | As histórias de usuário são passíveis de teste com base nos critérios de aceitação definidos? | Incompleto |Explicado no texto abaixo |
 
 
 <center>
@@ -35,11 +35,42 @@ Tabela 1: Verificação do Planejamento da Avaliação das Histórias de Usuári
 
 ## Feedbacks Específicos
 
+Primeiramente, é importante destacar que os feedbacks apresentados nesse documento não são pessoais, sendo analisado apenas o contéudo do documento. Sendo assim , abaixo será analisado os aspectos específicos do conteúdo do texto
+
+### ID 4
+É importante adaptar a metodologia aos requisitos específicos do projeto e à equipe de desenvolvimento, garantindo que todos os aspectos relevantes sejam considerados durante o processo de levantamento e documentação dos requisitos de software. Dessa forma, alguns aspectos da metodologia ficaram faltando:
+
+- Não são mencionados os critérios de priorização ou estimativa de esforço para as histórias de usuário, o que é importante para a gestão do backlog.
+- Não há indicação de como as histórias de usuário Foram revisadas, validadas ou testadas, o que é essencial para garantir sua qualidade e adequação às necessidades dos usuários.
+- A metodologia não é atrelada ao projeto, sendo apenas mencionado os aspectos que uma história de usuário poderia ter.
+
+### ID 5
+Com relação a esse aspecto, o grupo em geral fez um ótimo trabalho, quase todas as histórias de usuário possuindo  "quem", "o que" e "por que?". Apenas o "US04", "US06", "US08", "US10" e o "US11" ficaram fora do padrão sem apresentar o "por que?"
+
+### ID 9
+É necessário mencionar que a participação de um cliente no desenvolvimento das histórias de usuário é essencial, como apresentado por Roger S. Pressman, no capitulo 3 do livro Engenharia de Software: Uma Abordagem Profissional. Dessa forma, a interação com o cliente é importante pelos seguintes motivos:
+
+- Compreensão precisa das necessidades do cliente: O cliente é a pessoa que possui o conhecimento mais profundo sobre o problema ou a necessidade que o software deve resolver, então é importante para garantir que as histórias de usuário capturem de forma precisa e completa as necessidades e expectativas do cliente.
+
+- Priorização adequada das funcionalidades: : Ao envolver o cliente no processo de elaboração das histórias de usuário, a equipe de desenvolvimento pode obter feedback valioso e imediato.
+- Validação das soluções propostas:
+À medida que as histórias de usuário são desenvolvidas, é fundamental que o cliente as valide para garantir que atendam às suas expectativas e aos requisitos do negócio. 
+
+Sendo assim, é necessário que o grupo possua a participação de pessoas fora da equipe de desenvolvimento para a realização das histórias de usuário, sendo necessário acrescentar o mais breve possível
+
+### ID 10
+
+Levando em consideração os critérios de aceitação das histórias de usuário, é importante que eles sejam fácilmente verificaveis e definidos, para que seja permitido perceber se elas foram completadas ou não.
+Dessa forma, as seguintes histórias de usuário não foram claramente definidas:
+- "US01"(Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação.) é importante definir uma faixa de tamanho, para que possa ser testado
+- "US05"(Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.)  É importante definir as plataformas ou possíveis plataformas.
 
 ## Bibliografia
 >Gerência e Qualidade de Software - Aula 05 - Verificação e Validação, UNIVESP. Acesso em: 05 de junho de 2023.
 
 >Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
+>Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92.
 
 ## Histórico de Versão
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
