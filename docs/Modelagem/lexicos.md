@@ -1,16 +1,20 @@
 # Léxicos
 
 ## Introdução
+<p align="justify">
+A técnica de léxico consiste em descrever os símbolos e termos específicos de uma aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma <b>noção</b> (significado/conceito) e um <b>impacto</b> (efeito na aplicação). Este documento apresenta os léxicos do aplicativo da <a href="https://www.caesb.df.gov.br/baixe-aplicativo-caesb">Caesb</a>.
+</p>
 
-A técnica de léxico consiste em descrever os símbolos e termos específicos de uma aplicação. Busca-se identificar frases e símbolos relevantes, descrevendo-os com uma **noção** (significado/conceito) e um **impacto** (efeito na aplicação).
 ## Metodologia
-Os léxicos foram identificados a partir dos [casos de uso](./casos_de_uso.md), além do uso da aplicação. E a sua descrição segue o **vocabulário mínimo** estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
+<p align="justify">
+Os léxicos foram definidos a partir dos <a href="../../Elicitacao/priorizacao">requisitos priorizados</a>, além do uso da aplicação. E a sua descrição segue o <b>vocabulário mínimo</b> estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
 
-Além disso, foi dado um **sinônimo** para os léxicos, auxiliando no entendimento e evitando ambiguidade. É importante, também, classificar o léxico em **estado, objeto ou modelo**, respectivamente um seria uma condição/forma da aplicação, o outro uma informação e o último uma ação que o software realizará, provavelmente sobre determinado objeto.
+Além disso, foi dado um <b>sinônimo</b> para os léxicos, auxiliando no entendimento e evitando ambiguidade. É importante, também, classificar o léxico em <b>estado, objeto ou modelo</b>, respectivamente um seria uma condição/forma da aplicação, o outro uma informação e o último uma ação que o software realizará, provavelmente sobre determinado objeto.
 
-Dessa forma, a construção de todos os léxicos seguirá a estrutura apresentada como exemplo na tabela 1.
+Dessa forma, a construção de todos os léxicos seguirá a estrutura apresentada como exemplo na Tabela 1.
+</p>
 
-**L0X** - Nome Léxico
+**L0X - Nome Léxico**
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
@@ -76,7 +80,7 @@ Os léxicos da Caesb foram listas e descritos nas de Tabela 2 a 20. Também é p
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
-| Acessibilidade | Inclusão | Forma que as informções do aplicativo são disponibilizadas | Permite o uso de todos os usuários | Estado |
+| Acessibilidade | Inclusão | Apresentação das informações de forma inclusiva | Permite o uso de todos os usuários | Estado |
 <p align="center">Tabela 2: Léxico 01 (Fonte: Autor, 2023)</p>
 
 ### <div id="L02">L02 - Alterar Idioma</div>
@@ -207,6 +211,33 @@ Os léxicos da Caesb foram listas e descritos nas de Tabela 2 a 20. Também é p
 | Solicitar serviço  | Demandar | Fazer um chamado a Caesb de determinado serviço | Permite a agilidade para demandar um serviço | Verbo |
 <p align="center">Tabela 20: Léxico 19 (Fonte: Autor, 2023)</p>
 
+
+## Validação
+Um dos pontos essenciais para a Engenharia de Requisitos é a validação dos artefatos com o cliente, na qual tem como intuito entender se o que está sendo produzido está de acordo com o que é esperado pelo cliente. Com isso, os léxicos presentes neste artefato foram elaborados e validados a partir da interpretação de duas personas, presentes na Tabela 21.
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+      <th>Ocupação</th>
+      <th>Cidade/Estado</th>
+    </tr>
+    <tr>
+      <td>Ana Paula Silva</td>
+      <td>30</td>
+      <td>Estudante e Estagiária</td>
+      <td>Distrito Federal, Brasília</td>
+    </tr>
+    <tr>
+      <td>Guilherme Silva Andrade</td>
+      <td>25</td>
+      <td>Estudante e Atendente da loja de chinelos</td>
+  </table>
+</div>
+
+<p style="text-align: center"> Tabela 21: Personas para elicitação. (Fonte: <a href="../../Elicitacao/personas/#montagem-das-personas">Montagem das Personas</a>, 2023)</p>
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário*. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -216,5 +247,5 @@ Os léxicos da Caesb foram listas e descritos nas de Tabela 2 a 20. Também é p
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 |-----|------|-----|-----|-----|-----|
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)   |
-| 17/05/2023 |        18/05/2023        |  2.0   | Ajuste do style | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
-| 18/05/2023 |        19/05/2023        |  3.0   | Melhorias após a Entrega 3 | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
+| 17/05/2023 |        19/05/2023        |  2.0   | Ajuste do style e melhorias| [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
+| 11/06/2023 |        12/06/2023        |  3.0   | Pré-verificação| [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
