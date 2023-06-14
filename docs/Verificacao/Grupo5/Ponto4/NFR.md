@@ -16,7 +16,7 @@ Os resultados da verificação do artefato foram obtidos através das checklists
 
 A Tabela 1 estabelece a checklist com os dados obtidos a partir da verificação da estrutura preliminar do documento. Na sessão de [Feedbacks Específicos](#feedbacks-específicos) será apresentado o detalhamento do conteúdo estudado e a qualidade do artefato em geral.
 
-| ID | Descrição | Avaliação | Observações |
+| ID | Pergunta | Avaliação |Observação|
 | - | - | - | - |
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |  |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Sim |  | 
@@ -92,4 +92,4 @@ Provavelmente todos os requisitos presentes nos cartões possuem relações com 
 
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 22/05/2023 | 23/05/2023 |  1.0   | Criação do Documento | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
+| 22/05/2023 | 23/05/2023 |  1.0   | Criação do Documento | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
