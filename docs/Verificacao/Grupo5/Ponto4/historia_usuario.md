@@ -25,6 +25,7 @@ Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks rea
 | 9 | A história de usuário contêm um campo para prioridade alta, baixa ou média | Não | Não há esse campo|
 | 9 |A história de usuário foi realizada ou validada com o auxilidio do cliente ou personas? | Não | Explicação no texto abaixo|
 | 10 | A história de usuário é passível de teste com base nos critérios de aceitação definidos? | Incompleto (2 não possuem) |Explicado no texto abaixo |
+| 11 | A história de usuário é baseada em  requisitos funcionais e não funcionas | Incompleto | Possui apenas requisitos funcionais|
 
 
 <center>
@@ -64,6 +65,19 @@ Levando em consideração os critérios de aceitação das histórias de usuári
 Dessa forma, as seguintes histórias de usuário não foram claramente definidas:
 - "US01"(Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação.) é importante definir uma faixa de tamanho, para que possa ser testado
 - "US05"(Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.)  É importante definir as plataformas ou possíveis plataformas.
+
+
+## Sugestões de melhoria
+
+Primeiramente, é importante destacar que os feedbacks apresentados nesse documento não são pessoais, sendo analisado apenas o contéudo do documento. Além disso o artefato apresentado pelo grupo foi muito bem feito.
+ Sendo assim , abaixo será analisado os aspectos específicos do conteúdo do texto:
+ 
+ - ID 1: A introdução poderia estar mais voltada ao projeto, foi mostrado a forma de fazer uma história de usuário, porém não a aplicação dentro do texto
+ - ID 2: é importante mencionar as referências bibliograficas no texto, para dar um embasamento maior para  escrita
+ - ID 3: Não foi chamado  diretamente as tabelas no texto, recomendo que mencionem cada uma das tabelas com seu número no texto acima delas
+ - ID 11: Além dos requisitos funcionais, que descrevem as ações e comportamentos do sistema, os requisitos não funcionais são importantes para definir as características e qualidades desejadas do sistema. Dessa forma, é importante apresentar histórias de usuário baseados em requisitos não funcionais.
+
+
 
 ## Bibliografia
 >Gerência e Qualidade de Software - Aula 05 - Verificação e Validação, UNIVESP. Acesso em: 05 de junho de 2023.
