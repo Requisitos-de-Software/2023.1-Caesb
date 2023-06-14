@@ -16,7 +16,7 @@ Os resultados da verificação do artefato foram obtidos através das checklists
 
 A Tabela 1 estabelece a checklist com os dados obtidos a partir da verificação da estrutura preliminar do documento. Na sessão de [Feedbacks Específicos](#feedbacks-específicos) será apresentado o detalhamento do conteúdo estudado e a qualidade do artefato em geral.
 
-| ID | Pergunta | Avaliação |Observação|
+| ID | Descrição| Avaliação |Observação|
 | - | - | - | - |
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |  |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Sim |  | 

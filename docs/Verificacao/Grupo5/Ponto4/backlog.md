@@ -13,7 +13,7 @@ A metodologia utilizada para verificar o artefato consiste em utilizar as checkl
 Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks realizados a partir da verificação.
 
 
-| ID | Pergunta | Avaliação |Observação|
+| ID | Descrição | Avaliação |Observação|
 |----|----------------------------------------------------------------------------------------------------------|----------|-------------|
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |Porém acho importante definir melhor a utilização do artefato dentro do projeto |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Incompleto | Não é referenciado no texto| 
