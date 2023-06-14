@@ -13,7 +13,7 @@ A metodologia utilizada para verificar o artefato consiste em utilizar as checkl
 Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks realizados a partir da verificação.
 
 
-| ID | Pergunta | Resposta | Comentários |
+| ID | Pergunta | Resposta | Observações|
 |----|----------------------------------------------------------------------------------------------------------|----------|-------------|
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |Porém acho importante definir melhor a utilização do artefato dentro do projeto |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Incompleto | Não é referenciado no texto| 
@@ -55,4 +55,4 @@ Primeiramente, é importante destacar que os feedbacks apresentados nesse docume
 ## Histórico de Versão
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 10/06/2023 | 11/06/2023 | 1.0 | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa)| 
+| 10/06/2023 | 11/06/2023 | 1.0 | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio)| 
