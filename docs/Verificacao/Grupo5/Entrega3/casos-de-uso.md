@@ -4,35 +4,9 @@ Esse artefato é  uma verificação do artefato de casos de uso produzido pelo g
 
 ## Metodologia
 A metodologia utilizada para a verificação dos casos de uso é baseada na criação de um checklist, que consiste em uma lista de perguntas e critérios a serem avaliados. Esse checklist foi elaborado com base no Lucidchart Diagrama de caso de uso e nos slides da Aula 11 da professora Milene e Maurício Serrano
-## Checklist planejado
-A seguir, na tabela 1, temos o checklist planejado para a verificação dos casos de uso.
 
-| ID  | Perguntas                                                                                                                      | Respostas |
-|-----|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| UC01 | O sistema possui título?                                                                                                       |           |
-| UC02   | A caixa de limite do sistema (retângulo utilizado como fronteira do sistema) está definida corretamente, delimitando o escopo dos casos de uso?         |       |
-| UC03 | Os atores primários (pessoa, organização ou sistema externo que interage ao sistema) e secundários (pessoa, organização ou sistema externo que reaje ao sistema) presentes estão nomeados?                                                                          |           |
-| UC04 | Os atores estão posicionados fora da caixa de limite do sistema? |           |
-| UC05 | O ator principal está à direita do da caixa de limite do sistema?                                                    |           |
-| UC06 | O ator secundário está à esquerda do da caixa de limite do sistema?                                                    |           |
-| UC07 | Os casos de uso estão dentro da caixa limite do sistema no diagrama de casos de uso?                                                            |           |
-| UC08   | Os casos de uso estão corretamente rotulados com verbos (no infinitivo) e descrições simples?                           |       |
-| UC09   | Os casos de uso estão representados por formas ovais?                                      |       |
-| UC10  | Os relacionamentos de inclusão (include) entre casos de uso estão corretos, quando aplicável?           |       |
-| UC11  | Os relacionamentos de extensão (extend) entre casos de uso estão corretos, quando aplicável?            |       |
-| UC12  | Os relacionamentos de associação entre atores e casos de uso estão corretos?                            |       |
-| UC13 | O artefato contém legendas claras para cada símbolo utilizado no diagrama de casos de uso?                                                 |           |
-| UC14 | Na especificação, os pré-requisitos (condições que devem ser satisfeitas antes do caso de uso ser executado) estão definidos?                                                                         |           |
-| UC15 | Na especificação, as condições de entrada (campos obrigatórios a serem preenchidos, formatos válidos de entrada ou restrições relacionadas aos dados fornecidos pelo usuário) estão especificadas?                                                                   |           |
-| UC16 | Na especificação, as condições de saída (resultados esperados, mensagens de retorno ou formatos de saída esperados) estão especificadas?                                                                   |           |
-| UC17 | As especificação possuem fluxos principais (sequência de passos ou ações que descrevem a trajetória principal de execução de um caso de uso)?                                                             |           |
-| UC18 | As especificação possuem fluxos alternativos (caminhos diferentes dos fluxos principais em um caso de uso), quando existentes?                                                             |           |
-| UC19 | As especificação possuem fluxos de exceção (cenários em que ocorrem erros ou exceções durante a execução de um caso de uso)?                                                             |           |
-| UC20 | Os casos de uso estão associados a requisitos de usuário ou histórias de usuário específicas?                                 |           |
-<p style="text-align: center"> Tabela 1: checklist planejado dos casos de uso (Fonte: autores, 2023).</p>
-
-## Checklist preenchido
-A seguir, na tabela 2, temos o checklist preenchido com as respostas para as perguntas do checklist planejado.
+## Checklist 
+A seguir, na tabela 1, temos o checklist preenchido com as respostas para as perguntas do checklist planejado.
 
 | ID  | Perguntas                                                                                                                      | Respostas |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -56,7 +30,7 @@ A seguir, na tabela 2, temos o checklist preenchido com as respostas para as per
 | UC18 | As especificação possuem fluxos alternativos (caminhos diferentes dos fluxos principais em um caso de uso), quando existentes?                                                             |      Incompleto     |
 | UC19 | As especificação possuem fluxos de exceção (cenários em que ocorrem erros ou exceções durante a execução de um caso de uso)?                                                             |     Incompleto      |
 | UC20 | Os casos de uso estão associados a requisitos de usuário ou histórias de usuário específicas?                                 |      Sim     |
-<p> Tabela 2: Checklist preenchido dos casos de uso (Fonte: autores, 2023).</p>
+<p> Tabela 1: Checklist preenchido dos casos de uso (Fonte: autores, 2023).</p>
 
 ## Comentários
 ***UC08 -*** Os casos de uso estão corretamente rotulados com verbos (no infinitivo) e descrições simples?
