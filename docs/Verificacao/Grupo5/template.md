@@ -1,3 +1,4 @@
+# Template
 ## Introdução
 - Artefarto e link do repositório
 - Grupo e link do grupo e site analisado
@@ -15,6 +16,7 @@ Ex:
     - Feita em qual dia?
     - Qual a versão do artefato?
     - Explicar os campos da tabela
+    - **Incluir as 4 perguntas padrões no começo**
 
 Ex:
     
@@ -25,8 +27,10 @@ Ex:
 
 | ID  | Descrição     | Avaliação | Observação |
 |-----|-------------- | --------- | ---------- |
-| 1   | O artefato possui Introdução?|  Sim - Não - Incompleto | - |
-
+| 1   | O artefato possui uma introdução condizente com o conteudo do texto?  |  Sim - Não - Incompleto | - |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? |  Sim - Não - Incompleto |- |
+|3 |Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  Sim - Não - Incompleto | -|
+| 4 |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? |  Sim - Não - Incompleto | -|
 
 
 
@@ -50,6 +54,7 @@ Primeiramente parabenizar pelo trabalho o artefato está bem escrito e muito det
 
 ## Bibliografia
 > Link do grupo
+
 > livro
 
 ## Histórico de Versões
