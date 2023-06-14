@@ -23,7 +23,7 @@ Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks rea
 | 6 |Cada história de usuário possui um título autoexplicativo, que resume o objetivo principal da história? | Não  |Nenhuma possui título autoexplicativo|
 | 7 | A história de usuário contêm critérios de aceitação que estabelecem os requisitos para considerar a história concluída? | Sim | |
 | 9 | A história de usuário contêm um campo para prioridade alta, baixa ou média | Não | Não há esse campo|
-| 9 |A história de usuário foi realizada ou validada com o auxilidio do cliente ou personas? | Não | Explicação no texto abaixo|
+| 9 |A história de usuário foi realizada ou validada com o auxiliio do cliente ou personas? | Não | Explicação no texto abaixo|
 | 10 | A história de usuário é passível de teste com base nos critérios de aceitação definidos? | Incompleto (2 não possuem) |Explicado no texto abaixo |
 | 11 | A história de usuário é baseada em  requisitos funcionais e não funcionas | Incompleto | Possui apenas requisitos funcionais|
 
