@@ -1,1 +1,62 @@
 # Cenários
+## Introdução
+Esse artefato é  uma verificação do artefato de cenários produzido pelo grupo 5, Simplenote.  
+
+## Metodologia
+A metodologia utilizada para a verificação dos cenários é baseada na criação de um checklist, que consiste em uma lista de perguntas e critérios a serem avaliados. Esse checklist foi elaborado com base na Tese de Doutorado: Dos Requisitos ao Código: Um Processo para Desenvolvimento de Software mais Transparente - PUC-Rio.
+
+### Checklist planejado
+A seguir, na tabela 1, é apresentado o checklist utilizado para a verificação dos cenários.
+
+| ID | Perguntas                                                                                                     | Respostas |
+|----|--------------------------------------------------------------------------------------------------------------|-----------|
+| CN01  | O cenário possui um título claro e descritivo?                                                               |           |
+| CN02  | O objetivo do cenário está claramente estabelecido?                                                         |           |
+| CN03  | O cenário descreve como o objetivo deve ser alcançado?                                                       |           |
+| CN04  | O cenário descreve as pré-condições relevantes?                                           |           |
+| CN05  | O cenário especifica restrições relacionadas ao contexto, pré-condições?   |           |
+| CN06  | O cenário identifica os recursos envolvidos?                                                         |           |
+| CN07  | O cenário identifica os atores envolvidos, como pessoas ou estruturas organizacionais?                       |           |
+| CN08  | O papel de cada ator no cenário está claro?                                                                   |           |
+| CN09 | O cenário descreve as ações realizadas pelos atores e pelo aplicativo?                                                         |           |
+| CN10  | O cenário especifica restrições relevantes?                                                      |        |
+| CN11  | O cenário especifica exceções relevantes?                                                      |        |
+| CN12  | O cenário está associado a requisitos ou histórias de usuário específicas?                                   |        |
+<p> Tabela 1 - Checklist planejado dos cenários </p>
+
+### Checklist preenchido
+A seguir, na tabela 2, é apresentado o checklist preenchido com as respostas obtidas na verificação dos cenários.
+
+| ID  | Perguntas                                                                                                     | Respostas |
+|-----|--------------------------------------------------------------------------------------------------------------|-----------|
+| CN01   | O cenário possui um título claro e descritivo?                                                               | Sim       |
+| CN02   | O objetivo do cenário está claramente estabelecido?                                                         | Sim       |
+| CN03   | O cenário descreve como o objetivo deve ser alcançado?                                                       | Sim       |
+| CN04   | O cenário descreve as pré-condições relevantes?                                           | Sim       |
+| CN05   | O cenário especifica restrições relacionadas ao contexto, pré-condições?   | Sim       |
+| CN06   | O cenário identifica os recursos envolvidos?                                                         | Sim       |
+| CN07   | O cenário identifica os atores envolvidos, como pessoas ou estruturas organizacionais?                       | Sim       |
+| CN08   | O papel de cada ator no cenário está claro?                                                                   | Sim       |
+| CN09  | O cenário descreve as ações realizadas pelos atores e pelo aplicativo?                                       | Incompleto       |
+| CN10  | O cenário especifica restrições relevantes?                                                      | Sim       |
+| CN11  | O cenário especifica exceções relevantes?                                                      | Sim       |
+| CN12  | O cenário está associado a requisitos ou histórias de usuário específicas?                                   | Sim       |
+<p> Tabela 2 - Checklist preenchido dos cenários </p>
+
+### Comentários
+***CN09 -*** O cenário descreve as ações realizadas pelos atores e pelo aplicativo?
+<br>
+- No cenário apresentado, é importante incluir as ações realizadas tanto pelos atores envolvidos quanto pelo aplicativo em questão. O cenário descreve apenas as ações dos usuários.
+
+***CN12 -*** O cenário está associado a requisitos ou histórias de usuário específicas?
+<br>
+- O cenário está associado a requisitos, porém, poderia linkar o cenário com o seu respectivo requisito.
+
+## Referências
+> [Tese de Doutorado: Dos Requisitos ao Código: Um Processo para Desenvolvimento de Software mais Transparente - PUC-Rio. ](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf) Autor: Eduardo Kinder Almentero
+
+## Histórico de Versão
+
+| Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| 14/06/2023 | 14/06/2023 |  1.0   | Criação do documento | [Guilherme](https://github.com/guilhermekishimoto) |  [Pedro](https://github.com/pedrobarbosaocb) |
