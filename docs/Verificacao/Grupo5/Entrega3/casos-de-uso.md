@@ -39,29 +39,37 @@ A seguir, na tabela 1, temos o checklist preenchido, da versão 1.1 do artefato,
 ## Comentários
 ***UC08 -*** Os casos de uso estão corretamente rotulados com verbos (no infinitivo) e descrições simples?
 <br>
+
 - O caso de uso "lista de notas" não possui um verbo. O caso de uso deve ser rotulado com verbos (no infinitivo) e descrições simples, como por exemplo: "Listar notas".
 
  ***UC10 -*** Os relacionamentos de inclusão (include) entre casos de uso estão corretos, quando aplicável?
 <br>
+
 - O caso de uso "criar nota", por exemplo, possui um "include" que está com a cabeça da seta virada para o lado errado. O "include" deve ser feito do caso de uso que inclui para o caso de uso que é incluído.
+
 - As setas de "include" devem ser tracejadas, e não cheias.
 
  ***UC11 -*** Os relacionamentos de extensão (extend) entre casos de uso estão corretos, quando aplicável?
+
 - As setas de "extends" devem ser tracejadas, e não cheias.
 
  ***UC12 -*** Os relacionamentos de associação entre atores e casos de uso estão corretos?
+
  - A conexão entre os atores e os casos de uso não deve possuir seta, pois o ator não é um caso de uso que inclui ou estende outro caso de uso.
 
 ***UC17 -*** As especificação possuem fluxos principais (sequência de passos ou ações que descrevem a trajetória principal de execução de um caso de uso)?
 <br>
+
 - Possuem o objetivo final dos fluxos e não os fluxos em si. Os fluxos podem ser descritos numerados ou em tópicos, por exemplo.
 
 ***UC18 -*** As especificação possuem fluxos alternativos (caminhos diferentes dos fluxos principais em um caso de uso), quando existentes?
 <br>
+
 - Possuem o objetivo final dos fluxos e não os fluxos em si. Os fluxos podem ser descritos numerados ou em tópicos, por exemplo.
 
 ***UC19 -*** As especificação possuem fluxos de exceção (cenários em que ocorrem erros ou exceções durante a execução de um caso de uso)?
 <br>
+
 - Possuem o objetivo final dos fluxos e não os fluxos em si. Os fluxos podem ser descritos numerados ou em tópicos, por exemplo.
 
 ## Referências
