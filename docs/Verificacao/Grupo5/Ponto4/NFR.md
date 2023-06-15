@@ -16,7 +16,7 @@ Os resultados da verificação do artefato foram obtidos através das listas de 
 
 A Tabela 1 estabelece a lista de verificação com os dados obtidos a partir da verificação da estrutura preliminar do documento. Na sessão de [Feedbacks Específicos](#feedbacks-específicos) será apresentado o detalhamento do conteúdo estudado e a qualidade do artefato em geral.
 
-| ID | Descrição | Avaliação | Observações |
+| ID | Descrição| Avaliação |Observação|
 | - | - | - | - |
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |  |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Sim |  | 
@@ -64,4 +64,4 @@ Como visto no documento, infelizmente não há propagação de impacto em nenhum
 
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 13/06/2023 | 23/05/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
+| 13/06/2023 | 14/06/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
