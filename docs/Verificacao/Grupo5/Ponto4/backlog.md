@@ -1,4 +1,4 @@
-# Verificação História De Usuário do Grupo 5
+# Verificação Backlog do Grupo 5
 
 ## Introdução
 Este documento é de verificação do artefato Ferramentas produzido pelo Grupo 5 da disciplina de Requisitos que tem o projeto voltado ao aplicativo [Simplenote](https://requisitos-de-software.github.io/2023.1-Simplenote/). Com base nisso, o artefato [Backlog do Produto](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)  será verificado de acordo com a literatura apresentada no histórico de versão
