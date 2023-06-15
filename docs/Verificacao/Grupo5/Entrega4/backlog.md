@@ -29,7 +29,7 @@ Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks rea
 
 <center>
 
-Tabela 1: Verificação do Planejamento da Avaliação das Histórias de Usuário (Fonte: autor, 2023).
+Tabela 1: Verificação do Planejamento da Avaliação do backlog (Fonte: autor, 2023).
 
 </center>
 
