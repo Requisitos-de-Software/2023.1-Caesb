@@ -10,7 +10,7 @@ Este documento tem como objetivo relatar os resultados das verificações realiz
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos através das listas de verificação elaboradas na página de [planejamento](./Planejamento_verificacao_ponto4.md). As listas de verificação foram desenvolvidas com base nas perguntas apresentadas, e nesta avaliação foram utilizadas as opções **"Sim"**, **"Não"**, **"Incompleto"** ou **"Não se aplica"** para respondê-las. Para identificação mais rápida das correções necessárias, as opções **"Não"** e **"Incompleto"** estarão em negrito. Além disso, nesta avaliação tivemos a oportunidade de fornecer observações detalhadas em cada pergunta, abordando pontos relevantes. Os integrantes do Grupo 4 ([Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS)) serão responsáveis pela avaliação e revisão do artefato, respectivamente.
+Os resultados da verificação do artefato foram obtidos através das listas de verificação elaboradas na página de [planejamento](Planejamento_verificacao_Entrega4.md). As listas de verificação foram desenvolvidas com base nas perguntas apresentadas, e nesta avaliação foram utilizadas as opções **"Sim"**, **"Não"**, **"Incompleto"** ou **"Não se aplica"** para respondê-las. Para identificação mais rápida das correções necessárias, as opções **"Não"** e **"Incompleto"** estarão em negrito. Além disso, nesta avaliação tivemos a oportunidade de fornecer observações detalhadas em cada pergunta, abordando pontos relevantes. Os integrantes do Grupo 4 ([Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS)) serão responsáveis pela avaliação e revisão do artefato, respectivamente.
 
 ## Lista de Verificação
 

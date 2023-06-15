@@ -6,7 +6,7 @@ Este documento é de verificação do artefato Ferramentas produzido pelo Grupo 
 
 ## Metodologia 
 
-A metodologia utilizada para verificar o artefato consiste em utilizar as checklists elaboradas na fase de [planejamento](../Ponto4/Planejamento_verificacao_ponto4.md). Os resultados da verificação são obtidos a partir das respostas do avaliador às perguntas das checklists, utilizando as opções "Sim", "Não", ou "Incompleto". Após realizar as análises, será apresentado os comentáirios referentes aos problemas encontrados
+A metodologia utilizada para verificar o artefato consiste em utilizar as checklists elaboradas na fase de [planejamento](Planejamento_verificacao_Entrega4.md). Os resultados da verificação são obtidos a partir das respostas do avaliador às perguntas das checklists, utilizando as opções "Sim", "Não", ou "Incompleto". Após realizar as análises, será apresentado os comentáirios referentes aos problemas encontrados
 
 ## Checklist Preenchido
 

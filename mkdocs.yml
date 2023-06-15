@@ -68,8 +68,10 @@ nav:
     - Questionário: Elicitacao/questionario.md
     - Introspecção: Elicitacao/introspeccao.md
     - Storytelling: Elicitacao/storytelling.md
-    - First Things First: Elicitacao/priorizacao-FTF.md
-    - In or Out: Elicitacao/priorizacaoInOrOut.md
+    - Priorizaçao: 
+      - Metodologias: Elicitacao/priorizacao.md
+      - First Things First: Elicitacao/priorizacao-FTF.md
+      - In or Out: Elicitacao/priorizacaoInOrOut.md
   - Modelagem:
     - Cenários: Modelagem/cenarios.md
     - Léxicos: Modelagem/lexicos.md
@@ -111,7 +113,7 @@ nav:
           - Léxicos: Verificacao/Grupo5/Entrega3/lexicos.md
           - Especificação Suplementar: Verificacao/Grupo5/Entrega3/esp-suplementar.md
         - Entrega 4:
-          - Planejamento: Verificacao/Grupo5/Entrega4/Planejamento_verificacao_ponto4.md
+          - Planejamento: Verificacao/Grupo5/Entrega4/Planejamento_verificacao_Entrega4.md
           - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historias.md
           - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
           - NFR: Verificacao/Grupo5/Entrega4/NFR.md
