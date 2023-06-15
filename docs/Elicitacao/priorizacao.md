@@ -185,6 +185,7 @@ O seguinte documento esta unindo dois arquivos que foram criados separadamente, 
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 11/06/2023 | 12/06/2023 |  1.0   | Criação do documento, unindo as metodologias | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
-<!-- | 13/05/2023 | 14/05/2023 |  1.0   | Entrevistas FTF | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) | -->
+| 13/05/2023 | 14/05/2023 |  1.1   | Entrevistas FTF | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+| 13/06/2023 | 14/06/2023 |  1.2   | Correções | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
 
 <p align="center">Tabela 5 -  Histórico de Versão da Priorização</p>
