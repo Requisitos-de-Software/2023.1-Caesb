@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A etapa de verificação desempenha um papel crucial no desenvolvimento de um projeto, pois é nesse momento que os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos estabelecidos. Portanto, este documento abrange o planejamento da verificação dos artefatos referentes ao NFR Framework, Product Backlog e Histórias de Usuário, elaborados pelo [Grupo 5](https://requisitos-de-software.github.io/2023.1-Simplenote/) durante a Etapa 4.
+A etapa de verificação desempenha um papel crucial no desenvolvimento de um projeto, pois é nesse momento que os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos estabelecidos. Portanto, este documento abrange o planejamento da verificação dos artefatos referentes a [História de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/), o [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) e o [NFR Framework](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/), elaborados pelo [Grupo 5](https://requisitos-de-software.github.io/2023.1-Simplenote/) durante a Etapa 4.
 
 ## Objetivos
 
@@ -20,13 +20,13 @@ Os encarregados pela verificação dos artefatos listados na introdução são p
 
 ### Artefatos avaliados
 
-Produzidos para entrega 4, os seguintes artefatos a serem avaliados pelos autores serão a [Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/), que no momento da avaliação se encontra na versão 1.2; o [Product Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/), que no momento da avaliação se encontra na versão 1.3; e o [NFR Framework](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/), que no momento da avaliação se encontra na versão 1.0.
+Produzidos para etapa 4, os seguintes artefatos a serem avaliados pelos autores serão a [História de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/), que no momento da avaliação se encontra na versão 1.2; o [Product Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/), que no momento da avaliação se encontra na versão 1.3; e o [NFR Framework](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/), que no momento da avaliação se encontra na versão 1.0.
 
 ## Listas de Verificação
 
-As listas de verificação foram elaboradas levando em consideração os critérios estabelecidos para os artefatos, que além dos que estão detalhados nas referências bibliográficas, foram também estabelecidos em grupo para que houvesse uma unidade entre as avaliações entregues. Além dos elementos mencionados anteriormente, também foi examinado o relatório de entrega produzido pelo monitor do Grupo 5, Gustavo Martins.
+As listas de verificação foram elaboradas levando em consideração os critérios estabelecidos para os artefatos, que além dos que estão detalhados nas referências bibliográficas, foram também estabelecidos em grupo para que houvesse uma unidade entre as avaliações entregues. Além dos elementos mencionados anteriormente, também foi examinado o relatório da etapa produzido pela monitora do Grupo 5, Letícia Aires.
 
-Com o objetivo de estruturar melhor o processo de verificação, cada artefato terá uma lista de verificação, que aqui será separada em duas para melhor estruturação do documento, sendo que a primeira e a específica será aplicada em todas as etapas de verificação, representada nas tabelas subsequentes. Dessa forma, as listas de verificação são as seguintes: [Verificado em Todos os Artefatos](#verificado-em-todos-os-artefatos), que como o nome sugere, tem perguntas referentes a todos os astefatos. Seguido com as tabelas, temos da [Verificação das Histórias de Usuário](#verificação-das-histórias-de-usuário), [Verificação do Backlog](#verificação-do-backlog), e por fim a Verificação do [NFR Framework](#verificação-do-nfr-framework). As tabelas de 2 a 4 contêm as listas de verificação específicas para cada artefato.
+Com o objetivo de estruturar melhor o processo de verificação, cada artefato terá uma lista de verificação, que aqui será separada em duas para melhor estruturação do documento, sendo que a primeira e a específica será aplicada em todas as etapas de verificação, representada nas tabelas subsequentes. Dessa forma, as listas de verificação são as seguintes: [Verificado em Todos os Artefatos](#verificado-em-todos-os-artefatos), que como o nome sugere, tem perguntas referentes a todos os astefatos. Seguido com as tabelas, temos da [Verificação das História de Usuário](#verificação-das-histórias-de-usuário), [Verificação do Backlog](#verificação-do-backlog), e por fim a Verificação do [NFR Framework](#verificação-do-nfr-framework). As tabelas de 2 a 4 contêm as listas de verificação específicas para cada artefato.
 
 ### Verificado em Todos os Artefatos
 
@@ -45,9 +45,9 @@ Tabela 1 - Lista de verificação para todos os artefatos. (Fonte: autor, 2023).
 
 </center>
 
-### Verificação das Histórias de Usuário
+### Verificação das História de Usuário
 
-Segue a Tabela 2 com a lista de verificação que será utilizada na avaliação do artefato Histórias de Usuário:
+Segue a Tabela 2 com a lista de verificação que será utilizada na avaliação do artefato História de Usuário:
 
 | ID | Descrição | Avaliação | Observação |
 | - | - | - | - |
@@ -61,7 +61,7 @@ Segue a Tabela 2 com a lista de verificação que será utilizada na avaliação
 
 <center>
 
-Tabela 2 - Lista de verificação para o artefato Histórias de Usuário. (Fonte: autor, 2023).
+Tabela 2 - Lista de verificação para o artefato História de Usuário. (Fonte: autor, 2023).
 
 </center>
 
@@ -123,4 +123,4 @@ Tabela 4 - Lista de verificação para o artefato NFR Framework. (Fonte: autor, 
 
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 13/05/2023 | 14/05/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria) |
+| 13/06/2023 | 14/06/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria) |

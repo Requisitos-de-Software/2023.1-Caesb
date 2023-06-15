@@ -10,7 +10,7 @@ Este documento tem como objetivo relatar os resultados das verificações realiz
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos através das listas de verificação elaboradas na página de [planejamento](./Planejamento_verificacao_ponto4.md). As listas de verificação foram desenvolvidas com base nas perguntas apresentadas, e nesta avaliação foram utilizadas as opções **"Sim"**, **"Não"**, **"Incompleto"** ou **"Não se aplica"** para respondê-las. Para identificação mais rápida das correções necessárias, as opções **"Não"** e **"Incompleto"** estarão em negrito. Além disso, nesta avaliação tivemos a oportunidade de fornecer observações detalhadas em cada pergunta, abordando pontos relevantes. Essas listas de verificação foram fundamentadas na dissertação de mestrado de Reinaldo Antônio da Silva, fornecendo uma base sólida para a avaliação do artefato. Os integrantes do Grupo 4 ([Caetano](https://github.com/caeslucio) e [Daniel](https://github.com/daniel-de-sousa)) serão responsáveis pela avaliação e revisão do artefato, respectivamente.
+Os resultados da verificação do artefato foram obtidos através das listas de verificação elaboradas na página de [planejamento](./Planejamento_verificacao_ponto4.md). As listas de verificação foram desenvolvidas com base nas perguntas apresentadas, e nesta avaliação foram utilizadas as opções **"Sim"**, **"Não"**, **"Incompleto"** ou **"Não se aplica"** para respondê-las. Para identificação mais rápida das correções necessárias, as opções **"Não"** e **"Incompleto"** estarão em negrito. Além disso, nesta avaliação tivemos a oportunidade de fornecer observações detalhadas em cada pergunta, abordando pontos relevantes. Os integrantes do Grupo 4 ([Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS)) serão responsáveis pela avaliação e revisão do artefato, respectivamente.
 
 ## Lista de Verificação
 
@@ -24,7 +24,7 @@ A Tabela 1 estabelece a lista de verificação com os dados obtidos a partir da 
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | **Incompleto** | Tabelas não tem. Não há autor nem fonte nas demais |
 | 5 | Os textos estão na norma padrão? | Sim |  |
 | 6 | Há referência para fontes externas para validação dos gráficos SIG? | **Não** | Não é citado |
-| 7 | Cada SIG possui sua respectiva propagação de Impacto? | **Não** | Especificado [abaixo](#id-7) |
+| 7 | Cada SIG possui sua respectiva propagação de Impacto? | **Não** | Detalhamento na [ID 7](#-id-7) |
 | 8 | Os softgoals se refinam até um nível de especificação bem definido? | **Não** | Detalhamento na [ID 8](#-id-8) |
 | 9 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | **Não** | Não há cartões de especificação |
 | 10 | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Ajuste, Dependências, Prioridade, Conflitos e História? | **Não** | Não há cartões de especificação |
