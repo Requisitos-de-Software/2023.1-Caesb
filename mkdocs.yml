@@ -82,12 +82,15 @@ nav:
   - Verificação: 
       - Grupo 5:
         - Template: Verificacao/Grupo5/template.md
-        - Entrega 1:  
-          - Ferramentas: Verificacao/Grupo5/Entrega1/ferramenta.md
-          - Metodologia: Verificacao/Grupo5/Entrega1/metodologia.md
-          - Cronograma Planejado: Verificacao/Grupo5/Entrega1/cronograma-planejado.md
-          - Cronograma Realizado: Verificacao/Grupo5/Entrega1/cronograma-realizado.md
-          - Aplicativo Escolhido: Verificacao/Grupo5/Entrega1/aplicativo-selecionado.md
+        - Entrega 1:
+          - Planejamenoto: Verificacao/Grupo5/Entrega1/Entrega1.md
+          - Cronograma Planejado: Verificacao/Grupo5/Entrega1/Cronograma_Planjeado.md
+          - Cronograma Realizado: Verificacao/Grupo5/Entrega1/Cronograma_Realizado.md
+          - Atas: Verificacao/Grupo5/Entrega1/Atas.md
+          - Ferramentas: Verificacao/Grupo5/Entrega1/Ferramentas.md
+          - Metodologias: Verificacao/Grupo5/Entrega1/Metodologias.md
+          - Aplicativo Selecionado: Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md
+          - Rich Picture: Verificacao/Grupo5/Entrega1/Rich_Picture.md
         - Entrega 2: 
           - Perfil de Usuário: Verificacao/Grupo5/Entrega2/perfil-usuario.md
           - Priorização: Verificacao/Grupo5/Entrega2/persona.md
