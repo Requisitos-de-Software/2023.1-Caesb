@@ -82,7 +82,7 @@ nav:
   - Verificação: 
       - Grupo 5:
         - Entrega 1:
-          - Planejamenoto: Verificacao/Grupo5/Entrega1/Entrega1.md
+          - Planejamento: Verificacao/Grupo5/Entrega1/Entrega1.md
           - Cronograma Planejado: Verificacao/Grupo5/Entrega1/Cronograma_Planjeado.md
           - Cronograma Realizado: Verificacao/Grupo5/Entrega1/Cronograma_Realizado.md
           - Atas: Verificacao/Grupo5/Entrega1/Atas.md
@@ -112,9 +112,9 @@ nav:
           - Especificação Suplementar: Verificacao/Grupo5/Entrega3/esp-suplementar.md
         - Entrega 4:
           - Planejamento: Verificacao/Grupo5/Ponto4/Planejamento_verificacao_ponto4.md
-          - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historias.md
-          - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
-          - NFR: Verificacao/Grupo5/Entrega4/nfr.md
+          - Histórias de Usuário: Verificacao/Grupo5/Ponto4/historia_usuario.md
+          - Backlog: Verificacao/Grupo5/Ponto4/backlog.md
+          - NFR: Verificacao/Grupo5/Ponto4/NFR.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
