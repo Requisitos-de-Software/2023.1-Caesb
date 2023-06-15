@@ -123,20 +123,17 @@ Não é falado o motivo pelo qual deveria se definir o perfil de usuário dentro
 ### ID 14 - É mostrado como o perfil de usuário vai ser usado durante o projeto?
 Não é demostrado como ele vai ser usado no projeto.
 
-## Sugestões
-Pontos Positivos:
+## Pontos Positivos
 
 * O artefato está bem construído, bem descrito e detalhado, o que facilita a compreensão do mesmo.
 * Conseguiram recolher uma quantidade significativa de dados.
 
-Sugestão: 
+## Sugestão
 
 * Explicar o motivo da escolha desse método.
 * Explicar como que chegaram a conclusão de que essas perguntas eram as melhores a serem feitas.
 * Mostrar o por que era necessário um perfil de usuário dentro do projeto.
 * Mostrar como o perfil de usuário vai ser utilizado dentro do projeto.
-
-
 
 ## Referências Bibliográficas
 
@@ -153,4 +150,4 @@ Sugestão:
 ## Historico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 14/06/2023 |        14/06/2023        |  1.0   | Criação do documento | [Daniel dos Santos](https://github.com/daniel-de-sousa) | [Raquel Eucaria](https://github.com/raqueleucaria) |  |
+| 14/06/2023 |        14/06/2023        |  1.0   | Criação do documento | [Daniel dos Santos](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
