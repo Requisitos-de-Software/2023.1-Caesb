@@ -31,10 +31,12 @@ A seguir, na tabela 1, é apresentado o checklist preenchido, da versão 1.1 do 
 ## Comentários
 ***CN09 -*** O cenário descreve as ações realizadas pelos atores e pelo aplicativo?
 <br>
+
 - No cenário apresentado, é importante incluir as ações realizadas tanto pelos atores envolvidos quanto pelo aplicativo em questão. O cenário descreve apenas as ações dos usuários.
 
 ***CN12 -*** O cenário está associado a requisitos ou histórias de usuário específicas?
 <br>
+
 - O cenário está associado a requisitos, porém, poderia linkar o cenário com o seu respectivo requisito.
 
 ## Referências
