@@ -81,7 +81,6 @@ nav:
       - NFR Framework: Modelagem/Agil/NFR.md
   - Verificação: 
       - Grupo 5:
-        - Template: Verificacao/Grupo5/template.md
         - Entrega 1:
           - Planejamenoto: Verificacao/Grupo5/Entrega1/Entrega1.md
           - Cronograma Planejado: Verificacao/Grupo5/Entrega1/Cronograma_Planjeado.md
@@ -106,15 +105,15 @@ nav:
             - First Things First:  Verificacao/Grupo5/Entrega2/priorizacao/FTF.md
             - MoScoW: Verificacao/Grupo5/Entrega2/priorizacao/moscow.md
             - Three Level Scale ou TLS: Verificacao/Grupo5/Entrega2/priorizacao/tls.md
-
         - Entrega 3: 
           - Cenários: Verificacao/Grupo5/Entrega3/cenarios.md
           - Casos de Uso: Verificacao/Grupo5/Entrega3/casos-de-uso.md
           - Léxicos: Verificacao/Grupo5/Entrega3/lexicos.md
           - Especificação Suplementar: Verificacao/Grupo5/Entrega3/esp-suplementar.md
         - Entrega 4:
-          - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
+          - Planejamento: Verificacao/Grupo5/Ponto4/Planejamento_verificacao_ponto4.md
           - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historias.md
+          - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
           - NFR: Verificacao/Grupo5/Entrega4/nfr.md
   - Atas:
     - Atas/Reuniao01.md
