@@ -36,10 +36,10 @@ Para realizar a inspeção da priorização (Entrega 2), foi designado a integra
 ## Artefatos Verificados
 O artefato verificado é o de Priorização da Entrega 2, de forma geral e em específico (cada técnica). Da seguinte forma:
 
-* [Priorização Geral]() - Versão 2.0 na data 14/06/2023. Autor: [Beatriz]()
-* [First Things First]() - Versão 2.0 na data 14/06/2023. Autor: [Leandro]()
-* [Three Level Scale ou TLS]() - Versão 1.4 na data 14/06/2023. Autor: [Mylena]()
-* [MoScoW]() - Versão 1.3 na data 14/06/2023. Autor: [Mylena]()
+<!-- * [Priorização Geral]() - Versão 2.0 na data 14/06/2023. Autor: [Beatriz]() -->
+* [First Things First]() - Versão 1.3 na data 14/06/2023. Autor: [Ana]()
+* [MoScoW]() - Versão 1.3 na data 15/05/2023. Autor: [Mylena]()
+* [Three Level Scale ou TLS]() - Versão 1.3 na data 15/05/2023. Autor: [Ana]()
 
 ## Checklist
 Os Checklists possuem uma enumeração, para permitir uma melhor identificação, além da pergunta (Descrição), resposta (Avaliação) e uma Observação breve.
@@ -61,7 +61,7 @@ Para todos os artefato foram definidas perguntas padrões, que podem ser alterad
 
 
 
-### Priorização Geral
+<!-- ### Priorização Geral
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Para todos os artefato foram definidas perguntas padrões, que podem ser alterad
 | 2 | A participação do usuário no processo de priorização? | Sim - Não - Incompleto | - |
 | 3 | A participação de personas na priorização de requisitos? | Sim - Não - Incompleto | Através da técnica de encenação |
 
-<p>Tabela 3 - Priorização Geral (Fonte: Autores)</p>
+<p>Tabela 3 - Priorização Geral (Fonte: Autores)</p> -->
 
 
 ### First Things First (FTF)
@@ -89,29 +89,9 @@ Para todos os artefato foram definidas perguntas padrões, que podem ser alterad
 | 11 | Lista de requisitos ordenada? | Sim - Não - Incompleto | Em ordem decrescente de prioridade |
 | 12 | Gravação da realização da técnica? | Sim - Não - Incompleto | Registro da realização da metodologia |
 
-<p>Tabela 4 - First Things First (Fonte: Autores)</p>
+<p>Tabela 3 - First Things First (Fonte: Autores)</p>
 
-### Three Level Scale ou TLS
-
-Wiegers, Karl; Beatty, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
-
-| ID | Descrição | Avaliação | Observação |
-| --- | --- | --- | --- |
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |  |  |
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  |  |
-| 3 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  |  |
-| 4 | A metodologia esta de acordo com o processo de priorização? |  |  |
-| 5 | Os requisitos foram divididos pela importência e a urgência? |  |  |
-| 6 | Os níveis de priorização foram divididos em 3?  |  |  |
-| 7 | Foi utilizado o modelo de quadrante para classificar os requistitos? |  |  |
-| 8 | As dependências de requisitos foram levadas em consideração no processo de ranqueamento? |  |  |
-| 9 | Foi determinado um cronograma para a realização dessa priorização? |  |  |
-| 10 | Há no documento a expecificação dos participantes e seus respectivos papéis? |  |  |
-| 11 | Foram apresentados no documento os resultados da priorização e a gravação da reunião? |  |  |
-
-<p>Tabela 4 - Three Level Scale ou TLS (Fonte: Autores)</p>
-
-1. MoScoW
+### MoScoW
 
 (Carlos Eduardo Vazquez, ,Guilherme Siqu..., Engenharia de Requisitos: software orie...)
 
@@ -127,15 +107,36 @@ Wiegers, Karl; Beatty, Joy.Software Requirements (Developer Best Practices), 3rd
 | 8 | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto? | Sim - Não - Incompleto |  |
 | 9 | A participação do cliente e/ou persona no processo de priorização? | Sim - Não - Incompleto |  |
 
-<p>Tabela 5 - MoScoW (Fonte: Autores)</p>
+<p>Tabela 4 - MoScoW (Fonte: Autores)</p>
+
+### Three Level Scale ou TLS
+
+Wiegers, Karl; Beatty, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
+
+| ID | Descrição | Avaliação | Observação |
+| --- | --- | --- | --- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim - Não - Incompleto  | - |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim - Não - Incompleto   | -  |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim - Não - Incompleto  | - |
+| 4 | A metodologia esta de acordo com o processo de priorização? |Sim - Não - Incompleto   | - |
+| 5 | Os requisitos foram divididos pela importancia e a urgência? | Sim - Não - Incompleto  | Divisão dos grupos a serem priorizados |
+| 6 | Os níveis de priorização foram divididos em 3?  | Sim - Não - Incompleto  | Alta, média e baixa |
+| 7 | Foi utilizado o modelo de quadrante para classificar os requistitos? |Sim - Não - Incompleto   | Quadrantes: 1º - Alta, 2º Média, 3º Baixa, 4º Sem valor |
+| 8 | As dependências de requisitos foram levadas em consideração no processo de ranqueamento? | Sim - Não - Incompleto  | - |
+| 9 | Foi determinado um cronograma para a realização dessa priorização? |Sim - Não - Incompleto   | - |
+| 10 | Há no documento a expecificação dos participantes e seus respectivos papéis? | Sim - Não - Incompleto  | - |
+| 11 | Foram apresentados no documento os resultados da priorização e a gravação da reunião? | Sim - Não - Incompleto  | - |
+
+<p>Tabela 5 - Three Level Scale ou TLS (Fonte: Autores)</p>
+
 
 ## Bibliografia
 
-> 
-> 
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível no [link]().
 
-## Referência bibliográfica 
-[1] 
+> Vazquez, C. E., & Simões, G. S. (2016). Engenharia de requisitos: software orientado ao negócio.
+
+> FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. 
 
 
 ## Historico de Versão

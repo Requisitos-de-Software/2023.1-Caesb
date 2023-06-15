@@ -5,12 +5,41 @@
 Este documento é referente a verificação do [Brainstorming]() no processo de Priorização de Requisitos, produzido pelo Grupo 5 que tem como projeto o aplicativo SimpleNote.
 
 ## Metodologia
-Para verificar a entrevista foi usada a metodologia de inspeção de Fagan. O checklist (e mais detalhes) apresentados forma no [Planejamento da Verificação]() que corresponde a parte de preparação da inspeção, com base principalmente na Interação Humano-Computador[¹]() , analisando a utilização da técnica para elicitar requisitos do projeto do Grupo 5.
+Para verificar a entrevista foi usada a metodologia de inspeção de Fagan. O checklist esta na Tabela 1 e mais detalhes foram apresentados no [Planejamento da Verificação]() que corresponde a parte de preparação da inspeção, com base principalmente na Interação Humano-Computador[¹]() , analisando a utilização da técnica para elicitar requisitos do projeto do Grupo 5.
 
+| ID | Descrição | Avaliação | Observação |
+| --- | --- | --- | --- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim - Não - Incompleto | Trásm uma breve explicação do artefato, de fácil entendimento. |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Sim - Não - Incompleto | Apresentadas de forma correta e fazendo sentido com o artefato. |
+| 3 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim - Não - Incompleto | - |
+| 4 | A metodologia esta de acordo com o processo de elicitação? | Sim - Não - Incompleto | - |
+| 5 | Teve preparação para o brainstorming?  | Sim - Não - Incompleto | Uso de técnica (diagrama de afinidade), local, horáio, previsão da duração… |
+| 6 | Preparação do roteiro de questões?  | Sim - Não - Incompleto | Sem censura, sem construção de sistema (foco na motivação das sugestões), analise de sugestões duplicadas… |
+| 7 | Execução bem feita?  | Sim - Não - Incompleto | Moderador foi bem comunicativo, manteve o foco da sessão, quando um tema foi esgotado soube passar para um próximo… |
+| 8 | Foi registrado as sugestões? | Sim - Não - Incompleto | Registro das sugestões visando referências futuras, em formato de mapa mental ou lista enumerado…  |
+| 9 | Foi feito o relatório com a análise de desejos e necessidades dos usuários? | Sim - Não - Incompleto | tabela, lista com a interpretação dos dados (itens mais prioritários, ordenado por prioridade…) |
+| 10 | Estabelecimento dos requisitos após o brainstorming de forma coerente? | Sim - Não - Incompleto | - |
+
+<p align="center">Tabela 1 - Checklist brainstorming. (Fonte: Autor)</p>
 
 
 ## Inspeção
-Depois da realização das inspeção foi possível obter o resultado presente na tabela 1.
+Depois da realização das inspeção foi possível obter o resultado presente na tabela 2.
+
+| ID | Descrição | Avaliação | Observação |
+| --- | --- | --- | --- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim - Não - Incompleto | Trás uma breve explicação do artefato, de fácil entendimento. |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Sim - Não - Incompleto | Apresentadas de forma correta e fazendo sentido com o artefato. |
+| 3 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim - Não - Incompleto | - |
+| 4 | A metodologia esta de acordo com o processo de elicitação? | Sim - Não - Incompleto | - |
+| 5 | Teve preparação para o brainstorming?  | Sim - Não - Incompleto | Uso de técnica (diagrama de afinidade), local, horáio, previsão da duração… |
+| 6 | Preparação do roteiro de questões?  | Sim - Não - Incompleto | As perguntas planejadas, regras |
+| 7 | Execução bem feita?  | Sim - Não - Incompleto | Moderador foi bem comunicativo, manteve o foco da sessão, quando um tema foi esgotado soube passar para um próximo… Sem censura, sem construção de sistema (foco na motivação das sugestões), analise de sugestões duplicadas… |
+| 8 | Foi registrado as sugestões? | Sim - Não - Incompleto | Registro das sugestões visando referências futuras, em formato de mapa mental ou lista enumerado… E se foi gravado o processo. |
+| 9 | Foi feito o relatório com a análise de desejos e necessidades dos usuários? | Sim - Não - Incompleto | tabela, lista com a interpretação dos dados (itens mais prioritários, ordenado por prioridade…) |
+| 10 | Estabelecimento dos requisitos após o brainstorming de forma coerente? | Sim - Não - Incompleto | - |
+
+<p>Tabela 2 - Brainstorming (Fonte: Autores)</p>
 
 <center>
 
