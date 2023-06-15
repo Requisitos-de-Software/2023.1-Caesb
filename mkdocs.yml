@@ -111,10 +111,10 @@ nav:
           - Léxicos: Verificacao/Grupo5/Entrega3/lexicos.md
           - Especificação Suplementar: Verificacao/Grupo5/Entrega3/esp-suplementar.md
         - Entrega 4:
-          - Planejamento: Verificacao/Grupo5/Ponto4/Planejamento_verificacao_ponto4.md
-          - Histórias de Usuário: Verificacao/Grupo5/Ponto4/historia_usuario.md
-          - Backlog: Verificacao/Grupo5/Ponto4/backlog.md
-          - NFR: Verificacao/Grupo5/Ponto4/NFR.md
+          - Planejamento: Verificacao/Grupo5/Entrega4/Planejamento_verificacao_ponto4.md
+          - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historia_usuario.md
+          - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
+          - NFR: Verificacao/Grupo5/Entrega4/NFR.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
