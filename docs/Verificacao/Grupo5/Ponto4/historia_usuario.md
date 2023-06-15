@@ -17,13 +17,13 @@ Na tabela 1 abaixo será apresentado o checklist preenchido com os feedbacks rea
 |----|----------------------------------------------------------------------------------------------------------|----------|-------------|
 | 1 | O artefato possui uma introdução condizente com o conteudo do texto? | Sim |Porém acho importante definir melhor a utilização do artefato dentro do projeto |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Incompleto | Não é referenciado no texto| 
-| 3 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | incompleto|Não são chamados no texto |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | incompleto|Não são chamados no texto |
 | 4 | As metodologias do texto definem de forma condizente  as formas e os métodos que o grupo realizou o artefato? | Não | Explicação no texto abaixo |
 | 5 | A história de usuários está redigida de maneira clara e sucinta, incluindo informações sobre "quem", "o que" e "por que"? | Incompleto (5 não possuem) | Explicação no texto abaixo|
 | 6 |Cada história de usuário possui um título autoexplicativo, que resume o objetivo principal da história? | Não  |Nenhuma possui título autoexplicativo|
 | 7 | A história de usuário contêm critérios de aceitação que estabelecem os requisitos para considerar a história concluída? | Sim | |
 | 9 | A história de usuário contêm um campo para prioridade alta, baixa ou média | Não | Não há esse campo|
-| 9 |A história de usuário foi realizada ou validada com o auxiliio do cliente ou personas? | Não | Explicação no texto abaixo|
+| 9 |A história de usuário foi realizada ou validada com o auxílio do cliente ou personas? | Não | Explicação no texto abaixo|
 | 10 | A história de usuário é passível de teste com base nos critérios de aceitação definidos? | Incompleto (2 não possuem) |Explicado no texto abaixo |
 | 11 | A história de usuário é baseada em  requisitos funcionais e não funcionas | Incompleto | Possui apenas requisitos funcionais|
 
