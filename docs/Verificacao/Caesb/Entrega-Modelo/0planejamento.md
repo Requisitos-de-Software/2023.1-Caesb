@@ -1,27 +1,18 @@
 # Planejamento Entrega 1
 
 ## Introdução
-----> texto velho
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo Grupo 4 na Etapa 2.
 
-----> texto novo
-a verificação é um processo utilizado para garantir que os requisitos do sistema estejam corretos, consistentes, completos e compreensíveis. A verificação nesse contexto está relacionada à avaliação dos requisitos, verificando se eles atendem às necessidades e expectativas dos stakeholders e se estão bem formulados.
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82), o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos relativos a Entrega 1 do grupo x, da disciplina Requisitos de Software.
 
 ## Objetivos
-Este documento tem como objetivo contemplar as etapas essenciais para a produção dos documentos de verificação referentes a entrega x do Grupo 5.
+Este documento tem como objetivo contemplar as etapas para a preparação, produção e finalização dos documentos de verificação referentes a entrega x do Grupo 5.
 
 ## Metodologia
-----> texto antigo
-A metodologia escolhida para esta verificação é a inspeção, tomando como base os princípios desenvolvidos por Fagan, em 1976 na IBM. Essa técnica consiste em uma revisão formal dos artefatos produzidos, utilizando uma checklist, a qual possui objetivo de encontrar defeitos.
-
-----> texto novo
-
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [1], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". 
 
 
 ## Cronograma
-Conforme o [Planejamento Geral](./0planejamento.md), a preparação para inspeção ocorrerá do dia 07/06/2023 ao 10/06/2023 e a realização será feita do dia 07/06/2023 ao 10/06/2023. E o responsável pela verificação da Entrega 1, foi o membro [Daniel]().
-
-
+Conforme o [Planejamento Geral](./0planejamento.md), a preparação para inspeção ocorrerá do dia 07/06/2023 ao 10/06/2023 e a realização será feita do dia 07/06/2023 ao 10/06/2023. E o responsável pela verificação da Entrega 1, foi o membro [Daniel](https://github.com/daniel-de-sousa).
 
 ## Artefatos Verificados
 Os artefatos que serão verificados da Entrega 1, com seu respectivo autor e data e versão analisada, são:
@@ -48,21 +39,25 @@ Os checklists foram construídas levando em conta os padrões esperados para cad
 | 5 | Pergunta x? |  |  |
 | 6 | Pergunta y? Se necessário trazer a explicar dos termos citados, no mesmo espaço da pergunta. |  |  |
 
-se necessario fazer informacoes sugerindo melhoras pontos positivos negativos
+## Pontos de melhoria
+### ID x
+<explicar como esse ponto poderia ser melhorado, de acordo com a literatura base>
+
+## Conclusão
+<parabenizar o grupo pelo trabalho\> + <comentarios extras como sugestões\>
 
 ## Referência bibliográfica
 
-[1]
-
+> [1] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
 
 
 ## Bibliografia
 
->
+> REINEHR, Sheila. Engenharia de requisitos. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 17 jun. 2023.
 
 > 
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 13/06/2023 |        14/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro]|  |
+| 13/06/2023 |        14/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb)|  |
