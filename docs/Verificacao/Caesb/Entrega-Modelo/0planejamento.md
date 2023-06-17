@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82), o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos relativos a Entrega 1 do grupo x, da disciplina Requisitos de Software.
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos relativos a Entrega 1 do [grupo 5](https://requisitos-de-software.github.io/2023.1-Simplenote/) [2], da disciplina Requisitos de Software.
 
 ## Objetivos
-Este documento tem como objetivo contemplar as etapas para a preparação, produção e finalização dos documentos de verificação referentes a entrega x do Grupo 5.
+Este documento tem como objetivo contemplar as etapas para a preparação, produção e finalização dos documentos de verificação referentes a entrega 1.
 
 ## Metodologia
-Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [1], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". 
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". 
 
 
 ## Cronograma
@@ -39,23 +39,27 @@ Os checklists foram construídas levando em conta os padrões esperados para cad
 | 5 | Pergunta x? |  |  |
 | 6 | Pergunta y? Se necessário trazer a explicar dos termos citados, no mesmo espaço da pergunta. |  |  |
 
+<!-- 
 ## Pontos de melhoria
 ### ID x
 <explicar como esse ponto poderia ser melhorado, de acordo com a literatura base>
 
 ## Conclusão
-<parabenizar o grupo pelo trabalho\> + <comentarios extras como sugestões\>
+<parabenizar o grupo pelo trabalho\> + <comentarios extras como sugestões\> -->
 
 ## Referência bibliográfica
 
-> [1] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
+> [1] ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82). Disponível em: https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:ed-2:v1:en . Acesso em: 13 jun. 2023
+
+> [3] SIMPLENOTE. Grupo 5. Requisitos de Software. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/ . Acesso em: 13 jun. 2023.
+
+> [2] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
 
 
 ## Bibliografia
 
-> REINEHR, Sheila. Engenharia de requisitos. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 17 jun. 2023.
+> REINEHR, Sheila. Engenharia de requisitos. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 13 jun. 2023.
 
-> 
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
