@@ -43,10 +43,24 @@ Tabela 2 - Distribuição dos membros (Fonte: Autores)
 Cada entrega possui diversos artefatos, por isso eles devem ver listados e deve-se apresentado a versão analisada, a data do documento e o autor. Conforme o exemplo:
 - [Artefato Exemplo]() - Versão X.0 na data XX/XX/XXXX. Autores: [Fulano]()
 
+## Considerações sobre verificação pelo Grupo 3
+breve texto explicando sobre a análise dos resultados da verificação pelo grupo 3 
 
+<center>
+
+|Item a ser corrigido |Responsável pela correção|Revisor|
+|-------|------|------|
+|x |pessoaX      | pessoaY |
+|x |pessoaX      | pessoaY | 
+|x |pessoaX      | pessoaY | 
+|x |pessoaX      | pessoaY | 
+
+Tabela 3 - Distribuição da Correção dos Artefatos (Fonte: Autores)
+
+</center>
 
 ## Checklist
-Os Checklists serão criados com base em uma litetarura de referência que deve ser apresentada em um paragráfo antes do checklist em si. Os quais possuem uma enumeração (ID), para permitir uma melhor identificação, além da pergunta (Descrição), resposta (Avaliação) e um comentário breve (Observação). Para todos os artefatos foram definidas 4 perguntas padrões, as demais perguntas serão desenvolvidas com base na literatura base referente ao artefato, Conforme a Tabela 3.
+Os Checklists serão criados com base em uma litetarura de referência que deve ser apresentada em um paragráfo antes do checklist em si. Os quais possuem uma enumeração (ID), para permitir uma melhor identificação, além da pergunta (Descrição), resposta (Avaliação) e um comentário breve (Observação). Para todos os artefatos foram definidas 4 perguntas padrões, as demais perguntas serão desenvolvidas com base na literatura base referente ao artefato, Conforme a Tabela 4.
 
 Justamente com o checklist deve-se fazer um gráfico com a avaliação do artefato, conforme a figura 1. Se for ncessário, deve-se uma justificativa para a avaliação feita, abaixo da tabela, tendo como título o ID e um resumo da pergunta. Além disso se preciso, deve-se apontar sugestões. E por fim fazer uma conclusão da verificação.
 
@@ -63,7 +77,7 @@ Justamente com o checklist deve-se fazer um gráfico com a avaliação do artefa
 | 5 | Pergunta x? |  |  |
 | 6 | Pergunta y? Se necessário trazer a explicar dos termos citados, no mesmo espaço da pergunta. |  |  |
 
-<p>Tabela 3 - Questões padrões para todos os Artefatos. (Fonte: Autor, 2023)</p>
+<p>Tabela 4 - Questões padrões para todos os Artefatos. (Fonte: Autor, 2023)</p>
 
 </center>
 

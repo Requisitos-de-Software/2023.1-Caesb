@@ -12,6 +12,19 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 
 <div id="artefatos"></div>
 
+## Considerações sobre verificação da entrega X pelo Grupo 3
+breve texto explicando sobre a análise dos resultados da verificação pelo grupo 3 
+
+<center>
+
+|Item a ser corrigido |Descrição|Responsável pela correção|Revisor|
+|-------|------|------|---------|
+|x | descreve como será corrigido |pessoaX      | pessoaY |
+|x | descreve como será corrigido |pessoaX      | pessoaY | 
+|x | descreve como será corrigido |pessoaX      | pessoaY | 
+|x | descreve como será corrigido |pessoaX      | pessoaY | 
+
+Tabela 3 - Distribuição da Correção dos Artefatos (Fonte: Autores)
 
 ## Artefatos Verificados
 Os artefatos verificados são:
