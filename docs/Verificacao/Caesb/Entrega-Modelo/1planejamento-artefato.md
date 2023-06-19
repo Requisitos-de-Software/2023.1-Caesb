@@ -10,7 +10,6 @@ O objetivo deste documento é estabelecer a orgaização e padronização para r
 ## Metodologia
 Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. 
 
-<div id="artefatos"></div>
 
 ## Considerações sobre verificação da entrega X pelo Grupo 3
 breve texto explicando sobre a análise dos resultados da verificação pelo grupo 3 
@@ -25,6 +24,8 @@ breve texto explicando sobre a análise dos resultados da verificação pelo gru
 |x | descreve como será corrigido |pessoaX      | pessoaY | 
 
 Tabela 3 - Distribuição da Correção dos Artefatos (Fonte: Autores)
+
+<div id="artefatos"></div>
 
 ## Artefatos Verificados
 Os artefatos verificados são:
