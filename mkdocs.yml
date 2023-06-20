@@ -83,7 +83,7 @@ nav:
       - NFR Framework: Modelagem/Agil/NFR.md
   - Verificação:
       - Caesb:
-        - Planejamento Geral: Verificacao/Caesb/Entrega-Modelo/0planejamento.md
+        - Planejamento Geral: Verificacao/Caesb/0planejamento-geral.md
         - Entrega 1:
           - Planejamento: Verificacao/Caesb/Entrega1/0planejamento.md
           - Cronograma Planejado: Verificacao/Caesb/Entrega1/Cronograma_Planjeado.md
@@ -160,8 +160,9 @@ nav:
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
     - Fazendo a verificação:
-      - Planejamento Geral: Verificacao/Caesb/Entrega-Modelo/0planejamento.md
-      - Planejamento do Artefato: Verificacao/Caesb/Entrega-Modelo/1planejamento-artefato.md
+      - Planejamento Geral: Verificacao/Caesb/0planejamento-geral.md
+      - Planejamento da Entrega: Verificacao/Caesb/Entrega-Modelo/0planejamento.md
+      - Artefato: Verificacao/Caesb/Entrega-Modelo/1artefato.md
   - Entregas: Apresentacoes/apresentacoes.md
 
 
