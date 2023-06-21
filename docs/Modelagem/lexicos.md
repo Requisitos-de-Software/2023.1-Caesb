@@ -7,11 +7,11 @@ A técnica de léxico consiste em descrever os símbolos e termos específicos d
 
 ## Metodologia
 <p align="justify">
-Os léxicos foram definidos a partir dos <a href="../../Elicitacao/priorizacao">requisitos priorizados</a>, além do uso da aplicação. E a sua descrição segue o <b>vocabulário mínimo</b> estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
+Os léxicos foram definidos a partir dos <a href="../../Elicitacao/priorizacao">requisitos priorizados</a> para garantir que ele cumpra seu objetivo principal e atenda às expectativas dos usuários, e também foram definidos a partir do uso da aplicação. E a sua descrição segue o <b>vocabulário mínimo</b> estabelecendo relações entre os termos e utilizando um conjunto reduzido de palavras objetivas. 
 
 Além disso, foi dado um <b>sinônimo</b> para os léxicos, auxiliando no entendimento e evitando ambiguidade. É importante, também, classificar o léxico em <b>estado, objeto ou modelo</b>, respectivamente um seria uma condição/forma da aplicação, o outro uma informação e o último uma ação que o software realizará, provavelmente sobre determinado objeto.
 
-Dessa forma, a construção de todos os léxicos seguirá a estrutura apresentada como exemplo na Tabela 1.
+Dessa forma, a construção de todos os léxicos seguirá a estrutura apresentada como exemplo na Tabela 1. Essa estrutura foi retirada do livro interação humano computador, da Simone.
 </p>
 
 **L0X - Nome Léxico**
@@ -249,3 +249,4 @@ Um dos pontos essenciais para a Engenharia de Requisitos é a validação dos ar
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)   |
 | 17/05/2023 |        19/05/2023        |  2.0   | Ajuste do style e melhorias| [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
 | 11/06/2023 |        12/06/2023        |  3.0   | Pré-verificação| [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb)   |
+| 21/06/2023 | 22/06/2023               | 3.1    | Ajustes no texto | [Paulo](https://github.com/https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria) |
