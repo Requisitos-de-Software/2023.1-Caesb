@@ -58,10 +58,10 @@ Na figura 1, abaixo, está apresentado o gráfico de distribuição das avaliaç
 Na tabela 2, abaixo, está apresentado comentários sobre as correções a serem feitas no artefato.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|estado|
-|-------|------|------|---------|---|--|
-| 10 | O Backlog não possiu a prioridade de cada tarefa | Adicionar uma coluna de prioridade no Backlog indicando a importância relativa de uma tarefa em relação a outras no backlog. | Guilherme | Daniel |-|
-| 11 | O Backlog não possiu o estado de cada tarefa | Adicionar uma coluna de estado no Backlog indicando o status atual da tarefa. | Guilherme | Daniel |-|
+|ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
+|-------|------|------|---------|---|--|--|
+| 10 | O Backlog não possiu a prioridade de cada tarefa | Adicionar uma coluna de prioridade no Backlog indicando a importância relativa de uma tarefa em relação a outras no backlog. | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 11 | O Backlog não possiu o estado de cada tarefa | Adicionar uma coluna de estado no Backlog indicando o status atual da tarefa. | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
