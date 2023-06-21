@@ -7,37 +7,36 @@ Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p.
 O objetivo deste documento é realizar a verificação das Ferramentas, artefato da Entrega 1, do Grupo 4, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
 
 ## Metodologia
-Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega X](./0planejamento.md).
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
 
 ## Verificações anteriores
-Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre as Ferramentas do grupo 5 ([SimpleNote]()). E o grupo 3 ([Banco Central](link para a verificação do banco central do artefato x)), fez a inspeção do nosso projeto (Caesb).
+Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre as Ferramentas do grupo 5 ([SimpleNote]()). E o grupo 3 ([VLC](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_ferramentas)), fez a inspeção do nosso projeto (Caesb).
 
-Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação do nosso próprio Ferramentas.
+Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação do nossas próprias Ferramentas.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios da literatura x[³]() >>>>> fazer a REFERÊNCIA BIBLIOGRAFICA<<<<<. Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato x.
+Os checklists foram estabelecido com base nos critérios de BUSH[³](). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Ferramentas. As perguntas de um a quatro são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de cinco a nove, foram geradas a partir da inspeção e da literatura de referência.
 
 
 <!-- ADICIONAR O CHECKLIST -->
 
 <center>
 
-| ID| Descrição | Avaliação | Observação | 
-|---|---|---|---|
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? || | 
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | | | 
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | || 
-| 4 | A metodologia esta de acordo com o artefato analisado? | | | 
-| 5 | Pergunta x[¹]()? | | | 
-| 6 | Pergunta y[²]()? | | |
+| ID | Descrição | Avaliação | Observação |
+| --- | --- | --- | --- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |  |  |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  |  |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |  |  |
+| 4 | A metodologia esta de acordo com o artefato analisado? |  |  |
+| 5 | As ferramentas referidas no artefato são utilizadas ao longo do projeto? |  |  |
+| 6 | Há um link para o site de cada ferramenta? |  |  |
+| 7 | Há uma explicação do objetivo de utilização de cada ferramenta? |  |  |
+| 8 | Há uma explicação do motivo de escolha de cada ferramenta? |  |  |
+| 9 | O artefato apresenta todas as ferramentas utilizadas pelo projeto? |  |  |
 
-<p>Tabela 1 - Checklist Exemplo (Fonte: Autores)</p>
+<p>Tabela 1 - Checklist Ferramentas (Fonte: Autores)</p>
 </center>
-
-
-[¹]() Explicar os termos. <br>
-[²]() Explicar os termos.
 
 
 ## Gráfico
@@ -54,9 +53,6 @@ Nova tabela com os erros identificados -> Conforme Planejamento Geral
 |ID |Descrição |Detalhes |Corretor|Revisor|Status|
 |-------|------|------|---------|---|--|
 | 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |ok|
-| 3 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |-|
-| 8 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |-|
-| 10 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |ok|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
@@ -75,8 +71,6 @@ Apresentar a atualização das correções feitas. E a porcentagem de "sim" no m
 
 > [3] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
 
-> [4] Livro base
-
 
 ## Bibliografia
 > MACIEL, Geovanna. Planejamento da Verificação da Etapa 1 do Grupo 2. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/planejamento_verificacao_etapa2>. Acesso em: 16 de Junho de 2023.
@@ -93,3 +87,4 @@ Apresentar a atualização das correções feitas. E a porcentagem de "sim" no m
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 14/06/2023 |        15/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
+| 21/06/2023 |        21/06/2023        |  2.0   | Adicionando Checklist |  [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
