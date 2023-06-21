@@ -15,7 +15,7 @@ Uma das atividades da disciplina de Requisitos de Software, ministrada pelo prof
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios estabelecidos nos slide da professora Milene [[4]()]. Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do Casos de Uso.
+Os checklists foram estabelecido com base nos critérios estabelecidos nos slide da professora Milene sobre Modelagem de Requisitos[[4]()]. Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do Casos de Uso.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -101,7 +101,7 @@ As atualizações no processo de correção do Casos de Uso, são:
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        21/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+| 19/06/2023 |        21/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
 
 ==================================================================================================================================================================================================================================================================
 ## Introdução

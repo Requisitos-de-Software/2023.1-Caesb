@@ -15,7 +15,7 @@ Uma das atividades da disciplina de Requisitos de Software, ministrada pelo prof
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios estabelecidos nos slide da professora Milene [[4]()]. Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist da In Or Out.
+Os checklists foram estabelecido com base nos critérios estabelecidos na literatura Software Requirements (Developer Best Practices)[[4]()]. E Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist da In Or Out.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -24,33 +24,37 @@ Os checklists foram estabelecido com base nos critérios estabelecidos nos slide
 
 | ID| Descrição | Avaliação | Observação | 
 |---|---|---|---|
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim|-| 
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Não|Uso incorreto| 
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Sim |-| 
-| 4 | A metodologia esta de acordo com o artefato analisado?<a href="#1">¹</a> |Incompleto |Faltou um tópico explicando melhor, ela esta sendo explicada por cima na introdução | 
-| 5 | | |-|
-| 6 |  |
-| 5 | <a href="#2">²</a> |Sim |- |
-| 7 | <a href="#3">³</a> |Sim|-|
-| 8 | |Sim |-|
-| 9 | <a href="#4">⁴</a> |Não|- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Incompleto|Muito simples| 
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Não|Uso incorreto e literatura base poderia ser mais acadêmica| 
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Incompleto |O vídeo não é chamado no texto| 
+| 4 | A metodologia esta de acordo com o artefato analisado?<a href="#1">¹</a> |Incompleto |Complementar com nova literatura base | 
+|5|É apresentado o cronograma da atividade? |Não|Não foi apresentado|
+|6|Foi preparada uma lista para a atividade?<a href="#2">²</a> |Incompleto|No vídeo é mostrado a lista de requisitos, porém no documento não fala sobre.|
+|7|A participação do cliente e/ou persona no processo de priorização?|Sim|-|
+|8|É feita uma toma de decisão? <a href="#3">³</a>|Sim|-|
+|9|A lista é reduzida ao mínimo necessário? <a href="#4">⁴</a>|Incompleta|Poderia reduzir mais|
+|10|Há a gravação/registro da atividade?|Sim|-|
+|11 | É feito um agrupamento de requisitos elicitados?  |Não |Não foi agrupado |
+|12| Os requisitos retirados são postos como requisitos de um próximo lançamento?<a href="#5">⁵</a> |Não|Não teve essa definição|
 
 <p>Tabela 1 - Checklist do In Or Out (Fonte: Autores)</p>
 </center>
 
 <div id="1"></div>
-[¹]() .
+[¹]() Explicação do uso da metodologia no processo de priorização.
 <div id="2"></div>
-[²]() .
+[²]() Se requisitos foram reunidos em uma listas e estão ligados com os artefatos anteriores, de elicitação.
 <div id="3"></div>
-[³]() .
+[³]() Com a lista de requisitos, cada um é analisado e é decidido se está dentro(In) ou fora(Out) para implementação..
 <div id="4"></div>
-[⁴]() .
+[⁴]() Considerando que será feito várias entregas, cada uma precisa estar bem reduzida.
+<div id="5"></div>
+[⁵]() Conforme o texto base, ao invés de criar uma ordem de priorização, os requisitos devem ser agrupados por ordem de lançamento.
 
 ## Gráfico
 Com base no checklist feito no processo de inspeção do In Or Out, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 <center>
-<img src="../../../assets/img/introspeccao.png"></img>
+<img src="../../../assets/img/InOrOut.png"></img>
 <p>Figura 1 - Gráfico do In Or Out (Fonte: Autores)</p>
 </center>
 
@@ -60,11 +64,15 @@ O planejamento e a situação da correção do artefatos, In Or Out, será regis
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
 |-------|------|------|---------|---|--|--|
-| 2 | Bibliografias/referências bibliográficas | Corrigir para bibliografia | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |23/06/2023 a 25/06/2023|-|
-| 4 | Metodologia | Explicar melhor o que é a metodologia e criar um tópico para isso | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
-| 5 | Cronograma  | Apresentar o cronograma que não foi registrado| [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
-| 6 | Tarefas do perfil de usuário | Apresentar e linkar com o estudo das tarefas do perfil de usuário? | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
-| 9 | Motivos | Apresentar os motivos de estabelecer o requisito | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
+| 1 | Introdução | Complementar a introdução | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |23/06/2023 a 25/06/2023|-|
+| 2 | Bibliografias/referências bibliográficas | Corrigir e acrescentar | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
+| 3 | Vídeo  | Referenciar no texto| [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
+| 4 | Metodologia | Complementar com nova literatura | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
+| 5 | Cronograma | Apresentar o cronograma que não foi registrado | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
+| 6 | Lista de requisitos | Citar no texto que foi criado e linkar com os artefatos anteriores | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |23/06/2023 a 25/06/2023|-|
+| 9 | Redução dos requisitos | Rever os requisitos "out" | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
+| 11 | Agrupamento  | Apresentar o cronograma que não foi registrado| [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
+| 12 | Lançamentos futuros | Explicar que os agrupamentos fora serão implementados posteriormente | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
