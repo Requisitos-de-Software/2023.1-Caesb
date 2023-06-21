@@ -1,12 +1,14 @@
 
 
 ## Introdução
-
 A elicitação de requisitos por meio da introspecção envolve a compreensão das propriedades que um sistema deve possuir para alcançar o sucesso desejado. Nesse método, o Engenheiro de Requisitos é desafiado a imaginar as suas próprias preferências e necessidades ao desempenhar uma determinada tarefa, considerando os recursos e equipamentos disponíveis.
+
+## Metodologia
+Para essa elicitação, deverá se pensar no aplicativo, se pensando em algumas tarefas no contexto do aplicativo, depois imaginando quais recursos gostaria que ele tivesse para essa tarefa.
 
 ## Motivo da Escolha
 
-A escolha do método de introspecção se deve ao fato de estarmos na fase inicial do projeto, o que nos permite explorar nossas próprias ideias e preferências. Além disso, a introspecção é uma técnica rápida e flexível que nos permite avançar de forma ágil.
+A escolha do método de introspecção se deve ao fato de estarmos na fase inicial do projeto, o que nos permite explorar nossas próprias ideias e preferências. Além disso, a introspecção é uma técnica rápida e flexível que nos permite avançar de forma ágil. O que será util para se entender o conceito deelicitação de requisitos, requisitos funcionas e não funcionais, onde os mesmos serão usados mais tardes para outras partes do projeto, como a priorização.
 
 A seguir, na tabela 1, é possível observar os requisitos elicitados por introspecção.
 
@@ -46,7 +48,7 @@ A seguir, se tem na tabela 2 os requisitos não funcionais do aplicativo que o a
 <center>
 
 | Identificador | Requisito | Tipo |
-| :-----------: |:---------:| :--: |
+| :-----------: |-----------| :--: |
 | ES01 | A interface do usuário deve ser intuitiva e de fácil navegação, considerando o perfil diversificado dos usuários. | RNF|
 | ES02 | O aplicativo deve fornecer feedback claro e mensagens de erro compreensíveis em caso de problemas. | RNF |
 | ES03 | O tempo médio de treinamento para que usuários normais se tornem produtivos em operações básicas do aplicativo não deve exceder 1 hora. | RNF |
@@ -70,7 +72,13 @@ A seguir, se tem na tabela 2 os requisitos não funcionais do aplicativo que o a
 
 
 ## Referências
-> Diretrizes de acessibilidade, disponível no [link](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/). <br/>
+> Diretrizes de acessibilidade, disponível no [link](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/).
+
+## Bibliografia
+
+> SERRANO, Milene, SERRANO, Maurício.  Análise de Requisitos (Aula 07). UnB Gama, Brasília, 2023. Acesso em: 21 jun. 2023.
+
+> Diretrizes de acessibilidade, disponível no [link](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/).
 
 ## Histórico de Versão
 
@@ -78,3 +86,4 @@ A seguir, se tem na tabela 2 os requisitos não funcionais do aplicativo que o a
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
 | 30/04/2023 |        30/04/2023        |  1.0   | Criação do documento   | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
 | 19/05/2023 | 19/05/2023 |  1.1   | Fazendo correção da Revisão | [Daniel](https://github.com/daniel-de-sousa) | [Caetano](https://github.com/caeslucio) |
+| 21/06/2023 |        21/06/2023        |  1.2   | Inspeção e correção do documento | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |

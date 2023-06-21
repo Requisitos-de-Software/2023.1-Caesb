@@ -1,4 +1,3 @@
-
 # Cenários
 
 ## Introdução
@@ -14,6 +13,9 @@ soluções de design e avaliar se um produto satisfaz a necessidade dos seus usu
 
 ## Motivo da escolha
 Levando em consideração os fatos supracitados, pode-se compreender que cenários são uma estratégia viável e efetiva de simular o comportamento de um software. Devido a isso, o grupo escolheu realizar 6 cenários para auxiliar o desenvolvimento dos próximos artefatos da disciplina.
+
+## Metodologia
+Usando os requisitos já elicitados durante o projeto e também as atividades primárias dos usuários, foram elaboradas os cenários, que descrevem um ator querendo atingir um objetivo, deixado claros todos os detalhes que acontecem antes que ele consiga atingir seu objetivo.
 
 ## Modelo de Cenário
 Além disso, também de acordo com o livro da Simone, é apresentado os modelos de cenário, que envolvem contexto, atores, objetivos, planejamento, ações, eventos e avaliação. Dessa forma:
@@ -136,11 +138,9 @@ Acompanhando o histórico de consumo de água no aplicativo da CAESB
 
 ## Bibliografia
 
- Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
- SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
-.
-Edição, Editora Campus, 2010
+> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
 
 
 
@@ -148,3 +148,4 @@ Edição, Editora Campus, 2010
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS)  | [Daniel](https://github.com/daniel-de-sousa)|
+| 21/06/2023 |        21/06/2023        |  1.1   | Padronização da Bibliografia e adição de metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
