@@ -86,7 +86,7 @@ nav:
         - Planejamento Geral: Verificacao/Caesb/0planejamento-geral.md
         - Entrega 1:
           - Planejamento: Verificacao/Caesb/Entrega1/0planejamento.md
-          - Cronograma Planejado: Verificacao/Caesb/Entrega1/Cronograma_Planjeado.md
+          - Cronograma Planejado: Verificacao/Caesb/Entrega1/Cronograma_Planejado.md
           - Cronograma Realizado: Verificacao/Caesb/Entrega1/Cronograma_Realizado.md
           - Atas: Verificacao/Caesb/Entrega1/Atas.md
           - Ferramentas: Verificacao/Caesb/Entrega1/Ferramentas.md
@@ -160,9 +160,9 @@ nav:
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
     - Fazendo a verificação:
-      - Planejamento Geral: Verificacao/Caesb/0planejamento-geral.md
-      - Planejamento da Entrega: Verificacao/Caesb/Entrega-Modelo/0planejamento.md
-      - Artefato: Verificacao/Caesb/Entrega-Modelo/1artefato.md
+      - Planejamento Geral: Guia/Verificacao/0planejamento-geral.md
+      - Planejamento da Entrega: Guia/Verificacao/Entrega-Modelo/0planejamento.md
+      - Artefato: Guia/Verificacao/Entrega-Modelo/1artefato.md
   - Entregas: Apresentacoes/apresentacoes.md
 
 
