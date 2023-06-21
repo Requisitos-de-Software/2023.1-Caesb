@@ -57,10 +57,10 @@ O planejamento e a situação da correção do artefatos, Metodologias, será re
 
 | ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
-| 2 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
-| 3 | Motivação | Adicionar texto que explica a motivação para a escolha de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
-| 4 | Detalhar metodologias | Adicionar mais campos explicando o funcionamento de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 2 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 4 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 6 | Motivação | Adicionar texto que explica a motivação para a escolha de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 8 | Detalhar metodologias | Adicionar mais campos explicando o funcionamento de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>

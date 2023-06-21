@@ -63,7 +63,7 @@ O planejamento e a situação da correção do artefatos, Aplicativo Selecionado
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
 | 2 | Metodologia | Adicionar metodologia utilizada em uma seção avulsa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 3 | Rich Picture | Adicionar mais desenhos a fim de melhorar o entendimento da mensagem que o Rich Picture representa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
+| 4 e 10 | Rich Picture | Adicionar mais desenhos a fim de melhorar o entendimento da mensagem que o Rich Picture representa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>

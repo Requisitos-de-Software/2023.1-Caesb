@@ -54,9 +54,9 @@ O planejamento e a situação da correção do artefatos, Ferramentas, será reg
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Introdução | Detalhar introdução | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
 | 2 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 3 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 4 | Motivação | Adicionar texto que explica a motivação para a escolha de cada ferramenta | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 5 | Ferramenta ausente | Adicionar ferramentas que foram utilizadas no projetos, mas não estão presentes no artefato Ferramentas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 4 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 8 | Motivação | Adicionar texto que explica a motivação para a escolha de cada ferramenta | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 9 | Ferramenta ausente | Adicionar ferramentas que foram utilizadas no projetos, mas não estão presentes no artefato Ferramentas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>

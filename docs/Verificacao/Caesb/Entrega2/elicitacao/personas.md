@@ -64,11 +64,11 @@ O planejamento e a situação da correção do artefatos, Personas, será regist
 
 | ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Motivação | Adicionar texto que explica a motivação da utilização de personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 2 | Utilizando Personas | Adicionar um breve texto que indica como as personas devem ser utilizadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 3 | Justificando Personas | Adicionar um breve texto que justifica a quantidade de personas criadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 4 | Validação | Adicionar um vídeo com a participação de um outro desenvolvedor para aprovação ou não das personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
-| 5 | Familiaridade  | Adicionar o detalhamento acerca da familiaridade de cada persona com tecnologia e com o aplicativo | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 5 | Motivação | Adicionar texto que explica a motivação da utilização de personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 7 | Utilizando Personas | Adicionar um breve texto que indica como as personas devem ser utilizadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 8 | Justificando Personas | Adicionar um breve texto que justifica a quantidade de personas criadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 9 | Validação | Adicionar um vídeo com a participação de um outro desenvolvedor para aprovação ou não das personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
+| 13 e 14 | Familiaridade  | Adicionar o detalhamento acerca da familiaridade de cada persona com tecnologia e com o aplicativo | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
