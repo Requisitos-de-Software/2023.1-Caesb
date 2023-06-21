@@ -49,7 +49,7 @@ Os checklists foram estabelecido com base nos critérios da disciplina. Seguindo
 ## Gráfico
 
 <center>
-<img src="../../assets/img/lexicos.PNG"></img>
+<img src="../../assets/imgFirstThingsFirst.PNG"></img>
 <p>Figura 1 - Checklist (Fonte: Autores)</p>
 </center>
 
