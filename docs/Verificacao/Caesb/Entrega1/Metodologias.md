@@ -10,13 +10,13 @@ O objetivo deste documento é realizar a verificação das Metodologia, artefato
 Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
 
 ## Verificações anteriores
-Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre a Metodologia do grupo 5 ([SimpleNote]()). E o grupo 3 ([VLC](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_metodologias)), fez a inspeção do nosso projeto (Caesb).
+Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre a Metodologia do grupo 5 ([SimpleNote](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/metodologias/)). E o grupo 3 ([VLC](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_metodologias)), fez a inspeção do nosso projeto (Caesb).
 
 Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação do nossas próprias Metodologia.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios da inspeção de BUSH[³](). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Metodologia. As perguntas de um a quatro são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de cinco a nove, foram geradas a partir da inspeção e da literatura de referência.
+Os checklists foram estabelecido com base nos critérios da inspeção de BUSH[³](#referencia-bibliografica). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Metodologia. As perguntas de um a quatro são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de cinco a nove, foram geradas a partir da inspeção e da literatura de referência.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -25,46 +25,53 @@ Os checklists foram estabelecido com base nos critérios da inspeção de BUSH[�
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |  |  |
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  |  |
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |  |  |
-| 4 | A metodologia esta de acordo com o artefato analisado? |  |  |
-| 5 | Cada metodologia citada neste artefato foi utilizada ao longo do projeto? |  |  |
-| 6 | Há uma explicação do motivo de escolha de cada metodologia? |  |  |
-| 7 | Há uma descrição de como cada metodologia será quantificável[¹]? |  |  |
-| 8 | Há uma descrição das etapas de cada metodologia? |  |  |
-| 9 | Há uma descrição do modo em que o grupo utilizará cada metodologia? |  |  |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim | - |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Incompleto | A bibliografia/referencia bibliografica não segue o modelo dos outros artefatos |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim | - |
+| 4 | A metodologia esta de acordo com o artefato analisado? | Não | Não há uma metodologia seguida para a escolha das ferramentas |
+| 5 | Cada metodologia citada neste artefato foi utilizada ao longo do projeto? | Sim | - |
+| 6 | Há uma explicação do motivo de escolha de cada metodologia? | Incompleto | Está implícito, é importante que haja uma seção que explicite isso |
+| 7 | Há uma descrição de como cada metodologia será quantificável[¹](#legenda)? | Sim | - |
+| 8 | Há uma descrição das etapas de cada metodologia? | Sim | As etapas são explicadas juntamente com o que foi definido pelo grupo |
+| 9 | Há uma descrição do modo em que o grupo utilizará cada metodologia? | Sim | - |
 
 <p>Tabela 1 - Checklist Metodologia (Fonte: Autores)</p>
 </center>
 
+<div id="legenda"></div>
 
 [¹]() Quantificável: Aquilo que se pode ser medido, contado, calculado.
 
 
 ## Gráfico
+Com base no checklist feito no processo de inspeção das Metodologias, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
-<img src="../../assets/img/Metodologia.png"></img>
-<p>Figura 1 - Checklist (Fonte: Autores)</p>
+<img src="../assets/img/Metodologia.png"></img>
+<p>Figura 1 - Resultado Visual Checklist Metodologias (Fonte: Autores)</p>
 </center>
 
 ## Correção
-Nova tabela com os erros identificados -> Conforme Planejamento Geral
+O planejamento e a situação da correção do artefatos, Metodologias, será registrado na Tabela 2. A data se refere ao período previsto para correção e revisão.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |ok|
+| ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 2 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 3 | Motivação | Adicionar texto que explica a motivação para a escolha de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
+| 4 | Detalhar metodologias | Adicionar mais campos explicando o funcionamento de cada metodologia | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) | 23/06/2023 a 25/06/2023 | - |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
 ### Atualização
-Apresentar a atualização das correções feitas. E a porcentagem de "sim" no momento. Conforme o exemplo:
+A seguir estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega.
 
-- xx/xx/xxxx - Correção da bibliográfia (ID 2) - Projeto 50% correto.
+- Não há atualizações até o momento.
+
+<div id="referencia-bibliografica"></div>
 
 ## Referência bibliográfica
 

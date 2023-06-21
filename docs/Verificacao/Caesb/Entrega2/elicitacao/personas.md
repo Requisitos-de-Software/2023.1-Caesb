@@ -16,7 +16,7 @@ Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados 
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios da PERSONAS[⁴](). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Personas.
+Os checklists foram estabelecido com base nos critérios da PERSONAS[⁴](#referencia-bibliografica). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Personas.As perguntas de 1 a 4 são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de 5 a 16, foram geradas a partir da inspeção e da literatura de referência.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -25,53 +25,60 @@ Os checklists foram estabelecido com base nos critérios da PERSONAS[⁴](). Seg
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |  |  |
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  |  |
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |  |  |
-| 4 | A metodologia esta de acordo com o artefato analisado? |  |  |
-| 5 | Há no artefato uma descrição da motivação para a utilização de personas? |  |  |
-| 6 | Há no artefato uma descrição da metodologia para a criação das personas? |  |  |
-| 7 | Há no artefato uma descrição de como as personas devem ser utilizadas ao longo do projeto? |  |  |
-| 8 | Há no artefato uma descrição acerca da quantidade de personas criadas? |  |  |
-| 9 | Há no artefato a participação de outro(s) participante(s) do projeto para a aprovação das personas criadas? |  |  |
-| 10 | Cada persona foi representada de forma realista? |  |  |
-| 11 | Cada persona possui um nome condizente com o contexto? |  |  |
-| 12 | Cada persona possui tarefas e objetivos em relação ao sistema? |  |  |
-| 13 | Cada persona possui uma descrição com a sua familiaridade com tecnologia? |  |  |
-| 14 | Cada persona possui uma descrição com a sua familiaridade com o sistema apresentado? |  |  |
-| 15 | Há pelo menos uma persona que está bastante familiarizada com o uso do sistema? |  |  |
-| 16 | Há pelo menos uma persona que não faz uso do sistema? |  |  |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim | - |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Sim | - |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim | - |
+| 4 | A metodologia esta de acordo com o artefato analisado? | Sim | - |
+| 5 | Há no artefato uma descrição da motivação para a utilização de personas[¹](#legenda)? | Não | - |
+| 6 | Há no artefato uma descrição da metodologia para a criação das personas? | Sim | - |
+| 7 | Há no artefato uma descrição de como as personas devem ser utilizadas ao longo do projeto? | Não | - |
+| 8 | Há no artefato uma descrição acerca da quantidade de personas criadas? | Sim | Não há uma justificativa para o número de personas |
+| 9 | Há no artefato a participação de outro(s) participante(s) do projeto para a aprovação das personas criadas? | Não | - |
+| 10 | Cada persona foi representada de forma realista? | Sim | - |
+| 11 | Cada persona possui um nome condizente com o contexto? | Sim | - |
+| 12 | Cada persona possui tarefas e objetivos em relação ao sistema? | Sim | - |
+| 13 | Cada persona possui uma descrição com a sua familiaridade com tecnologia? | Incompleto | - |
+| 14 | Cada persona possui uma descrição com a sua familiaridade com o sistema apresentado? | Incompleto | - |
+| 15 | Há pelo menos uma persona que está bastante familiarizada com o uso do sistema? | Sim | - |
+| 16 | Há pelo menos uma persona que não faz uso do sistema? | Sim | - |
 
 <p>Tabela 1 - Checklist Exemplo (Fonte: Autores)</p>
 </center>
 
+<div id="legenda"></div>
 
-[¹]() Explicar os termos. <br>
-[²]() Explicar os termos.
+[¹]() Persona: Usuário fictício criado a partir do [perfil de usuário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/perfil_usuario/) para representar um usuário real.
 
 
 ## Gráfico
+Com base no checklist feito no processo de inspeção das Personas, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
 <img src="../../assets/img/Personas.png"></img>
-<p>Figura 1 - Checklist (Fonte: Autores)</p>
+<p>Figura 1 - Resultado Visual Checklist Personas (Fonte: Autores)</p>
 </center>
 
 ## Correção
-Nova tabela com os erros identificados -> Conforme Planejamento Geral
+O planejamento e a situação da correção do artefatos, Personas, será registrado na Tabela 2. A data se refere ao período previsto para correção e revisão.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |ok|
+| ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Motivação | Adicionar texto que explica a motivação da utilização de personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 2 | Utilizando Personas | Adicionar um breve texto que indica como as personas devem ser utilizadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 3 | Justificando Personas | Adicionar um breve texto que justifica a quantidade de personas criadas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
+| 4 | Validação | Adicionar um vídeo com a participação de um outro desenvolvedor para aprovação ou não das personas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
+| 5 | Familiaridade  | Adicionar o detalhamento acerca da familiaridade de cada persona com tecnologia e com o aplicativo | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
 ### Atualização
-Apresentar a atualização das correções feitas. E a porcentagem de "sim" no momento. Conforme o exemplo:
+A seguir estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega.
 
-- xx/xx/xxxx - Correção da bibliográfia (ID 2) - Projeto 50% correto.
+- Não há atualizações até o momento.
+
+<div id="referencia-bibliografica"></div>
 
 ## Referência bibliográfica
 

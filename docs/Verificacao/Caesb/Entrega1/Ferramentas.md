@@ -10,13 +10,13 @@ O objetivo deste documento é realizar a verificação das Ferramentas, artefato
 Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
 
 ## Verificações anteriores
-Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre as Ferramentas do grupo 5 ([SimpleNote]()). E o grupo 3 ([VLC](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_ferramentas)), fez a inspeção do nosso projeto (Caesb).
+Uma das atividades da disciplina de Requisitos, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre as Ferramentas do grupo 5 ([SimpleNote](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/)). E o grupo 3 ([VLC](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_ferramentas)), fez a inspeção do nosso projeto (Caesb).
 
-Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação do nossas próprias Ferramentas.
+Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação das nossas próprias Ferramentas.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios de BUSH[³](). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Ferramentas. As perguntas de um a quatro são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de cinco a nove, foram geradas a partir da inspeção e da literatura de referência.
+Os checklists foram estabelecido com base nos critérios de BUSH[³](#referencia-bibliografica). Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist do artefato Ferramentas. As perguntas de 1 a 4 são baseadas nos padrões acordados pelo grupo, enquanto as demais questões, de 5 a 9, foram geradas a partir da inspeção e da literatura de referência.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -25,43 +25,49 @@ Os checklists foram estabelecido com base nos critérios de BUSH[³](). Seguindo
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |  |  |
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  |  |
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |  |  |
-| 4 | A metodologia esta de acordo com o artefato analisado? |  |  |
-| 5 | As ferramentas referidas no artefato são utilizadas ao longo do projeto? |  |  |
-| 6 | Há um link para o site de cada ferramenta? |  |  |
-| 7 | Há uma explicação do objetivo de utilização de cada ferramenta? |  |  |
-| 8 | Há uma explicação do motivo de escolha de cada ferramenta? |  |  |
-| 9 | O artefato apresenta todas as ferramentas utilizadas pelo projeto? |  |  |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim | Está muito breve, poderia ser melhor estruturada |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Incompleto | A bibliografia/referencia bibliografica não segue o modelo dos outros artefatos |
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim | - |
+| 4 | A metodologia esta de acordo com o artefato analisado? | Não | Não há uma metodologia seguida para a escolha das ferramentas |
+| 5 | As ferramentas referidas no artefato são utilizadas ao longo do projeto? | Sim | - |
+| 6 | Há um link para o site de cada ferramenta? | Sim | - |
+| 7 | Há uma explicação do objetivo de utilização de cada ferramenta? | Sim | - |
+| 8 | Há uma explicação do motivo de escolha de cada ferramenta? | Não | - |
+| 9 | O artefato apresenta todas as ferramentas utilizadas pelo projeto? | Incompleto | Faltou o Google Forms |
 
 <p>Tabela 1 - Checklist Ferramentas (Fonte: Autores)</p>
 </center>
 
 
 ## Gráfico
-
+Com base no checklist feito no processo de inspeção das Ferramentas, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 <center>
-<img src="../../assets/img/Ferramentas.png"></img>
-<p>Figura 1 - Checklist (Fonte: Autores)</p>
+<img src="../assets/img/Ferramentas.png"></img>
+<p>Figura 1 - Resultado Visual Checklist Ferramentas (Fonte: Autores)</p>
 </center>
 
 ## Correção
-Nova tabela com os erros identificados -> Conforme Planejamento Geral
+O planejamento e a situação da correção do artefatos, Ferramentas, será registrado na Tabela 2. A data se refere ao período previsto para correção e revisão.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |ok|
+| ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Introdução | Detalhar introdução | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 2 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 3 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 4 | Motivação | Adicionar texto que explica a motivação para a escolha de cada ferramenta | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 5 | Ferramenta ausente | Adicionar ferramentas que foram utilizadas no projetos, mas não estão presentes no artefato Ferramentas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
 ### Atualização
-Apresentar a atualização das correções feitas. E a porcentagem de "sim" no momento. Conforme o exemplo:
+A seguir estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega.
 
-- xx/xx/xxxx - Correção da bibliográfia (ID 2) - Projeto 50% correto.
+- Não há atualizações até o momento.
+
+<div id="referencia-bibliografica"></div>
 
 ## Referência bibliográfica
 
