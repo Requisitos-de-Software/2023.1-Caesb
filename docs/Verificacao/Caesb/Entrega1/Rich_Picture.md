@@ -74,14 +74,14 @@ Na figura 1, abaixo, está apresentado o gráfico de distribuição das avaliaç
 Na tabela 2, abaixo, está apresentado comentários sobre as correções a serem feitas no artefato.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 02 | Bibliografias/referências bibliográficas não são utilizadas no texto | Citar nos textos as bibliografias/referências bibliográficas | Guilherme | Daniel |-|
-| 04 | Não possui metodologia | Criar um tópico de metodologia | Guilherme | Daniel |-|
-| 06 | Possui mais de uma versão do Rich Picture selecionado | Deixar apenas a versão mais recente do Rich Picture para evitar confusões | Guilherme | Daniel |-|
-| 07 | Não é informado como o Rich Picture foi construido | Mencionar como foi construido no tópico de metodologia | Guilherme | Daniel |-|
-| 11 | Nem todas as operações estão rotuladas como verbos no infinitivo | A operação 'Simular Tarifa' está rotulada com verbo no infinitivo seguida por um substantivo| Guilherme | Daniel |-|
-| 20 | A Rich Picture não possui rótulos para facilitar o entendimento do fluxo de dados | Adicionar possíveis rótulos para facilitar o entendimento, evitando ambiguidade por exemplo| Guilherme | Daniel |-|
+|ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
+|-------|------|------|---------|---|--|--- |
+| 02 | Bibliografias/referências bibliográficas não são utilizadas no texto | Citar nos textos as bibliografias/referências bibliográficas | Guilherme | Daniel | 24/06/2023 a 26/06/2023|-|
+| 04 | Não possui metodologia | Criar um tópico de metodologia | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 06 | Possui mais de uma versão do Rich Picture selecionado | Deixar apenas a versão mais recente do Rich Picture para evitar confusões | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 07 | Não é informado como o Rich Picture foi construido | Mencionar como foi construido no tópico de metodologia | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 11 | Nem todas as operações estão rotuladas como verbos no infinitivo | A operação 'Simular Tarifa' está rotulada com verbo no infinitivo seguida por um substantivo| Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 20 | A Rich Picture não possui rótulos para facilitar o entendimento do fluxo de dados | Adicionar possíveis rótulos para facilitar o entendimento, evitando ambiguidade por exemplo| Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
