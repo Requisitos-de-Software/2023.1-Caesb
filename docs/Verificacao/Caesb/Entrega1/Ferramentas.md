@@ -42,7 +42,7 @@ Os checklists foram estabelecido com base nos critérios de BUSH[³](). Seguindo
 ## Gráfico
 
 <center>
-<img src="../../assets/img/exemplo.png"></img>
+<img src="../../assets/img/Ferramentas.png"></img>
 <p>Figura 1 - Checklist (Fonte: Autores)</p>
 </center>
 

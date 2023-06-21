@@ -45,7 +45,7 @@ Os checklists foram estabelecido com base nos critérios da inspeção de BUSH[�
 ## Gráfico
 
 <center>
-<img src="../../assets/img/exemplo.png"></img>
+<img src="../../assets/img/Metodologia.png"></img>
 <p>Figura 1 - Checklist (Fonte: Autores)</p>
 </center>
 
