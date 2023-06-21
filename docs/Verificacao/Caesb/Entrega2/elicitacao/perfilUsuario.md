@@ -49,18 +49,20 @@ Os checklists foram estabelecido com base nos critérios do capítulo 8 do livro
 Na figura 1, abaixo, está apresentado o gráfico de distribuição das avaliações do checklist.
 
 <center>
+  
 <img src="../../assets/img/perfilUsuario.png"></img>
 <p>Figura 1 - Gráfico Checklist (Fonte: Autores)</p>
+
 </center>
 
 ## Correção
 Na tabela 2, abaixo, está apresentado comentários sobre as correções a serem feitas no artefato.
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 03 | Nem todas as tabelas e figuras são chamadas no texto | Chamar todas as tabelas e figuras nos textos. Quando essas tabelas ou figuras são chamadas nos textos, esses textos estão a baixo das tabelas/figuras, melhor colocar esses textos antes. | Guilherme | Daniel |-|
-| 06 | O artefato apresenta as características de interesse do Perfil do Usuário | Criar um texto ou uma tabela para apresentar as características de interesse do Perfil do Usuário | Guilherme | Daniel |-|
+|ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
+|-------|------|------|---------|---|--|--|
+| 03 | Nem todas as tabelas e figuras são chamadas no texto | Chamar todas as tabelas e figuras nos textos. Quando essas tabelas ou figuras são chamadas nos textos, esses textos estão a baixo das tabelas/figuras, melhor colocar esses textos antes. | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
+| 06 | O artefato apresenta as características de interesse do Perfil do Usuário | Criar um texto ou uma tabela para apresentar as características de interesse do Perfil do Usuário | Guilherme | Daniel |24/06/2023 a 26/06/2023|-|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
