@@ -42,7 +42,7 @@ Os checklists foram estabelecido com base nos critérios de BUSH[³](#referencia
 ## Gráfico
 Com base no checklist feito no processo de inspeção das Ferramentas, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 <center>
-<img src="../assets/img/Ferramentas.png"></img>
+<img src="../../assets/img/Ferramentas.png"></img>
 <p>Figura 1 - Resultado Visual Checklist Ferramentas (Fonte: Autores)</p>
 </center>
 

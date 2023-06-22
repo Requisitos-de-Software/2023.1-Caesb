@@ -48,6 +48,7 @@ Os Checklists serão criados com base em uma litetarura de referência que deve 
 Os checklists foram estabelecido com base nos critérios da literatura >>>>>> CITAR <<<<< e, como citado anteriormente, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[6] e pelo Grupo 3, Banco Central[7]. Além disso, foi definido 4 perguntas padrões, que estão em todos os checklist, as tabelas de inspeção serão realizadas conforme a Tabela 1, de exemplo. 
 
 <center>
+
 | ID| Descrição | Avaliação | Observação | 
 |---|---|---|---|
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? || | 
@@ -72,16 +73,16 @@ Adicionar a imagem do gráfico de pizza das avaliações feitas. (Sim - Não - I
 
 
 ## Correção
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra um exemplo.
+Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra um exemplo. A data refere a previsão de correção do item.
 
 <center>
 
-|ID |Descrição |Detalhes |Corretor|Revisor|Status|
-|-------|------|------|---------|---|--|
-| 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY ||
-| 3 | resumo do defeito | detalhes da correção | pessoaX | pessoaY ||
-| 8 | resumo do defeito | detalhes da correção | pessoaX | pessoaY ||
-| 10 | resumo do defeito | detalhes da correção | pessoaX | pessoaY ||
+|ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
+|-------|------|------|---------|---|--|--|
+| 2 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |xx/xx/xxxx a xx/xx/xxxx |-|
+| 3 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |xx/xx/xxxx a xx/xx/xxxx|-|
+| 8 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |xx/xx/xxxx a xx/xx/xxxx|-|
+| 10 | resumo do defeito | detalhes da correção | pessoaX | pessoaY |xx/xx/xxxx a xx/xx/xxxx|-|
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>

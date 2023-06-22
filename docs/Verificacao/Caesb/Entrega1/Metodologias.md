@@ -47,7 +47,7 @@ Os checklists foram estabelecido com base nos critérios da inspeção de BUSH[�
 Com base no checklist feito no processo de inspeção das Metodologias, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
-<img src="../assets/img/Metodologia.png"></img>
+<img src="../../assets/img/Metodologia.png"></img>
 <p>Figura 1 - Resultado Visual Checklist Metodologias (Fonte: Autores)</p>
 </center>
 
