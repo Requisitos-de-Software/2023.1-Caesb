@@ -1,10 +1,8 @@
 # Léxicos
 
-
-
 ## Introdução
 
-Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/)[2], da disciplina Requisitos de Software.
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [[1]()], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/) [[2]()], da disciplina Requisitos de Software.
 
 ## Objetivos
 O objetivo deste documento é realizar a verificação dos Léxicos, artefato da Entrega 3, do Grupo 4, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
@@ -12,12 +10,12 @@ O objetivo deste documento é realizar a verificação dos Léxicos, artefato da
 
 
 ## Metodologia
-Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [[3]()], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
 
 ## Verificações anteriores
 Uma das atividades da disciplina de Requisitos de Software, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre os léxicos do grupo 5 ([SimpleNote](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)). E o grupo 3 [VLC](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_3/verificacao_lexicos.md) fez a inspeção do nosso projeto (Caesb).
 
-Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência, como o artigo A Strategy for Conceptual Model Acquisition[4] e o livro "Engenharia de software" do autor Sommerville. Assim, um novo checklist foi criado para a avaliação dos nossos próprios Léxicos.
+Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência, como o artigo A Strategy for Conceptual Model Acquisition [[4]()] e o livro "Engenharia de software" do autor Sommerville. Assim, um novo checklist foi criado para a avaliação dos nossos próprios Léxicos.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
@@ -40,10 +38,11 @@ Os checklists foram estabelecido com base nos critérios da disciplina. Seguindo
 | 9 | Cada léxico possui um nome condizente com o conteudo dele? | Sim |  |
 | 10 | Cada léxico possui um sinônimo definido corretamente? | Sim |  |
 | 11 | Cada léxico possui uma Descrição clara e condizente com o significado dele? | Não | Não há descrição |
-<p><center>Tabela 1: Checklist de Verificação de Léxicos (Fonte: autor, 2023).</center></p>
+<p>Tabela 1: Checklist de Verificação de Léxicos (Fonte: autor, 2023).</p>
+</center>
 
 [¹]() Modelo de estrutura contém Léxico,Sinônimos,Noção,Impacto,Classificação. <br>
-[²]() Utiliza símbolos ou termos intrínsecos à própria linguagem
+[²]() Utiliza símbolos ou termos intrínsecos à própria linguagem.
 
 
 ## Gráfico
@@ -69,7 +68,7 @@ Na tabela 2 abaixo serão  apresentado os erros encontrados durante a avaliaçã
 </center>
 
 ### Atualização
-Após a realização da verificação , foi consertado 2 errs, o do ID3 e o do ID4, gerando uma nova porcentagem correta de acima de 90%. Com relação ao erro do ID11(Não há descrição nos léxicos), Ele será consertado no dia 22/06/2023, e o artefato será atualizado após isso ser realizado
+Após a realização da verificação , foi consertado 2 errs, o do ID3 e o do ID4, gerando uma nova porcentagem correta de acima de 90%. Com relação ao erro do ID11(Não há descrição nos léxicos), Ele será consertado no dia 22/06/2023, e o artefato será atualizado após isso ser realizado.
 
 - 21/06/2023 - Correção das Referências (ID 2) 
 - 21/06/2023 - Correção das tabelas (ID 3) 
@@ -83,7 +82,7 @@ Após a realização da verificação , foi consertado 2 errs, o do ID3 e o do I
 
 > [3] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
 
- [4]LEITE, Julio. A Strategy for Conceptual Model Acquisition. 
+> [4] LEITE, Julio. A Strategy for Conceptual Model Acquisition. 
 
 
 
