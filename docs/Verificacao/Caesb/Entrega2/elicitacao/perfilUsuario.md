@@ -50,7 +50,7 @@ Na figura 1, abaixo, está apresentado o gráfico de distribuição das avaliaç
 
 <center>
   
-<img src="../../assets/img/perfilUsuario.png"></img>
+<img src="../../../assets/img/perfilUsuario.png"></img>
 <p>Figura 1 - Gráfico Checklist (Fonte: Autores)</p>
 
 </center>

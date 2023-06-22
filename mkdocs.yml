@@ -95,15 +95,13 @@ nav:
           - Rich Picture: Verificacao/Caesb/Entrega1/Rich_Picture.md
         - Entrega 2: 
           - Planejamento: Verificacao/Caesb/Entrega2/0planejamento.md
+          - Questionário: Verificacao/Caesb/Entrega2/elicitacao/questionario.md
           - Perfil de Usuário: Verificacao/Caesb/Entrega2/elicitacao/perfilUsuario.md
           - Personas: Verificacao/Caesb/Entrega2/elicitacao/personas.md
-          - Storytelling: Verificacao/Caesb/Entrega2/elicitacao/storytelling.md
-          - Glossário: Verificacao/Caesb/Entrega2/elicitacao/glossario.md
           - Introspecção: Verificacao/Caesb/Entrega2/elicitacao/introspeccao.md
-          - Entrevista:  Verificacao/Caesb/Entrega2/elicitacao/entrevista.md
-          - Brainstorming: Verificacao/Caesb/Entrega2/elicitacao/brainstorming.md
-          - First Things First:  Verificacao/Caesb/Entrega2/priorizacao/FTF.md
+          - Storytelling: Verificacao/Caesb/Entrega2/elicitacao/storytelling.md
           - InOrOut: Verificacao/Caesb/Entrega2/priorizacao/InOrOut.md
+          - First Things First:  Verificacao/Caesb/Entrega2/priorizacao/FTF.md
         - Entrega 3: 
           - Planejamento: Verificacao/Caesb/Entrega3/0planejamento.md
           - Cenários: Verificacao/Caesb/Entrega3/cenarios.md

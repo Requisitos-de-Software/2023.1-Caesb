@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/)[2], da disciplina Requisitos de Software.
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [[1]()], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/)[[2]()], da disciplina Requisitos de Software.
 
 ## Objetivos
 O objetivo deste documento é realizar a verificação do First Things First, artefato da Entrega 2, do Grupo 4, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
@@ -12,12 +12,12 @@ O objetivo deste documento é realizar a verificação do First Things First, ar
 
 
 ## Metodologia
-Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [[3]()], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 1](./0planejamento.md).
 
 ## Verificações anteriores
 Uma das atividades da disciplina de Requisitos de Software, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. A nossa verificação foi feita sobre o artefato First Things First  do grupo 5 ([SimpleNote](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Priorização/FirstthingsFirst/)). E o grupo 3 [VLC](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/first_things_first.mdd) fez a inspeção do nosso projeto (Caesb).
 
-Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência, como o artigo "First Things First: Prioritizing Requirements"[4] e o livro "Engenharia de software" do autor Sommerville. Assim, um novo checklist foi criado para a avaliação do nosso próprio First Things First.
+Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência, como o artigo "First Things First: Prioritizing Requirements"[[4]()] e o livro "Engenharia de software" do autor Sommerville. Assim, um novo checklist foi criado para a avaliação do nosso próprio First Things First.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
