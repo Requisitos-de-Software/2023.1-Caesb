@@ -51,7 +51,7 @@ Os checklists foram estabelecido com base nos critérios da literatura BUSH[³](
 Com base no checklist feito no processo de inspeção do Aplicativo Selecionado, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
-<img src="../assets/img/Aplicativo_Selecionado.png"></img>
+<img src="../../assets/img/Aplicativo_Selecionado.png"></img>
 <p>Figura 1 - Resultado Visual Checklist Aplicativo Selecionado (Fonte: Autores)</p>
 </center>
 

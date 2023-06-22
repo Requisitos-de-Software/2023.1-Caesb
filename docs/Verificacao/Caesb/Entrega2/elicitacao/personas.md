@@ -54,7 +54,7 @@ Os checklists foram estabelecido com base nos critérios da PERSONAS[⁴](#refer
 Com base no checklist feito no processo de inspeção das Personas, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
-<img src="../../assets/img/Personas.png"></img>
+<img src="../../../assets/img/Personas.png"></img>
 <p>Figura 1 - Resultado Visual Checklist Personas (Fonte: Autores)</p>
 </center>
 
