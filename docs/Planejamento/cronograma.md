@@ -1,6 +1,11 @@
 # Cronograma Planejado
 
-<p> O presente cronograma foi realizado tendo como base o plano de ensino do curso de Requisitos de Software do professor André Barraos de Sales e os trabalhos antigos realizados pelos alunos da disciplina. Além disso, foi considerado da divisão das tarefas o grau de dificuldade da entrega e o tempo necessário para execução e revisão.</p>
+## Introdução
+<p> O presente cronograma é com base no planejamento da realização dos artefatos que serão realizados no desenvolvimento do projeto. Abaixo será apresentado a metodologia da realização do artefato, algumas atividades gerais do grupo, e o cronograma em si/p>
+
+## Metodologia
+Para realização desse Cronograma, primeiro foi analisado o plano de ensino do curso de Requisitos de Software do professor André Barraos de Sales, para se ter uma noção de prazos e entregas, e foi analisado os trabalhos antigos realizados pelos alunos da disciplina, em principal o [lichess](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/) Além disso, foi considerado da divisão das tarefas o grau de dificuldade da entrega e o tempo necessário para execução e revisão.
+
 
 ## Atividades Gerais
 
@@ -9,6 +14,9 @@
 <p>Também foi decidido que haverá um tópico de "Guias" para que os membros possam contribuir com os conteúdos que eles acharem relevantes e úteis para os alunos dos próximos semestres.</p>
 
 <p>O aluno Paulo se voluntariou para cuidar das Atas de Reunião e disponibilizar as gravações dos encontros.</p>
+
+## Cronograma das entregas
+Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planejados referentes as entregas necessárias da disciplina
 
 ## 1ª Entrega
 
@@ -134,3 +142,4 @@
 |------------|--------------------------|--------|------------------------|---------------|----------------------------|
 | 15/04/2023 | 15/04/2023               | 1.0    | Criação do documento   | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS)         |
 | 01/05/2023 | 01/05/2023               | 2.0    | Correções da entrega 1 | [Carla](https://github.com/ccarlaa) | [Raquel](https://github.com/raqueleucaria) |
+| 21/06/2023 | 22/06/2023               | 2.1    | Ajustes no texto | [Paulo](https://github.com/https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria) |
