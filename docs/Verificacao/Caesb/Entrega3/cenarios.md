@@ -1,49 +1,125 @@
 # Cenários
+
 ## Introdução
-Esse artefato é  uma verificação do artefato de cenários produzido pelo grupo 5, Simplenote.  
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/)[2], da disciplina Requisitos de Software.
+
+## Objetivo
+O objetivo deste documento é realizar a verificação dos cenários, artefato da Entrega 2, do Grupo 4 (CAESB). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
 
 ## Metodologia
-A metodologia utilizada para a verificação dos cenários é baseada na criação de um checklist, que consiste em uma lista de perguntas e critérios a serem avaliados. Esse checklist foi elaborado com base na Tese de Doutorado: Dos Requisitos ao Código: Um Processo para Desenvolvimento de Software mais Transparente - PUC-Rio.
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspeção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 2](../0planejamento.md).
+
+## Verificações Anteriores
+Uma das atividades da disciplina de Requisitos de Software, ministrada pelo professor André Barros, foi a realização da verificação de um projeto de outro grupo. Desse modo a nossa verificação foi feita sobre s cenários do Grupo 05 (Simplenote) e o grupo 03 (VLC Media Player), fez a inspeção do nosso projeto (OpenStreeMap). 
+
+Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação dos nossos cenários.
 
 ## Checklist
-A seguir, na tabela 1, é apresentado o checklist preenchido, da versão 1.1 do artefato, com as respostas obtidas na verificação dos cenários.
+Os checklists foram estabelecidos com base nos critérios estabelecidos nos slides da professora Milene [4]. Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist dos cenários.
 
-| ID  | Descrição                                                                                                                      | Avaliação | Observação |
-|-----|--------------------------------------------------------------------------------------------------------------------------------|-----------|----------|
-|  01  | O artefato possui uma introdução condizente com o conteudo do texto? | Sim  |    |
-|  02  | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Não   |  Não é referenciado no texto |
-|  03  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  Incompleto | As tabelas e imagens não são chamadas no texto  |
-|  04  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Sim  |   Poderia falar de onde foi retirada a matodologia  |
-| CN01   | O cenário possui um título claro e descritivo?                                                               | Sim       |     |
-| CN02   | O objetivo do cenário está claramente estabelecido?                                                         | Sim       |     |
-| CN03   | O cenário descreve como o objetivo deve ser alcançado?                                                       | Sim       |     |
-| CN04   | O cenário descreve as pré-condições relevantes?                                           | Sim       |     |
-| CN05   | O cenário especifica restrições relacionadas ao contexto (limitações ou condições específicas que devem ser consideradas durante a execução do cenário)?   | Sim       |     |
-| CN06   | O cenário identifica os recursos envolvidos?                                                         | Sim       |     |
-| CN07   | O cenário identifica os atores envolvidos, como pessoas ou estruturas organizacionais?                       | Sim       |     |
-| CN08   | O papel de cada ator no cenário está claro?                                                                   | Sim       |     |
-| CN09  | O cenário descreve as ações (episódios) realizadas pelos atores e pelo aplicativo?                                       |     Incompleto       |     |
-| CN10  | O cenário especifica restrições relevantes?                                                      | Sim       |     |
-| CN11  | O cenário especifica exceções relevantes?                                                      | Sim       |     |
-| CN12  | O cenário está associado a requisitos ou histórias de usuário específicas?                                   | Sim       |     |
-<p> Tabela 1 - Checklist preenchido dos cenários </p>
+<center>
 
-## Comentários
-***CN09 -*** O cenário descreve as ações realizadas pelos atores e pelo aplicativo?
-<br>
+|  ID | Descrição | Avaliação | Observação | 
+|:---:|-----------|:---------:|------------|
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim || 
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Incompleto | Falta colocar no padrão. | 
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes, levando em conta suas características? | Sim || 
+| 4 | A metodologia esta de acordo com o artefato analisado? | Não | Não existe metodologia |
+| 5 | Os cenários possuem seu objetivo explicado?<a href="#1">¹</a> | Sim ||
+| 6 | Os cenários possuem os elementos característicos de um cenário, todos de maneira correta?<a href="#1">¹</a> | Sim ||
+| 7 | Os cenários são claros, possibilitando entender todo o contexto e o objetivo a ser alcançado? | Sim ||
+| 8 | Existe uma variedade de situações nos cenários?<a href="#2">²</a> | Sim ||
+| 9 | Os cenários demostram as principais funcionalidades do aplicativo?<a href="#3">³</a> | Sim ||
+| 10 | Os cenários estão de acordo com outros artefatos do projeto? | Sim ||
+| 11 | Os cenários apresentam quais são as suas pré-condições e restrições? | Não ||
+| 12 | Há uma identificação dos recursos envolvidos na sua execução?<a href="#4">⁴</a> | Não ||
+| 13 | Os cenários estão associados aos requisitos elicitados?<a href="#5">⁵</a> | Sim ||
 
-- No cenário apresentado, é importante incluir as ações realizadas tanto pelos atores envolvidos quanto pelo aplicativo em questão. O cenário descreve apenas as ações dos usuários.
+<p>Tabela 1 - Checklist dos cenários (Fonte: Autor)</p>
+</center>
 
-***CN12 -*** O cenário está associado a requisitos ou histórias de usuário específicas?
-<br>
+</center>
+<div id="1"></div>
+² - São eles os elementos dos cenários tirados do livro interação humano computador[5]:
+    
+    * Contexto: Detalhes da situação.
+    * Atores: Pessoas que interagem no cenário.
+    * Objetivos: O que motiva as ações dos atores.
+    * Planejamento: Atividade mental dos atores transformadas em um conjunto de ações.
+    * Ações: Comportamento observável.
+    * Eventos: Ações externas ou reações produzidas pelo computador, ou ambiente.
+    * Avaliação: Atividade mental dirigida para interpretar a situação.
 
-- O cenário está associado a requisitos, porém, poderia linkar o cenário com o seu respectivo requisito.
+<div id="3"></div>
+³ - As principais tarefas executadas por usuários.
+<div id="4"></div>
+⁴ - Quais os recursos necessários para se executar esse cenário.
+<div id="5"></div>
+⁵ - Eles foram contextualizados usando os requisitos.
 
-## Referências
-> [Tese de Doutorado: Dos Requisitos ao Código: Um Processo para Desenvolvimento de Software mais Transparente - PUC-Rio. ](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf) Autor: Eduardo Kinder Almentero
+## Gráfico
+Com base no checklist feito no processo de inspeção dos cenários, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
+<center>
+
+![](../assets/img/grafico_cenarios.png)
+
+Figura 1 - Gráfico dos cenários. (Fonte: Autor)
+
+</center>
+
+## Correção
+O planejamento e a situação da correção do artefato dos cenários será registrado na Tabela 2.
+
+<center>
+
+| ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
+|:--:|:---------:|:--------:|:--------:|:-------:|:----:|:------:|
+| 2 | Bibliografia | Colocar no Padrão | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
+| 4 | Metodologia | Adicionar a seção de metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
+| 11 | Condições | Adicionar as condições e exceções para a execução | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
+| 12 | Recursos | Deixar claro quais são os recursos usados em cada cenário. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
+## Atualização
+Depois da atualização, se realizou uma nova verificação, apresentando as seguintes porcentagens:
+
+* 21/06/2023 - Padronização da Bibliografia (ID 2) - Projeto 84% correto.
+* 21/06/2023 - Adição da Metodologia (ID 4) - Projeto 92% correto.
+
+## Referência bibliográfica
+
+> [1] ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82). Disponível em: <https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:ed-2:v1:en> . Acesso em: 13 jun. 2023
+
+> [2] CAESB, grupo 4. Disponível em <https://requisitos-de-software.github.io/2023.1-Caesb/> . Acesso em: 16 jun. 2023.
+
+> [3] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
+
+> [4] SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 10): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023.
+
+> [5] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 . Acesso em 21 de jun.2023
+
+
+## Bibliografia
+
+> SERRANO, Milene, SERRANO, Maurício.  Análise de Requisitos (Aula 07). UnB Gama, Brasília, 2023. Acesso em: 21 jun. 2023.
+
+> PENHA, Igor, Lucas Gobbi. Verificação da Introspecção (Caesb). Repositório do Grupo VLC da disciplina de Requisitos da Universidade de Brasília, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/introspeccao.md/>. Acesso em: 21 de Junho de 2023.
+
+> SANTOS, Daniel. Introspecção.  Repositório do Grupo CAESB da disciplina de Requisitos da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega2/elicitacao/introspeccao/>. Acesso em: 21 de Junho de 2023.
+
+> VAZQUEZ, Carlos E; SIMÔES, Guilherme S. Engenharia de Requisitos Software Orientado ao Negócio. Acesso em: 21 de Junho de 2023.
+
+> REINEHR, Sheila. Engenharia de requisitos. E-book. ISBN 9786556900674. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786556900674/>. Acesso em: 13 jun. 2023.
+
+> Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.
+
+> Tamara M. Mendes1, Carlos A. M. Pietrobon; Uso de cenários para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. Acesso em: 21 junho de 2023.
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 . Acesso em 21 de jun.2023
 
 ## Histórico de Versão
-
-| Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 14/06/2023 | 14/06/2023 |  1.0   | Criação do documento | [Guilherme](https://github.com/guilhermekishimoto) |  [Pedro](https://github.com/pedrobarbosaocb) |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                     |                   Revisor                  |
+| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------------: | :----------------------------------------: |
+| 21/06/2023 |        21/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |

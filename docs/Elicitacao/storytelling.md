@@ -79,7 +79,7 @@ Levando em consideração os storytellings supracitados, os requisitos elicitado
 
 ## Bibliografia
 
-BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador e Experiência do Usuário, 1ª Edição, Capítulo 8, Editora Campus, 2010
+> BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador e Experiência do Usuário, 1ª Edição, Capítulo 8, Editora Campus, 2010
 
 
 
@@ -89,3 +89,4 @@ BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Com
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 30/04/2023 |        01/04/2023        |  1.0   | Criação do documento   |  [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+| 21/06/2023 |        21/06/2023        |  1.1   | Padronização da Bibliografia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
