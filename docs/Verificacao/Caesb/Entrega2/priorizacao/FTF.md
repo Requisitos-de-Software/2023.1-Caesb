@@ -41,7 +41,9 @@ Os checklists foram estabelecido com base nos critérios da disciplina. Seguindo
 | 10 | O Cálculo da prioridade de cada requisito foi realizado corretamente? | Sim | |
 | 12 | Há a Gravação  da realização da técnica?  | Sim | |
 
-<p><center>Tabela 1: Checklist de Verificação deFirst Things First s (Fonte: autor, 2023).</center></p>
+<p>Tabela 1: Checklist de Verificação deFirst Things First s (Fonte: autor, 2023).</p>
+
+</center>
 
 [¹]() Possuem identificador e Descrição <br>
 
@@ -49,12 +51,13 @@ Os checklists foram estabelecido com base nos critérios da disciplina. Seguindo
 ## Gráfico
 
 <center>
-<img src="../../assets/imgFirstThingsFirst.PNG"></img>
+<img src="../../../assets/img/FirstThingsFirst.PNG"></img>
 <p>Figura 1 - Checklist (Fonte: Autores)</p>
 </center>
 
 ## Correção
-Na tabela 2 abaixo serão  apresentado os erros encontrados durante a avaliação e o planejamento da correção desses erros
+Na tabela 2 abaixo serão  apresentado os erros encontrados durante a avaliação e o planejamento da correção desses erros.
+
 <center>
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
@@ -63,8 +66,6 @@ Na tabela 2 abaixo serão  apresentado os erros encontrados durante a avaliaçã
 | 5 |Não Foi determinado um cronograma para a realização dessa priorização  |Criar o cronograma | Paulo | Raquel |22/06/2023|-|
 | 7| Não Houve participação do cliente na realização da priorização?  | Realizar uma entrevista com o cliente | Paulo| Raquel |22/06/2023|-|
 | 8| Não Houve participação dos representantes dos desenvolvedor na classificação dos custos e dos riscos?  | Realizar uma entrevista com o PO | Paulo| Raquel |22/06/2023|-|
-
-
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
