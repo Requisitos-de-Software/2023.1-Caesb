@@ -11,11 +11,11 @@ O objetivo deste documento é realizar a verificação do In Or Out, artefato da
 Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [[3]()], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 2](../0planejamento.md).
 
 ## Verificações anteriores
-Uma das atividades da disciplina de Requisitos de Software, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. O grupo 3 ([Banco Central](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/in_or_out.md)), fez a inspeção do nosso In Or Out. Dessa forma, criaremos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência.
+Uma das atividades da disciplina de Requisitos de Software, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. O grupo 3 ([VLC](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/in_or_out.md)), fez a inspeção do nosso In Or Out. Dessa forma, criaremos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência.
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios estabelecidos na literatura Software Requirements (Developer Best Practices)[[4]()]. E Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist da In Or Out.
+Os checklists foram estabelecido com base nos critérios propostos na literatura Software Requirements (Developer Best Practices)[[4]()]. E Seguindo as perguntas padrões estabelecidas pelo grupo no [Planejamento Geral](../0planejamento-geral.md), está apresentado na Tabela 1, o checklist da In Or Out.
 
 
 <!-- ADICIONAR O CHECKLIST -->
@@ -64,10 +64,10 @@ O planejamento e a situação da correção do artefatos, In Or Out, será regis
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Data|Status|
 |-------|------|------|---------|---|--|--|
-| 1 | Introdução | Complementar a introdução | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |23/06/2023 a 25/06/2023|-|
-| 2 | Bibliografias/referências bibliográficas | Corrigir e acrescentar | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
-| 3 | Vídeo  | Referenciar no texto| [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
-| 4 | Metodologia | Complementar com nova literatura | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |23/06/2023 a 25/06/2023|-|
+| 1 | Introdução | Complementar a introdução | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |22/06/2023 a 23/06/2023|-|
+| 2 | Bibliografias/referências bibliográficas | Corrigir e acrescentar | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |22/06/2023 a 23/06/2023|-|
+| 3 | Vídeo  | Referenciar no texto| [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |22/06/2023 a 23/06/2023|-|
+| 4 | Metodologia | Complementar com nova literatura | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |22/06/2023 a 23/06/2023|-|
 | 5 | Cronograma | Apresentar o cronograma que não foi registrado | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
 | 6 | Lista de requisitos | Citar no texto que foi criado e linkar com os artefatos anteriores | [Raquel](https://github.com/raqueleucaria) |[Paulo](https://github.com/PauloVictorFS) |23/06/2023 a 25/06/2023|-|
 | 9 | Redução dos requisitos | Rever os requisitos "out" | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)  |24/06/2023 a 26/06/2023|-|
