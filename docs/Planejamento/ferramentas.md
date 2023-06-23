@@ -1,7 +1,7 @@
 # Ferramentas
 
 ## Introdução
-Ferramentas são fundamentais para aumentar a produtividade e eficiência do grupo, permitindo a execução de tarefas de forma mais eficaz e rápida.
+No contexto de trabalho em grupo, o uso de ferramentas desempenha um papel fundamental na ampliação da produtividade e eficiência. Essas ferramentas são essenciais para possibilitar a realização de tarefas de maneira mais eficaz e ágil. Neste documento, serão apresentadas e exploradas algumas das principais ferramentas utilizadas, que visam otimizar o desempenho do grupo, facilitar a colaboração e impulsionar os resultados alcançados.
 
 ## Objetivo
 Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas pelo grupo no desenvolvimento do projeto. A escolha das ferramentas se deu com base na intimidade do grupo com as mesmas, além da popularidade das ferramentas, o que facilita encontrar conteúdo de ajuda sobre elas. A seguir, na tabela 1, é possível visualizar as ferramentas utilizadas.
@@ -10,7 +10,7 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="../../assets/imagens/logo-ferramentas/github-icon.png" width="80px"/> | [Github](https://docs.github.com/en/get-started/quickstart/hello-world) | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
+| <img src="../../assets/imagens/logo-ferramentas/github-icon.png" width="80px"/> | [Github](https://docs.github.com/en/get-started/quickstart/hello-world) [1] | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
 | <img src="../../assets/imagens/logo-ferramentas/telegram-icon.png" width="100px"/> | [Telegram](https://telegram.org) | Software de mensagens para facilitar a comunicação constante e ágil de um grupo. |
 | <img src="../../assets/imagens/logo-ferramentas/teams-icon.png" width="100px"/> |  [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software) | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões.  |
 | <img src="../../assets/imagens/logo-ferramentas/vscode-icon.png" width="80px"/> | [Visual Studio Code](https://code.visualstudio.com) | Software de manipulação de código-fonte e manipulação de arquivos. Oferece a possibilidade de personalização através de extensões, tornando-o uma ferramenta altamente flexível e adaptável. |
@@ -25,16 +25,26 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 ## Referências Bibliográficas
 
-> Ferramenta GitHub, disponível no [link](https://docs.github.com/en/get-started/quickstart/hello-world). <br/>
-> Ferramenta Telegram, disponível no [link](https://telegram.org). <br/>
-> Ferramenta Microsoft Teams, disponível no [link](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). <br/>
-> Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
-> Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
-> Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
-> Ferramenta This Person Doesn't Exist, disponível no [link](https://this-person-does-not-exist.com/en). <br/>
-> Ferramenta Google planilhas, disponível no [link](https://docs.google.com/sheets). <br/>
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
+> ¹GitHub, disponível no \<https://docs.github.com/en/get-started/quickstart/hello-world>. 
+
+> Telegram, disponível no [link](https://telegram.org). 
+
+> Microsoft Teams, disponível no [link](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). 
+
+> Visual Studio Code, disponível no [link](https://code.visualstudio.com). 
+
+> Youtube, disponível no [link](https://youtube.com). 
+
+> Lucid Chart, disponível no [link](https://lucidchart.com). 
+
+> This Person Doesn't Exist, disponível no [link](https://this-person-does-not-exist.com/en). 
+
+> Google planilhas, disponível no [link](https://docs.google.com/sheets). 
+
+> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. 
+
+> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. 
+
 
 ## Histórico de Versão
 
