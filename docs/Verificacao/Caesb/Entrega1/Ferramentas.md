@@ -52,20 +52,20 @@ O planejamento e a situação da correção do artefatos, Ferramentas, será reg
 
 | ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Introdução | Detalhar introdução | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 2 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 4 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 8 | Motivação | Adicionar texto que explica a motivação para a escolha de cada ferramenta | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
-| 9 | Ferramenta ausente | Adicionar ferramentas que foram utilizadas no projetos, mas não estão presentes no artefato Ferramentas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | - |
+| 1 | Introdução | Detalhar introdução | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | ok |
+| 2 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | ok |
+| 4 | Metodologia | Adicionar metodologia utilizada ou explicar motivo de não haver uma | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | ok |
+| 8 | Motivação | Adicionar texto que explica a motivação para a escolha de cada ferramenta | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | ok |
+| 9 | Ferramenta ausente | Adicionar ferramentas que foram utilizadas no projetos, mas não estão presentes no artefato Ferramentas | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) | 23/06/2023 a 25/06/2023 | ok |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
 ### Atualização
-A seguir estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega.
+A seguir, estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega. A porcentagem atual de cobertura dos erros percebidos pelo checklist é de 100%.
 
-- Não há atualizações até o momento.
+- 23/06/2023 - Correção pós verificação (ID's 1, 2, 4, 8 e 9)
 
 <div id="referencia-bibliografica"></div>
 
@@ -90,7 +90,8 @@ A seguir estão listadas todas as atualizações do artefato analisado por este 
 > SERRANO, Milene, SERRANO, Maurício. Análise de Requisitos (Aula 23). UnB Gama, Brasília, 2023. Disponível no [link](../assets/referencias/Requisitos%20-%20Aula%20023.pdf).
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
+|    Data    | Data Prevista de Revisão | Versão | Descrição | Autor |  Revisor |
+| :--------: | :----------------------: | :----: | :-------: | :---: |:-------: |
 | 14/06/2023 |        15/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
 | 21/06/2023 |        21/06/2023        |  2.0   | Adicionando Checklist |  [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
+| 23/06/2023 |        23/06/2023        |  2.1   | Adicionando Atualizações |  [Pedro](https://github.com/pedrobarbosaocb)| [Guilherme](https://github.com/guilhermekishimoto) |
