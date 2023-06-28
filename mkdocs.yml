@@ -2,9 +2,14 @@ site_name: Caesb
 
 repo_name: '2023.1-Caesb'
 repo_url: https://github.com/Requisitos-de-Software/2023.1-Caesb
-site_url: https://2023.1-Caesb.com/
+site_url: https://requisitos-de-software.github.io/2023.1-Caesb/
+edit_uri: edit/main/docs/
 
 copyright: Copyright &copy; 2023 Caesb
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 
 theme:
   custom_dir: overrides
@@ -18,9 +23,12 @@ theme:
 
   features:
     - toc.integrate 
+    - toc.follow
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
+    - navigation.instant
+    - navigation.top    
 
   hide: 
     - 
@@ -164,6 +172,8 @@ nav:
 
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
