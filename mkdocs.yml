@@ -70,6 +70,8 @@ nav:
     - Heatmap: Planejamento/heatmap.md
   - Rastreabilidade:
     - Pré-Rastreabilidade: Pre-rastreabilidade/aplicativos_analisados.md
+    - Pós-Rastreabilidade:
+      - Forward-Form: Pos-Rastreabilidade/ForwardFrom.md
   - Elicitação:
     - Perfil do Usuário: Elicitacao/perfil_usuario.md
     - Personas: Elicitacao/personas.md
