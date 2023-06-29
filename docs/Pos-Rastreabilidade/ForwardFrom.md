@@ -1,7 +1,7 @@
 # Forward-From
 ## Introdução
 
-De acordo com o artigo "Rastreablidade de Requisitos", de Miriam Sayão e Julio Cesar Sampaio do Prado Leite,Edwards M apresenta que "rastreabilidade pode ser definida como sendo a técnica usada para prover relacionamento entre requisitos, arquitetura e implementação final do sistema". Como a rastreabilidade é uma parte importante do processo da qualidade de um Software,esse artefato consiste na apresentação da rastreabilidade "foward-from"
+De acordo com o artigo "Rastreabilidade de Requisitos", de Miriam Sayão e Julio Cesar Sampaio do Prado Leite,Edwards M apresenta que "rastreabilidade pode ser definida como sendo a técnica usada para prover relacionamento entre requisitos, arquitetura e implementação final do sistema". Como a rastreabilidade é uma parte importante do processo da qualidade de um Software,esse artefato consiste na apresentação da rastreabilidade "forward-from"
 
 ## Metodologia
 
@@ -22,7 +22,7 @@ Além disso, neste meta modelo, o suporte a rastreabilidade identifica os seguin
 - Alocado: indica que a classe de origem está relacionada à classe de destino, que representa um subsistema.
 - Agregação: indica a composição de elementos, ou seja, como diferentes elementos se juntam para formar uma entidade maior.
 
-Sendo assim, os requisitos presentes no artefato serão apresentados através do seguinte template enconstrado na tabela 1 abaixo
+Sendo assim, os requisitos presentes no artefato serão apresentados através do seguinte template encontrado na tabela 1 abaixo:
 
 | Artefato Analisado    | Classificação do Artefato Analisado |
 | :----------------------: | :--------------------: |
@@ -66,7 +66,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US06 |
 | Recurso | Cenário: Visualização da segunda via da fatura <br>Especificação Suplementar:Confiabilidade,Desempenho,Suportabilidade|
-| Representação | <font><figure markdown>![](../../assets/img/fatura.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/fatura.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 11: Fatura <br> Épico: EP01 - Pagamento |
 | Agregação | Cenário: Visualização da segunda    da via da fatura <br> História de usuário: US06 <br>  Requisitos : Q01,Q03 |
 | Responsabilidade|-|
@@ -78,7 +78,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US16 |
 | Recurso | Cenário: Solicitação de serviço <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação |<font><figure markdown>![](./assets/servicos.jpg){: style="height:500px;width:250px"}|
+| Representação |<font><figure markdown>![](./assets/img/servicos.jpg){: style="height:500px;width:250px"}|
 | Alocado | Léxico 19: Serviço <br> Épico: EP04 - Solicitação |
 | Agregação | Cenário: Solicitação de serviço <br> História de usuário: US16 <br> Requisitos: Q11, Q12, Q14, Q20 |
 | Responsabilidade | - |
@@ -90,7 +90,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Segurança <br> História de usuário: US21 |
 | Recurso | Cenário: Login no aplicativo <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](./assets/login.jpg){: style="height:500px;width:250px"}} |
+| Representação | <font><figure markdown>![](./assets/img/login.JPG){: style="height:500px;width:250px"} |
 | Alocado | Léxico 18: Credenciais <br> Épico: EP05 - Conta |
 | Agregação | Cenário: Parte do  Login no aplicativo em todos <br> História de usuário: US21 <br> Requisitos: Q15, Q16, Q19, Q23 |
 | Responsabilidade | - |
@@ -102,7 +102,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US18 |
 | Recurso | Cenário: Denúncia de vazamento <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/vazamento.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/vazamento.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 13 e 19: Informar e solicitar serviço <br> Épico: EP04 - Solicitaço |
 | Agregação | Cenário: Denúncia de vazamento <br> História de usuário: US18 <br> Requisitos: Q12, Q13, Q18, Q22 |
 | Responsabilidade | - |
@@ -114,7 +114,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US07 |
 | Recurso | Cenário: Visualização do consumo de água <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação |  <font><figure markdown>![](../../assets/detalhes-consumo.jpg){: style="height:500px;width:250px"} |
+| Representação |  <font><figure markdown>![](./assets/img/detalhes-consumo.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 05 e 07 : Consumo e Consultar <br> Épico: EP01 - Pagamento |
 | Agregação | Cenário: Visualização do consumo de água <br> História de usuário: US07 <br> Requisitos: Q06 |
 | Responsabilidade | - |
@@ -128,7 +128,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US12 |
 | Recurso | Cenário: Consulta ao histórico de consumo de água <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/historico-consumo.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/historico-consumo.jpg){: style="height:500px;width:250px"} |
 | Alocado |  Léxico 05 e 07 : Consumo e Consultar  <br> Épico: EP02 - Acompanhamento |
 | Agregação | Cenário: Consulta ao histórico de consumo de água <br> História de usuário: US12 <br> Requisitos: Q08 |
 | Responsabilidade | - |
@@ -140,7 +140,7 @@ Receber notificações sobre falta de água na região
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US14 |
 | Recurso | Cenário: Recebimento de notificação de falta de água <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/notificacao.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/notificacoes.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 15:Notificação  <br> Épico: EP03 - Detalhamento |
 | Agregação | Cenário: Recebimento de notificação de falta de água <br> História de usuário: US14 <br> Requisitos: Q09|
 | Responsabilidade | - |
@@ -152,7 +152,7 @@ Receber notificações sobre falta de água na região
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US01 |
 | Recurso | Cenário: Pagamento via PIX <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/chave-pix.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/chave-pix.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 11, 16, 17: Fatura, Pagamento e Pagar <br> Épico: EP01 - Pagamento |
 | Agregação |  História de usuário: US01 <br> Requisitos: Q10 |
 | Responsabilidade | - |
@@ -164,7 +164,7 @@ Receber notificações sobre falta de água na região
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US02 |
 | Recurso | Cenário: Pagamento via boleto <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/codigo-barra.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/codigo-barras.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 11, 16, 17: Fatura, Pagamento e Pagar <br> Épico: EP01 - Pagamento |
 | Agregação |  História de usuário: US02 <br> Requisitos: Q12 |
 | Responsabilidade | - |
@@ -176,7 +176,7 @@ Receber notificações sobre falta de água na região
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US08 |
 | Recurso | Cenário: Recebimento de notificação de vencimento <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/notificacao.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/notificacoes.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 11 e 15 :Fatura e Notificação <br> Épico: EP01 - Pagamento |
 | Agregação | Cenário: Recebimento de notificação de vencimento <br> História de usuário: US08 <br> Requisitos: Q13 |
 | Responsabilidade | - |
@@ -188,7 +188,7 @@ Receber notificações sobre falta de água na região
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US13 |
 | Recurso | Cenário: Acesso aos protocolos de serviço <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](../../assets/historico-atendimento.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/historico-atendimento.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 06 e 19: Suporte e Solicitar serviço <br> Épico: EP03 - Detalhamento |
 | Agregação | Cenário: Acesso aos protocolos de serviço <br> História de usuário: US13 <br> Requisitos: Q14 |
 | Responsabilidade | - |
@@ -224,7 +224,7 @@ Entrar em contato com a equipe de suporte
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US19 |
 | Recurso | Cenário: Contato com a equipe de suporte <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](./assets/suporte.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/suporte.jpg){: style="height:250px;width:500px"} |
 | Alocado | Léxico 06: Suporte <br> Épico: EP04 - Solicitação |
 | Agregação | Cenário: Contato com a equipe de suporte <br> História de usuário: US19 <br> Requisitos: Q17 |
 | Responsabilidade | - |
@@ -286,7 +286,7 @@ Ver o histórico de pagamentos realizados
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US24 |
 | Recurso | Cenário: Visualização do histórico de pagamentos <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](./assets/historico-pagamento.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/historico-pagamento.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 07, 11: Consultar e Fatura <br> Épico: EP01 - Pagamento |
 | Agregação | História de usuário: US24 <br> Requisitos: INT08 <br> ST02|
 | Responsabilidade | - |
@@ -298,7 +298,7 @@ Ver detalhes da conta de água
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US15 |
 | Recurso | Cenário: Visualização de detalhes da conta de água <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](./assets/detalhes-consumo.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/detalhes-consumo.jpg){: style="height:500px;width:250px"} |
 | Alocado | Léxico 07, 11: Consultar e Fatura <br> Épico: EP02 - Acompanhamento |
 | Agregação | História de usuário: US15 <br> Requisitos: INT09 |
 | Responsabilidade | - |
@@ -322,7 +322,7 @@ Solicitação da autoleitura do medidor de água
 | :---: | :---: |
 | Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US17 |
 | Recurso | Cenário: Solicitação de autoleitura do medidor de água <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
-| Representação | <font><figure markdown>![](./assets/autoleitura.jpg){: style="height:500px;width:250px"} |
+| Representação | <font><figure markdown>![](./assets/img/autoleitura.jpg){: style="height:500px;width:250px"} |
 | Alocado |Léxico 19: Solicitar Serviço <br> Épico: EP04 - Solicitação |
 | Agregação | Cenário: Solicitação de autoleitura do medidor de água <br> História de usuário: US17 <br> Requisitos: Q09 <br> INT10|
 | Responsabilidade | - |
