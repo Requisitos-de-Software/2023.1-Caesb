@@ -1,4 +1,4 @@
-# Bacward - From
+# Backward - From
 
 ## Introdução
 Rastreabilidade é a habilidade de se rastrear algo, sabendo de todo seu histórico, desse modo, a rastreabilidade de requisitos estabelece relação entre os requisitos elicitados e suas origens e outros artefatos derivados. 

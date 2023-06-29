@@ -42,7 +42,7 @@ Na Tabela 1, é apresentado o modelo a ser preenchido na matriz. A primeira colu
 |ID	|Requisito	|Elicitação	| Especificação Suplementar / Casos de Uso | Léxicos	|História de Usuário	|Backfrom-from	|Forward-from	|Status|
 |--|--|--|--|--|--|--|--|--|
 |-|-|-|-|-|-|-|-|-|-|
-<p> Tabela 1 - Modelo Matriz de Rastreabilidade Funcionais(Fonte: Miriam[1], 2005).</p>
+<p> Tabela 1 - Modelo Matriz de Rastreabilidade Funcionais(Fonte: Autores, 2023).</p>
 </center>
 
 ## Rastreabilidade
@@ -81,7 +81,7 @@ A matriz de rastreabilidade foi construida por meio da ferramenta [Google Planil
 | 18 | O usuário deve possuir uma forma de pagamento por cartão que seja automática | [Q06](../Elicitacao/questionario.md/#requisitos-elicitados) e [ST05](../Elicitacao/storytelling.md/#requisitos-elicitados) | [UC01](../Modelagem/casos_de_uso.md/#uc01---visualizar-fatura), [UC02](../Modelagem/casos_de_uso.md/#uc02---visualizar-histórico-de-pagamentos), [UC04](../Modelagem/casos_de_uso.md/#uc04---agendar-leitura-de-hidrômetro), [UC06](../Modelagem/casos_de_uso.md/#uc06---visualizar-histórico-de-consumo-de-água) | [L03](../Modelagem/lexicos.md/#l03---cadastro), [L16](../Modelagem/lexicos.md/#l16---pagamento), [L17](../Modelagem/lexicos.md/#l17---pagar) | -- | [US09](../Modelagem/Agil/historia_usuario.md/#especificações-das-histórias-de-usuário) | [EF05]() |  | INX |
 | 19 | A possibilidade de se utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas | [Q08](../Elicitacao/questionario.md/#requisitos-elicitados) | [UC01](../Modelagem/casos_de_uso.md/#uc01---visualizar-fatura), [UC02](../Modelagem/casos_de_uso.md/#uc02---visualizar-histórico-de-pagamentos), [UC03](../Modelagem/casos_de_uso.md/#uc03---informar-vazamento), [UC04](../Modelagem/casos_de_uso.md/#uc04---agendar-leitura-de-hidrômetro), [UC05](../Modelagem/casos_de_uso.md/#uc05---informar-falta-de-água), [UC06](../Modelagem/casos_de_uso.md/#uc06---visualizar-histórico-de-consumo-de-água) | [L03](../Modelagem/lexicos.md/#l03---cadastro), [L09](../Modelagem/lexicos.md/#l09---disponibilidade) | -- | [US20](../Modelagem/Agil/historia_usuario.md/#especificações-das-histórias-de-usuário) | [EF06]() |  | INX |
 
-<p> Tabela 2 - Funcionais (Fonte: adaptado de Miriam[1], 2005).</p>
+<p> Tabela 2 - Funcionais (Fonte: Autores, 2023).</p>
 </center>
 
 
@@ -118,7 +118,7 @@ A matriz de rastreabilidade foi construida por meio da ferramenta [Google Planil
 | 24 | O aplicativo deve estar disponível para o Android na versão 5.0 | [ES15](../Elicitacao/introspeccao.md/#elicitação-pós-priorização) | [Cenário1](../Modelagem/cenarios.md/#cenário-1---consultar-consumo), [Cenário2](../Modelagem/cenarios.md/#cenário-2---solicitação-de-serviço), [Cenário3](../Modelagem/cenarios.md/#cenário-3---agendamento-de-serviço), [Cenário4](../Modelagem/cenarios.md/#cenário-4---informando-problema), [Cenário5](../Modelagem/cenarios.md/#cenário-5---notificações), [Cenário6](../Modelagem/cenarios.md/#cenário-6---acompanhamento-de-histórico) | [S2](../Modelagem/especificacao_suplementar.md/#suportabilidade), [SIG Usabilidade](../Modelagem/Agil/NFR.md/#sig-de-usabilidade) | [L14](../Modelagem/lexicos.md/#l14---multiplataforma) | -- | [ENF23]() |  | IMP |
 | 25 | O aplicativo deve estar disponível para o IOS na versão 12.0 | [ES16](../Elicitacao/introspeccao.md/#elicitação-pós-priorização) | [Cenário1](../Modelagem/cenarios.md/#cenário-1---consultar-consumo), [Cenário2](../Modelagem/cenarios.md/#cenário-2---solicitação-de-serviço), [Cenário3](../Modelagem/cenarios.md/#cenário-3---agendamento-de-serviço), [Cenário4](../Modelagem/cenarios.md/#cenário-4---informando-problema), [Cenário5](../Modelagem/cenarios.md/#cenário-5---notificações), [Cenário6](../Modelagem/cenarios.md/#cenário-6---acompanhamento-de-histórico) | [S3](../Modelagem/especificacao_suplementar.md/#suportabilidade), [SIG Usabilidade](../Modelagem/Agil/NFR.md/#sig-de-usabilidade) | [L14](../Modelagem/lexicos.md/#l14---multiplataforma) | -- | [ENF24]() |  | IMP |
 
-<p> Tabela 3 - Não-funcionais (Fonte: adaptado de Miriam[1], 2005).</p>
+<p> Tabela 3 - Não-funcionais (Fonte: Autores, 2023).</p>
 </center>
 
 ### Legendas
