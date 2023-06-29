@@ -62,7 +62,7 @@ Dessa foram, a tabela 2 apresenta todos os requisitos funcionais com sua rastrea
 | RF06 | A possibilidade de se utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas | Q08 | <a href="#6">EF 06</a> |
 | RF07 | O usuário deve poder solicitar serviço (CRU) | Q09 | <a href="#7">EF 07</a> |
 | RF08 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada | Q10 | <a href="#8">EF 08</a> |
-| RF09 | O aplicativo deve apresentar uma divisão clara de seções | Q12 | <a href="#9">EF 19</a> |
+| RF09 | O aplicativo deve apresentar uma divisão clara de seções | Q12 | <a href="#9">EF 09</a> |
 | RF10 | O aplicativo deve padronizar todos os itens que aparecem nas suas seções | Q13 | <a href="#10">EF 10</a> |
 | RF11 | Deve se ter mais detalhe e clareza com relação aos protocolos e serviços | Q14 | <a href="#11">EF 11</a> |
 | RF12 | Apresentar quando que ocorrerá uma próxima leitura | Q15 | <a href="#12">EF 12</a> |
@@ -490,7 +490,7 @@ Dessa foram, a tabela 3 apresenta todos os requisitos não funcionais com sua ra
 ### Elos -  Requisitos Não Funcionais
 A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
-#### EF - 01
+#### ENF - 01
 <div id="22"></div>
 
 **Categoria**: Organizacional
@@ -508,7 +508,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 02
+#### ENF - 02
 <div id="23"></div>
 
 **Categoria**: Gerencial
@@ -526,7 +526,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 03
+#### ENF - 03
 <div id="24"></div>
 
 **Categoria**: Gerencial
@@ -544,7 +544,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 04
+#### ENF - 04
 <div id="25"></div>
 
 **Categoria**: Organizacional
@@ -561,7 +561,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 05
+#### ENF - 05
 <div id="26"></div>
 
 **Categoria**: Desenvolvimento
@@ -578,7 +578,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 06
+#### ENF - 06
 <div id="27"></div>
 
 **Categoria**: Desenvolvimento
@@ -595,7 +595,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 07
+#### ENF - 07
 <div id="28"></div>
 
 **Categoria**: Desenvolvimento
@@ -612,7 +612,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 08
+#### ENF - 08
 <div id="29"></div>
 
 **Categoria**: Organizacional
@@ -629,7 +629,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 09
+#### ENF - 09
 <div id="30"></div>
 
 **Categoria**: Desenvolvimento
@@ -646,7 +646,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 10
+#### ENF - 10
 <div id="31"></div>
 
 **Categoria**: Desenvolvimento
@@ -663,7 +663,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 11
+#### ENF - 11
 <div id="32"></div>
 
 **Categoria**: Organizacional
@@ -680,7 +680,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 12
+#### ENF - 12
 <div id="33"></div>
 
 **Categoria**: Gerencial
@@ -697,7 +697,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 13
+#### ENF - 13
 <div id="34"></div>
 
 **Categoria**: Gerencial
@@ -714,7 +714,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 14
+#### ENF - 14
 <div id="35"></div>
 
 **Categoria**: Gerencial
@@ -731,7 +731,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 15
+#### ENF - 15
 <div id="36"></div>
 
 **Categoria**: Gerencial
@@ -748,7 +748,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 16
+#### ENF - 16
 <div id="37"></div>
 
 **Categoria**: Gerencial
@@ -765,7 +765,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 17
+#### ENF - 17
 <div id="38"></div>
 
 **Categoria**: Gerencial
@@ -782,7 +782,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 18
+#### ENF - 18
 <div id="39"></div>
 
 **Categoria**: Gerencial
@@ -799,7 +799,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 19
+#### ENF - 19
 <div id="40"></div>
 
 **Categoria**: Desenvolvimento
@@ -816,7 +816,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 20
+#### ENF - 20
 <div id="41"></div>
 
 **Categoria**: Desenvolvimento
@@ -833,7 +833,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 21
+#### ENF - 21
 <div id="42"></div>
 
 **Categoria**: Desenvolvimento
@@ -850,7 +850,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 22
+#### ENF - 22
 <div id="43"></div>
 
 **Categoria**: Desenvolvimento
@@ -867,7 +867,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 23
+#### ENF - 23
 <div id="44"></div>
 
 **Categoria**: Desenvolvimento
@@ -884,7 +884,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 </br>
 
-#### EF - 24
+#### ENF - 24
 <div id="45"></div>
 
 **Categoria**: Desenvolvimento
