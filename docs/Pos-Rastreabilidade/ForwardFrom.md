@@ -52,7 +52,7 @@ Na Tabela 2 abaixo será apresentado as legendas que serão utilizadas, com os s
 | RNF     | Requisitos não Funcionais |
 
 <div style="text-align: center">
-<p> Tabela 1: Legenda (Fonte: autor, 2023).</p>
+<p> Tabela 2: Legenda (Fonte: autor, 2023).</p>
 </div>
 
 Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos requisitos funcionais 
@@ -64,36 +64,48 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 
 | Tipos de Elo | Artefatos Relacionados |
 | :---: | :---: |
-| Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US06 |
+| Satisfação | [Especificação Suplementar: Usabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> [História de usuário: US06](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) |
 | Recurso | Cenário: Visualização da segunda via da fatura <br>Especificação Suplementar:Confiabilidade,Desempenho,Suportabilidade|
 | Representação | <font><figure markdown>![](./assets/img/fatura.jpg){: style="height:500px;width:250px"} |
-| Alocado | Léxico 11: Fatura <br> Épico: EP01 - Pagamento |
-| Agregação | Cenário: Visualização da segunda    da via da fatura <br> História de usuário: US06 <br>  Requisitos : Q01,Q03 |
+| Alocado | [Léxico 11: Fatura](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/) <br> [Épico: EP01 - Pagamento](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/) |
+| Agregação | [Cenário: Visualização da segunda    da via da fatura](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [História de usuário: US06](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) <br>  Requisitos : [Q01,Q03](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) |
 | Responsabilidade|-|
+
+<div style="text-align: center">
+<p> Tabela 3: RF01 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF02 
  Solicitar um serviço específico oferecido pela CAESB
 
 | Tipos de Elo | Artefatos Relacionados |
 | :---: | :---: |
-| Satisfação | Especificação Suplementar: Usabilidade <br> História de usuário: US16 |
-| Recurso | Cenário: Solicitação de serviço <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
+| Satisfação | [Especificação Suplementar: Usabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> [História de usuário: US16](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) |
+| Recurso | [Cenário: Solicitação de serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) |
 | Representação |<font><figure markdown>![](./assets/img/servicos.jpg){: style="height:500px;width:250px"}|
-| Alocado | Léxico 19: Serviço <br> Épico: EP04 - Solicitação |
-| Agregação | Cenário: Solicitação de serviço <br> História de usuário: US16 <br> Requisitos: Q11, Q12, Q14, Q20 |
+| Alocado | [Léxico 19: Serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/) <br> [Épico: EP04 - Solicitação](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/) |
+| Agregação | [Cenário: Solicitação de serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [História de usuário: US16](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) <br> Requisitos: [Q11, Q12, Q14, Q20](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 4: RF02 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF03 
  Entrar no aplicativo utilizando credenciais de acesso
 
 | Tipos de Elo | Artefatos Relacionados |
 | :---: | :---: |
-| Satisfação | Especificação Suplementar: Segurança <br> História de usuário: US21 |
+| Satisfação | [Especificação Suplementar: Segurança](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> História de usuário: US21 |
 | Recurso | Cenário: Login no aplicativo <br> Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade |
 | Representação | <font><figure markdown>![](./assets/img/login.JPG){: style="height:500px;width:250px"} |
 | Alocado | Léxico 18: Credenciais <br> Épico: EP05 - Conta |
 | Agregação | Cenário: Parte do  Login no aplicativo em todos <br> História de usuário: US21 <br> Requisitos: Q15, Q16, Q19, Q23 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 5: RF03 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF04 
  Denunciar um vazamento de água para a CAESB
@@ -107,6 +119,10 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | Agregação | Cenário: Denúncia de vazamento <br> História de usuário: US18 <br> Requisitos: Q12, Q13, Q18, Q22 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 6: RF04 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF05 
  Visualizar o consumo de água com detalhes
  
@@ -119,6 +135,9 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | Agregação | Cenário: Visualização do consumo de água <br> História de usuário: US07 <br> Requisitos: Q06 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 7: RF05 (Fonte: autor, 2023).</p>
+</div>
 
 
 ### RF06 
@@ -133,6 +152,10 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | Agregação | Cenário: Consulta ao histórico de consumo de água <br> História de usuário: US12 <br> Requisitos: Q08 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 8: RF06 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF07 
 Receber notificações sobre falta de água na região
 
@@ -144,6 +167,10 @@ Receber notificações sobre falta de água na região
 | Alocado | Léxico 15:Notificação  <br> Épico: EP03 - Detalhamento |
 | Agregação | Cenário: Recebimento de notificação de falta de água <br> História de usuário: US14 <br> Requisitos: Q09|
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 9: RF07 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF08 
  Realização de pagamento da fatura pelo PIX
@@ -157,6 +184,10 @@ Receber notificações sobre falta de água na região
 | Agregação |  História de usuário: US01 <br> Requisitos: Q10 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 10: RF08 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF09 
  Realização de pagamento da fatura por boleto
  
@@ -168,6 +199,10 @@ Receber notificações sobre falta de água na região
 | Alocado | Léxico 11, 16, 17: Fatura, Pagamento e Pagar <br> Épico: EP01 - Pagamento |
 | Agregação |  História de usuário: US02 <br> Requisitos: Q12 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 11: RF09 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF10 
  Receber notificações sobre faturas próximas do vencimento
@@ -181,6 +216,10 @@ Receber notificações sobre falta de água na região
 | Agregação | Cenário: Recebimento de notificação de vencimento <br> História de usuário: US08 <br> Requisitos: Q13 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 12: RF10 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF11 
  Ter acesso aos protocolos de serviço
  
@@ -192,6 +231,10 @@ Receber notificações sobre falta de água na região
 | Alocado | Léxico 06 e 19: Suporte e Solicitar serviço <br> Épico: EP03 - Detalhamento |
 | Agregação | Cenário: Acesso aos protocolos de serviço <br> História de usuário: US13 <br> Requisitos: Q14 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 13: RF11 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF12 
 Realização de pagamento da fatura por cartão
@@ -205,6 +248,10 @@ Realização de pagamento da fatura por cartão
 | Agregação |   História de usuário: US03 <br> Requisitos: Q15 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 14: RF12 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF13 
  Receber notificações sobre a próxima leitura do medidor
  
@@ -216,6 +263,10 @@ Realização de pagamento da fatura por cartão
 | Alocado |Léxico  15 : Notificação <br> Épico: EP02 - Acompanhamento |
 | Agregação | Cenário: Recebimento de notificação de leitura <br> História de usuário: US11 <br> Requisitos: Q16 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 15: RF13 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF14 
 Entrar em contato com a equipe de suporte
@@ -229,6 +280,10 @@ Entrar em contato com a equipe de suporte
 | Agregação | Cenário: Contato com a equipe de suporte <br> História de usuário: US19 <br> Requisitos: Q17 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 16: RF14 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF15 
 Utilizar a autenticação biométrica para acessar o aplicativo
 
@@ -240,6 +295,10 @@ Utilizar a autenticação biométrica para acessar o aplicativo
 | Alocado | Léxico 18: Segurança <br> Épico: EP05 - Conta |
 | Agregação | História de usuário: US22 <br> Requisitos: INT01 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 17: RF15 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF16 
 Cadastrar um cartão de crédito/débito
@@ -253,7 +312,9 @@ Cadastrar um cartão de crédito/débito
 | Agregação |  História de usuário: US04 <br> Requisitos: INT02 <br> ST04 |
 | Responsabilidade | - |
 
-
+<div style="text-align: center">
+<p> Tabela 18: RF16 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF17 
 Ativar o pagamento automático da fatura por cartão cadastrado
@@ -267,6 +328,10 @@ Ativar o pagamento automático da fatura por cartão cadastrado
 | Agregação | Cenário: Ativação do pagamento automático da fatura <br> História de usuário: US09 <br> Requisitos: INT06<br> ST05 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 19: RF17 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF18 
 Cadastrar mais de um imóvel em minha conta
 
@@ -278,6 +343,10 @@ Cadastrar mais de um imóvel em minha conta
 | Alocado | Léxico 3: Cadastro  <br> Épico: EP05 - Conta |
 | Agregação | Cenário: Cadastro de mais de um imóvel <br> História de usuário: US20 <br> Requisitos: INT07 <br> ST06|
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 20: RF18 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF19 
 Ver o histórico de pagamentos realizados
@@ -291,6 +360,10 @@ Ver o histórico de pagamentos realizados
 | Agregação | História de usuário: US24 <br> Requisitos: INT08 <br> ST02|
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 21: RF19 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF20 
 Ver detalhes da conta de água
 
@@ -302,6 +375,10 @@ Ver detalhes da conta de água
 | Alocado | Léxico 07, 11: Consultar e Fatura <br> Épico: EP02 - Acompanhamento |
 | Agregação | História de usuário: US15 <br> Requisitos: INT09 |
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 22: RF20 (Fonte: autor, 2023).</p>
+</div>
 
 ### RF21 
 Verificar o andamento da leitura do medidor de água
@@ -315,6 +392,10 @@ Verificar o andamento da leitura do medidor de água
 | Agregação | Cenário: Verificação do andamento da leitura <br> História de usuário: US10 <br> Requisitos: INT10 |
 | Responsabilidade | - |
 
+<div style="text-align: center">
+<p> Tabela 23: RF21 (Fonte: autor, 2023).</p>
+</div>
+
 ### RF22 
 Solicitação da autoleitura do medidor de água
 
@@ -326,6 +407,10 @@ Solicitação da autoleitura do medidor de água
 | Alocado |Léxico 19: Solicitar Serviço <br> Épico: EP04 - Solicitação |
 | Agregação | Cenário: Solicitação de autoleitura do medidor de água <br> História de usuário: US17 <br> Requisitos: Q09 <br> INT10|
 | Responsabilidade | - |
+
+<div style="text-align: center">
+<p> Tabela 24: RF22 (Fonte: autor, 2023).</p>
+</div>
 
 Novamente, a natureza e o número exato de requisitos associados dependem do projeto específico e de sua complexidade.
 
