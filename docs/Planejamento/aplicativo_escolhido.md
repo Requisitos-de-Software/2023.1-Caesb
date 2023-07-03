@@ -1,4 +1,9 @@
 # Aplicativo Escolhido
+## Introdução
+Todo artefato a ser produzido neste projeto, será feito a partir de um aplicativo específico, escolhido pelo grupo. Com isso, este documento visa introduzir o aplicativo escolhido pelo grupo, de acordo com a análise individual de diferentes plataformas sugeridas, seguindo os critérios da disciplina.
+
+## Metodologia
+A escolha do aplicativo analisado neste projeto ocorreu por meio do estudo e análise individual de cada membro (Tabela 1). Reunindo os Rich Pictures e estudos elaborados, o grupo acordou sobre o aplicativo escolhido definindo os motivos de escolha e o Rich Picture relacionado. 
 
 ## Aplicativos analisados
 
@@ -31,10 +36,7 @@ Depois de passar pelos critérios, o grupo optou por seguir o projeto com o apli
 - A empresa CAESB possui alguns métodos de contato que podem vim a ser usados para a validação de requisitos
 
 ## Caesb
-
-
-
-O aplivativo da CAESB (Companhia de Saneamento Ambiental do Distritu Federal) foi criado com o objetivo de se ter praticidade, permitindo que o usuário tenha acesso a diversos recursos, como:
+O aplicativo da CAESB (Companhia de Saneamento Ambiental do Distrito Federal) foi criado com o objetivo de se ter praticidade, permitindo que o usuário tenha acesso a diversos recursos, como:
 
 * Avisos sobre a Falta de Água.
 * Qualidade de Água em Lagos.
@@ -83,10 +85,10 @@ O objetivo desse artefato é revisar a versão 1 da Rich Picture.
 2. Algumas operações deveriam ser armazenamento de dados, por exemplo, "2 via da conta" e esta deve ficar ligada diretamente ao usuário através da operação visualizar.
 3. O armazenamento de dados “banco de dados” não deve representar um armazenamento de dados, deve ser apenas uma representação, utilizando apenas uma imagem que a represente.
 4. O armazenamento de dados “dados do usuário” deve ser representada pelo próprio banco de dados, não sendo considerado uma operação.
-5. A operação “2 via da conta”, que deveria ser um armazenamento de dados deve ter uma seta ligando o banco de dados nela.
+5. A operação “2ª via da conta”, que deveria ser um armazenamento de dados deve ter uma seta ligando o banco de dados nela.
 6. O armazenamento de dados “solicitações” não deve ser um armazenamento de dados e sim uma operação ”solicitar”.
 
-Diante disso se tem a nova versão atualziada do Rich Picture, que pode ser encontrado na Figura 3:
+Diante disso se tem a nova versão atualizada do Rich Picture, que pode ser encontrado na Figura 3:
 ![RP-V2](../assets/planejamento/app-escolhido/rich-pictureV2.png)
 <p align="center">
     Firgura 3: CAESB Autoatendimento Rich Picture. (Fonte: Autor, 2023).
@@ -101,6 +103,8 @@ Diante disso se tem a nova versão atualziada do Rich Picture, que pode ser enco
     Tabela 2: Legenda da Rich Picture. (Fonte: Autor, 2023).
 </p>
 
+## Bibliografia
+> CTEC2402. Introducting to Rich Picture - Rich Picture Drawing Guidelines. 
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                         Autor                                          |               Revisor               |
@@ -108,3 +112,4 @@ Diante disso se tem a nova versão atualziada do Rich Picture, que pode ser enco
 | 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
 | 14/04/2023 |        15/04/2023        |  2.0   | Adicionando a Rich Picture e fazendo correções | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
 | 25/04/2023 |        26/04/2023        |  2.1   | Fazendo correção de textos, tabelas e links | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| 03/07/2023 |        04/07/2023        |  3.0   | Fazendo correção de textos, tabelas e links | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |

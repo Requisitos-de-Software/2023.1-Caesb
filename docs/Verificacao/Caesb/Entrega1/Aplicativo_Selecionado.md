@@ -103,3 +103,4 @@ A seguir estão listadas todas as atualizações do artefato analisado por este 
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 14/06/2023 |        15/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
 | 21/06/2023 |        21/06/2023        |  2.0   | Adicionando Checklist |  [Pedro](https://github.com/pedrobarbosaocb)| [Caetano](https://github.com/caeslucio) |
+| 03/07/2023 |        04/007/2023        |  2.1   | Atualizando documento após correções |  [Pedro](https://github.com/pedrobarbosaocb)| [Daniel](https://github.com/daniel-de-sousa |"
