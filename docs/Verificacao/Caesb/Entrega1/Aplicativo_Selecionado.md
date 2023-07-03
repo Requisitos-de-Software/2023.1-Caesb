@@ -61,9 +61,9 @@ O planejamento e a situação da correção do artefatos, Aplicativo Selecionado
 
 | ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 2 | Metodologia | Adicionar metodologia utilizada em uma seção avulsa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | - |
-| 4 e 10 | Rich Picture | Adicionar mais desenhos a fim de melhorar o entendimento da mensagem que o Rich Picture representa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | - |
+| 1 | Bibliografia | Organizar bibliografia e referências bibliográficas | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | ok |
+| 2 | Metodologia | Adicionar metodologia utilizada em uma seção avulsa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 23/06/2023 a 25/06/2023 | ok |
+| 4 e 10 | Rich Picture | Adicionar mais desenhos a fim de melhorar o entendimento da mensagem que o Rich Picture representa | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) | 24/06/2023 a 26/06/2023 | Após reanálise do documento, foi percebido que houve a correção do Rich Picture, por isso não será corrigido novamente |
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
@@ -72,7 +72,7 @@ O planejamento e a situação da correção do artefatos, Aplicativo Selecionado
 ### Atualização
 A seguir estão listadas todas as atualizações do artefato analisado por este documento, a partir da data de sua data de entrega.
 
-- Não há atualizações até o momento.
+- 03/07/2023 - Correção pós verificação (ID's 1, 2 e 4)
 
 <div id="referencia-bibliografica"></div>
 
