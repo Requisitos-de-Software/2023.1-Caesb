@@ -175,6 +175,7 @@ nav:
       - Planejamento da Entrega: Guia/Verificacao/Entrega-Modelo/0planejamento.md
       - Artefato: Guia/Verificacao/Entrega-Modelo/1artefato.md
   - Entregas: Apresentacoes/apresentacoes.md
+  - Entrega Final: EntregaFinal/entrega-final.md
 
 
 markdown_extensions:
