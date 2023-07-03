@@ -9,6 +9,8 @@ A escolha do aplicativo analisado neste projeto ocorreu por meio do estudo e an�
 
 Para o projeto da disciplina se tornou necessário a escolha de um aplicativo para ser trabalhado, para isso, foi aproveitado os aplicativos analisados individualmente por cada membro e dentre estes foi feito a escolha daquele que foi julgado como sendo a melhor opção a ser trabalhada pela equipe. Sendo que para isso, cada membro fez uma Rich Picture do seu aplicativo analisado, que podem ser acessadas pelos links presentes na Tabela 1.
 
+<center>
+
 | Nome                | Aplicativo            | Rich Picture     |
 | ------------------- | --------------------- | ---------------- |
 | Carla de Araujo     | GitHub                | [Rich Picture](https://drive.google.com/file/d/1SJRAn2ASOPUSXnSuscGr-pjjEfK-BPgY/view?usp=share_link) |
@@ -17,6 +19,8 @@ Para o projeto da disciplina se tornou necessário a escolha de um aplicativo pa
 | Paulo VIctor        | LibreOffice Reader    | [Rich Picture](https://drive.google.com/file/d/1O6a4WsyZZGpi5hMXnucT-9sKm2f_6a-7/view?usp=share_link) |
 | Pedro Barbosa       | iLovePDF              | [Rich Picture](https://drive.google.com/file/d/1Tl43CzS2VdOyFZoEIta61nIZBAEW4nTe/view?usp=share_link) |
 | Raquel Eucaria      | Acolha-se             | [Rich Picture](https://drive.google.com/file/d/1bJn8Yg8jbbtKxEbVHLiRroGd-4yGiil8/view?usp=share_link) |
+
+</center>
 
 <p>Tabela 1: Aplicativos Avaliados por Membro. (Fonte: autores, 2023).</p>
 
