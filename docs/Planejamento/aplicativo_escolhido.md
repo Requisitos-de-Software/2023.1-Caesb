@@ -117,3 +117,4 @@ Diante disso se tem a nova versão atualizada do Rich Picture, que pode ser enco
 | 14/04/2023 |        15/04/2023        |  2.0   | Adicionando a Rich Picture e fazendo correções | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
 | 25/04/2023 |        26/04/2023        |  2.1   | Fazendo correção de textos, tabelas e links | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
 | 03/07/2023 |        04/07/2023        |  3.0   | Fazendo correção de textos, tabelas e links | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
+| 03/07/2023 |        04/07/2023        |  3.1   | Centralizando tabela | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
