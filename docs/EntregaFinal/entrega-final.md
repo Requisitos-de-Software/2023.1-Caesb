@@ -4,7 +4,7 @@ Durante esse artefato, o objetivo é evidenciar todas as etapas que ocorreram du
 Para a realização do projeto da disciplina, o aplicativo escolhido foi um dentre todos os [aplicativos analisados](../Pre-rastreabilidade/aplicativos_analisados.md) pelos membros dos grupos de requisitos, onde a escolha foi o aplicativo [CAESB Autoatendimento](../Planejamento/aplicativo_escolhido.md).
 
 ## Planejamento
-O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o Cronograma Realizado, referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
+O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o [Cronograma Realizado](../Planejamento/cronograma_realizado.md), referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
 
 
 ## Execução do Projeto  
