@@ -159,9 +159,10 @@ nav:
           - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
           - NFR: Verificacao/Grupo5/Entrega4/nfr.md
   - Pós-Rastreabilidade:
-    - Backward-From: Pos-Rastreabilidade/backward_from.md
-    - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
-    - Matriz de Rastreabilidade: Pos-Rastreabilidade/matriz.md
+    - nova matriz: Pos-rastreabilidade/nova-matriz.md
+    - Backward-From: Pos-rastreabilidade/backward_from.md
+    - Forward-From: Pos-rastreabilidade/ForwardFrom.md
+    - Matriz de Rastreabilidade: Pos-rastreabilidade/matriz.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
