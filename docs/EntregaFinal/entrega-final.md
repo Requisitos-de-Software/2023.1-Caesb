@@ -1,6 +1,7 @@
 ## Introdução
-1. O aplicativo selecionado para o projeto.
-<explicar de forma breve desde qual aplicativo escolhido até os principais pontos deste documento>
+1. Para a realização do projeto da disciplina, o aplicativo escolhido foi um dentre todos os [aplicativos analisados](../Pre-rastreabilidade/aplicativos_analisados.md) pelos membros dos grupos de requisitos, onde a escolha foi o aplicativo [CAESB Autoatendimento](../Planejamento/aplicativo_escolhido.md).
+
+Durante esse artefato, o objetivo é evidenciar todas as etapas que ocorreram durante o projeto, onde será apresentado cada etapa de desenvolvimento, o que ocorreu em cada uma delas como também seus artefatos produzidos, com os respectivos autores e revisores.
 
 ## Planejamento
 2. O planejamento dos recursos e das entregas (cronograma planejado e executado).
@@ -8,9 +9,8 @@
 ### Cronograma Executado
 
 
-## Execução do Projeto
+## Execução do Projeto  
 3. A execução do projeto (as fases/etapas do desenvolvidas no projeto).
-
 
 
 
@@ -36,7 +36,11 @@
 9. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações).
 
 
-## Facilidades e Dificuldades
+## Comentários sobre o Trabalho
+
+### Facilidades
+
+### Dificuldades
 
 ## Referência Bibliográfica
 
