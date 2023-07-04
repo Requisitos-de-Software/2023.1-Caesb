@@ -1,12 +1,10 @@
 ## Introdução
-1. Para a realização do projeto da disciplina, o aplicativo escolhido foi um dentre todos os [aplicativos analisados](../Pre-rastreabilidade/aplicativos_analisados.md) pelos membros dos grupos de requisitos, onde a escolha foi o aplicativo [CAESB Autoatendimento](../Planejamento/aplicativo_escolhido.md).
-
 Durante esse artefato, o objetivo é evidenciar todas as etapas que ocorreram durante o projeto, onde será apresentado cada etapa de desenvolvimento, o que ocorreu em cada uma delas como também seus artefatos produzidos, com os respectivos autores e revisores.
 
+Para a realização do projeto da disciplina, o aplicativo escolhido foi um dentre todos os [aplicativos analisados](../Pre-rastreabilidade/aplicativos_analisados.md) pelos membros dos grupos de requisitos, onde a escolha foi o aplicativo [CAESB Autoatendimento](../Planejamento/aplicativo_escolhido.md).
+
 ## Planejamento
-2. O planejamento dos recursos e das entregas (cronograma planejado e executado).
-### Cronograma Planejado
-### Cronograma Executado
+O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o Cronograma Realizado, referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
 
 
 ## Execução do Projeto  
@@ -36,11 +34,13 @@ Durante esse artefato, o objetivo é evidenciar todas as etapas que ocorreram du
 9. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações).
 
 
-## Comentários sobre o Trabalho
+## Experiências com o Projeto
+A execução de todo Projeto é composta por momentos altos e baixos, visto que sempre há margem para aprendizado. Com isso, essa seção contém o que foi observado pelo grupo como pontos mais fáceis e mais difíceis.
 
 ### Facilidades
 
 ### Dificuldades
+- 
 
 ## Referência Bibliográfica
 
