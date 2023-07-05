@@ -42,6 +42,7 @@ O planejamento foi parte essencial para guiar o grupo em relação a produção 
 A execução de todo Projeto é composta por momentos altos e baixos, visto que sempre há margem para aprendizado. Com isso, essa seção contém o que foi observado pelo grupo como pontos mais fáceis e mais difíceis.
 
 ### Facilidades
+- 
 
 ### Dificuldades
 - 
