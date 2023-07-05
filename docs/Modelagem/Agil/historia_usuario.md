@@ -62,8 +62,8 @@ Após a realização das histórias de usuário , todo o documento foi validado 
 A seguir, apresentamos a tabela 3 com as especificações das histórias de usuário. 
 
 
-| ID  | História de Usuário                                                      | Critérios de Aceitação                                                                                                                                                                                          | Prioridade |
-|-----|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| ID  | História de Usuário | Critérios de Aceitação | Prioridade |
+|-----|---------------------|------------------------|------------|
 | US01   | Eu, como usuário, desejo realizar o pagamento da fatura pelo PIX.        | - O sistema deve gerar um código QR ou chave PIX para a fatura selecionada.<br>- Após o pagamento, o sistema deve atualizar o status do pagamento.                                                                  | Alta       |
 | US02   | Eu, como usuário, desejo realizar o pagamento da fatura por boleto.      | - O sistema deve gerar um boleto com as informações da fatura selecionada.<br>- Após o pagamento, o sistema deve atualizar o status do pagamento.                                                                | Alta       |
 | US03   | Eu, como usuário, desejo efetuar o pagamento da fatura utilizando cartão de débito ou crédito. | - O sistema deve permitir ao usuário cadastrar e selecionar um cartão para efetuar o pagamento.<br>- Após o pagamento, o sistema deve atualizar o status.                                         | Alta       |

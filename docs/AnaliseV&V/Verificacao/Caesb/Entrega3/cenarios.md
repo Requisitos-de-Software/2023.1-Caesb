@@ -76,8 +76,8 @@ O planejamento e a situação da correção do artefato dos cenários será regi
 |:--:|:---------:|:--------:|:--------:|:-------:|:----:|:------:|
 | 2 | Bibliografia | Colocar no Padrão | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
 | 4 | Metodologia | Adicionar a seção de metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
-| 11 | Condições | Adicionar as condições e exceções para a execução | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
-| 12 | Recursos | Deixar claro quais são os recursos usados em cada cenário. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
+| 11 | Condições | Adicionar as condições e exceções para a execução | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | -  | - |
+| 12 | Recursos | Deixar claro quais são os recursos usados em cada cenário. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | - | - |
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
@@ -123,3 +123,4 @@ Depois da atualização, se realizou uma nova verificação, apresentando as seg
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                     |                   Revisor                  |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------------: | :----------------------------------------: |
 | 21/06/2023 |        21/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| 05/07/2023 |        05/07/2023        |  1.2   | Correção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |

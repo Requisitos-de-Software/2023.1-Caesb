@@ -72,8 +72,8 @@ O planejamento e a situação da correção do artefato da história de usuário
 | ID | Descrição | Detalhes | Corretor | Revisor | Data | Status |
 |:--:|:---------:|:--------:|:--------:|:-------:|:----:|:------:|
 | 5 | Título | Colocar campo de título das histórias. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023 | - |
-| 6 | Elementos | Especificar mais dentro de cada história os elementos. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023 | - |
-| 10 | Teste | Rever historias que são difíceis de serem testadas. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
+| 6 | Elementos | Especificar mais dentro de cada história os elementos. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | - | - |
+| 10 | Teste | Rever historias que são difíceis de serem testadas. | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | -  | - |
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
@@ -114,3 +114,4 @@ Depois da atualização, se realizou uma nova verificação, apresentando as seg
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                     |                   Revisor                  |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------------: | :----------------------------------------: |
 | 21/06/2023 |        21/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| 05/07/2023 |        05/07/2023        |  1.2   | Correção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |

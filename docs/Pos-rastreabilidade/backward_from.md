@@ -54,27 +54,27 @@ Dessa foram, a tabela 2 apresenta todos os requisitos funcionais com sua rastrea
 
 |  ID  | Requisito | Rastreabilidade | Elo |
 |:----:|-----------|:---------------:|:---:|
-| RF01 | O aplicativo deve permitir que os usuários visualizem as faturas dos pagamentos | INT03 </br> Q01 </br> Q03 </br> ST04 | <a href="#1">EF 01</a> |
-| RF02 | O aplicativo deve permitir a emissão de notificações sobre informações relevantes ao usuário | INT04 </br> Q02 </br> Q11 </br> ST01 | <a href="#2">EF 02</a> |
-| RF03 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando cartão de crédito ou débito | INT05 </br> Q04 </br> ST05 | <a href="#3">EF 03</a> |
-| RF04 | O aplicativo deve permitir que o usuário copie o código do boleto | Q05 | <a href="#4">EF 04</a> |
-| RF05 | O usuário deve possuir uma forma de pagamento por cartão que seja automática | Q06 | <a href="#5">EF 05</a> |
-| RF06 | A possibilidade de se utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas | Q08 | <a href="#6">EF 06</a> |
-| RF07 | O usuário deve poder solicitar serviço (CRU) | Q09 | <a href="#7">EF 07</a> |
-| RF08 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada | Q10 | <a href="#8">EF 08</a> |
-| RF09 | O aplicativo deve apresentar uma divisão clara de seções | Q12 | <a href="#9">EF 09</a> |
-| RF10 | O aplicativo deve padronizar todos os itens que aparecem nas suas seções | Q13 | <a href="#10">EF 10</a> |
-| RF11 | Deve se ter mais detalhe e clareza com relação aos protocolos e serviços | Q14 | <a href="#11">EF 11</a> |
-| RF12 | Apresentar quando que ocorrerá uma próxima leitura | Q15 | <a href="#12">EF 12</a> |
-| RF13 | O aplicativo deve informar o motivo para a qualidade de banho em uma área do lago não ser a ideal | Q16 | <a href="#13">EF 13</a> |
-| RF14 | O usuário deve poder informar sobre vazamentos| Q17 | <a href="#14">EF 14</a> |
-| RF15 | O aplicativo deve permitir que os usuários se registrem para criar uma conta | INT01 | <a href="#15">EF 15</a> |
-| RF16 | O aplicativo deve permitir que os usuários visualizem o historico de consumo de água | INT02 </br> ST04 | <a href="#16">EF 16</a> |
-| RF17 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando chave pix | INT06 </br> ST05 | <a href="#17">EF 17</a> |
-| RF18 | O aplicativo deve permitir que os usuários entrem em contato com a equipe de suporte da CAESB para resolver problemas e fazer perguntas | INT07 </br> ST06 | <a href="#18">EF 18</a> |
-| RF19 | O aplicativo deve permitir que os usuários gerem relatórios detalhados sobre seu consumo de água e os custos associados ao consumo | INT08 </br> ST02 | <a href="#19">EF 19</a> |
-| RF20 | O aplicativo deve permitir que os usuários alterem as informações cadastradas no sistema | INT09 | <a href="#20">EF 20</a> |
-| RF21 | O aplicativo deve permitir que os usuários visualizem um histórico detalhado dos serviços solicitados | INT10 | <a href="#21">EF 21</a> |
+| RF01 | O aplicativo deve permitir que os usuários visualizem as faturas dos pagamentos | [INT03](../Elicitacao/introspeccao.md) </br> [Q01](../Elicitacao/questionario.md) </br> [Q03](../Elicitacao/questionario.md) </br> [ST04](../Elicitacao/storytelling.md) | <a href="#1">EF 01</a> |
+| RF02 | O aplicativo deve permitir a emissão de notificações sobre informações relevantes ao usuário | [INT04](../Elicitacao/introspeccao.md) </br> [Q02](../Elicitacao/questionario.md) </br> [Q11](../Elicitacao/questionario.md) </br> [ST01](../Elicitacao/storytelling.md) | <a href="#2">EF 02</a> |
+| RF03 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando cartão de crédito ou débito | [INT05](../Elicitacao/introspeccao.md) </br> [Q04](../Elicitacao/questionario.md) </br> [ST05](../Elicitacao/storytelling.md) | <a href="#3">EF 03</a> |
+| RF04 | O aplicativo deve permitir que o usuário copie o código do boleto | [Q05](../Elicitacao/questionario.md) | <a href="#4">EF 04</a> |
+| RF05 | O usuário deve possuir uma forma de pagamento por cartão que seja automática | [Q06](../Elicitacao/questionario.md) | <a href="#5">EF 05</a> |
+| RF06 | A possibilidade de se utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas | [Q08](../Elicitacao/questionario.md) | <a href="#6">EF 06</a> |
+| RF07 | O usuário deve poder solicitar serviço (CRU) | [Q09](../Elicitacao/questionario.md) | <a href="#7">EF 07</a> |
+| RF08 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada | [Q10](../Elicitacao/questionario.md) | <a href="#8">EF 08</a> |
+| RF09 | O aplicativo deve apresentar uma divisão clara de seções | [Q12](../Elicitacao/questionario.md) | <a href="#9">EF 09</a> |
+| RF10 | O aplicativo deve padronizar todos os itens que aparecem nas suas seções | [Q13](../Elicitacao/questionario.md) | <a href="#10">EF 10</a> |
+| RF11 | Deve se ter mais detalhe e clareza com relação aos protocolos e serviços | [Q14](../Elicitacao/questionario.md) | <a href="#11">EF 11</a> |
+| RF12 | Apresentar quando que ocorrerá uma próxima leitura | [Q15](../Elicitacao/questionario.md) | <a href="#12">EF 12</a> |
+| RF13 | O aplicativo deve informar o motivo para a qualidade de banho em uma área do lago não ser a ideal | [Q16](../Elicitacao/questionario.md) | <a href="#13">EF 13</a> |
+| RF14 | O usuário deve poder informar sobre vazamentos| [Q17](../Elicitacao/questionario.md) | <a href="#14">EF 14</a> |
+| RF15 | O aplicativo deve permitir que os usuários se registrem para criar uma conta | [INT01](../Elicitacao/introspeccao.md) | <a href="#15">EF 15</a> |
+| RF16 | O aplicativo deve permitir que os usuários visualizem o historico de consumo de água | [INT02](../Elicitacao/introspeccao.md) </br> [ST04](../Elicitacao/storytelling.md) | <a href="#16">EF 16</a> |
+| RF17 | O aplicativo deve permitir que o usuário pague suas contas de água utilizando chave pix | [INT06](../Elicitacao/introspeccao.md) </br> [ST05](../Elicitacao/storytelling.md) | <a href="#17">EF 17</a> |
+| RF18 | O aplicativo deve permitir que os usuários entrem em contato com a equipe de suporte da CAESB para resolver problemas e fazer perguntas | [INT07](../Elicitacao/introspeccao.md) </br> [ST06](../Elicitacao/storytelling.md) | <a href="#18">EF 18</a> |
+| RF19 | O aplicativo deve permitir que os usuários gerem relatórios detalhados sobre seu consumo de água e os custos associados ao consumo | [INT08](../Elicitacao/introspeccao.md) </br> [ST02](../Elicitacao/storytelling.md) | <a href="#19">EF 19</a> |
+| RF20 | O aplicativo deve permitir que os usuários alterem as informações cadastradas no sistema | [INT09](../Elicitacao/introspeccao.md) | <a href="#20">EF 20</a> |
+| RF21 | O aplicativo deve permitir que os usuários visualizem um histórico detalhado dos serviços solicitados | [INT10](../Elicitacao/introspeccao.md) | <a href="#21">EF 21</a> |
 
 <p>Tabela 2 - Requisitos Funcionais. (Fonte: Autor, 2023)</p>
 
@@ -92,13 +92,13 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF01:
 
-    * Introspecção: INT03
-    * Questionário: Q01 e Q03
-    * Storytelling: ST04 
+    * Introspecção: [INT03](../Elicitacao/introspeccao.md)
+    * Questionário: [Q01](../Elicitacao/questionario.md) e [Q03](../Elicitacao/questionario.md)
+    * Storytelling: [ST04](../Elicitacao/storytelling.md) 
 
 **Elos**: 
 
-* Agregação: Q01, Q03 e ST04 agrega INT03
+* Agregação: [Q01](../Elicitacao/questionario.md), [Q03](../Elicitacao/questionario.md) e [ST04](../Elicitacao/storytelling.md) agrega [INT03](../Elicitacao/introspeccao.md)
 
 </br>
 
@@ -111,14 +111,14 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF02:
 
-    * Introspecção: INT04
-    * Questionário: Q02 e Q11
-    * Storytelling: ST01
+    * Introspecção: [INT04](../Elicitacao/introspeccao.md)
+    * Questionário: [Q02](../Elicitacao/questionario.md) e [Q11](../Elicitacao/questionario.md)
+    * Storytelling: [ST01](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Agregação: Q02, Q11 e ST01 agrega INT04
-* Representação: Q02 representa ST01
+* Agregação: [Q02](../Elicitacao/questionario.md), [Q11](../Elicitacao/questionario.md) e [ST01](../Elicitacao/storytelling.md) agrega [INT04](../Elicitacao/introspeccao.md)
+* Representação: [Q02](../Elicitacao/questionario.md) representa [ST01](../Elicitacao/storytelling.md)
 
 </br>
 
@@ -131,13 +131,13 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF03:
 
-    * Introspecção: INT05
-    * Questionário: Q04
-    * Storytelling: ST05
+    * Introspecção: [INT05](../Elicitacao/introspeccao.md)
+    * Questionário: [Q04](../Elicitacao/questionario.md)
+    * Storytelling: [ST05](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Agregação: INT05 e Q04 agrega ST05
+* Agregação: [INT05](../Elicitacao/introspeccao.md) e [Q04](../Elicitacao/questionario.md) agrega [ST05](../Elicitacao/storytelling.md)
 
 </br>
 
@@ -150,7 +150,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF04:
 
-    * Questionário: Q05
+    * Questionário: [Q05](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -167,7 +167,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF05:
 
-    * Questionário: Q06
+    * Questionário: [Q06](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -184,7 +184,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF06:
 
-    * Questionário: Q08
+    * Questionário: [Q08](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -201,7 +201,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF07:
 
-    * Questionário: Q09
+    * Questionário: [Q09](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -218,7 +218,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF08:
 
-    * Questionário: Q10
+    * Questionário: [Q10](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -235,7 +235,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF09:
 
-    * Questionário: Q12
+    * Questionário: [Q12](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -252,7 +252,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF10:
 
-    * Questionário: Q13
+    * Questionário: [Q13](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -269,7 +269,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF11:
 
-    * Questionário: Q14
+    * Questionário: [Q14](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -286,7 +286,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF12:
 
-    * Questionário: Q15
+    * Questionário: [Q15](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -303,7 +303,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF13:
 
-    * Questionário: Q16
+    * Questionário: [Q16](../Elicitacao/questionario.md)
 
 
 **Elos**: 
@@ -321,7 +321,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF14:
 
-    * Questionário: Q17
+    * Questionário: [Q17](../Elicitacao/questionario.md)
 
 **Elos**: 
 
@@ -338,7 +338,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF15:
 
-    * Introspecção: INT01
+    * Introspecção: [INT01](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -355,12 +355,12 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF16:
 
-    * Introspecção: INT02
-    * Storytelling: ST04
+    * Introspecção: [INT02](../Elicitacao/introspeccao.md)
+    * Storytelling: [ST04](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Agregação: INT02 agrega ST04
+* Agregação: [INT02](../Elicitacao/introspeccao.md) agrega [ST04](../Elicitacao/storytelling.md)
 
 </br>
 
@@ -373,12 +373,12 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF17:
 
-    * Introspecção: INT06
-    * Storytelling: ST05
+    * Introspecção: [INT06](../Elicitacao/introspeccao.md)
+    * Storytelling: [ST05](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Agregação: INT06 agrega ST05
+* Agregação: [INT06](../Elicitacao/introspeccao.md) agrega [ST05](../Elicitacao/storytelling.md)
 
 </br>
 
@@ -391,12 +391,12 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF18:
 
-    * Introspecção: INT07
-    * Storytelling: ST06
+    * Introspecção: [INT07](../Elicitacao/introspeccao.md)
+    * Storytelling: [ST06](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Representação: INT07 representa ST06
+* Representação: [INT07](../Elicitacao/introspeccao.md) representa [ST06](../Elicitacao/storytelling.md)
 
 </br>
 
@@ -409,12 +409,12 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF19:
 
-    * Introspecção: INT08
-    * Storytelling: ST02
+    * Introspecção: [INT08](../Elicitacao/introspeccao.md)
+    * Storytelling: [ST02](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
-* Agregação: ST02 agrega INT08
+* Agregação: [ST02](../Elicitacao/storytelling.md) agrega [INT08](../Elicitacao/introspeccao.md)
 
 </br>
 
@@ -427,7 +427,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF20:
 
-    * Introspecção: INT09
+    * Introspecção: [INT09](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -444,7 +444,7 @@ A seguir se tem a categorização dos Elos dos requisitos fucnionais:
 
 * RF21:
 
-    * Introspecção: INT10
+    * Introspecção: [INT10](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -458,30 +458,30 @@ Dessa foram, a tabela 3 apresenta todos os requisitos não funcionais com sua ra
 
 |   ID  | Requisito | Rastreabilidade | Elo |
 |:-----:|-----------|:---------------:|:---:|
-| RNF01 | O aplicativo deve seguir as diretrizes de acessibilidade da WACG 2.1 [2], garantindo que seja acessível para pessoas com deficiência visual, auditiva ou física. | INT14 </br> Q07 |  <a href="#22">ENF 01</a>  |
-| RNF02 | O aplicativo deve ser capaz de lidar com pelo menos 150.000 usuários simultâneos sem comprometer o desempenho ou a segurança | INT11 </br> ES11 |  <a href="#23">ENF 02</a>  |
-| RNF03 | O aplicativo deve ter uma taxa de disponibilidade de pelo menos 99% durante o horário comercial | INT12 </br> ES05 |  <a href="#24">ENF 03</a>  |
-| RNF04 | O aplicativo deve ter um procedimento de manutenção que permita que o tempo de inatividade seja limitado a no máximo 10 horas por mês. | INT13 |  <a href="#25">ENF 04</a>  |
-| RNF05 | O aplicativo deve permitir que os usuários escolham entre pelo menos 3 idiomas diferentes | INT15 |  <a href="#26">ENF 05</a>  |
-| RNF06 | O aplicativo deve ser atualizado frequentemente para garantir a correção de erros, melhorias de desempenho e novos recursos. | INT16 |  <a href="#27">ENF 06</a>  |
-| RNF07 | O aplicativo deve funcionar perfeitamente em todos os dispositivos, incluindo computadores. | INT17 |  <a href="#28">ENF 07</a>  |
-| RNF08 | Eu, como usuario, desejo que o aplicativo garanta a segurança das minhas informações pessoais e financeiras | ST03 |  <a href="#29">ENF 08</a>  |
-| RNF09 | Eu, como usuário, desejo que o tempo necessário para realizar tarefas seja menor que 1 minuto | ST07 |  <a href="#30">ENF 09</a>  |
-| RNF10 | Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3 | ST08 |  <a href="#31">ENF 10</a>  |
-| RNF11 | A interface do usuário deve ser intuitiva e de fácil navegação, considerando o perfil diversificado dos usuários. | ES01 |  <a href="#32">ENF 11</a>  |
-| RNF12 | O aplicativo deve fornecer feedback claro e mensagens de erro compreensíveis em caso de problemas. | ES02 |  <a href="#33">ENF 12</a>  |
-| RNF13 | O tempo médio de treinamento para que usuários normais se tornem produtivos em operações básicas do aplicativo não deve exceder 1 hora. | ES03 |  <a href="#34">ENF 13</a>  |
-| RNF14 | O tempo médio para que um usuário solicite a segunda via de uma fatura através do aplicativo deve ser menor que 30 segundos. | ES04 |  <a href="#35">ENF 14</a>  |
-| RNF15 | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 170 horas, o que significa que o sistema deve operar continuamente, em média, por pelo menos 170 horas antes de ocorrer uma falha. | ES06 |  <a href="#36">ENF 15</a>  |
-| RNF16 | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser de 4 horas, ou seja, o sistema deve ser restaurado dentro desse período após uma falha. | ES07 |  <a href="#37">ENF 16</a>  |
-| RNF17 | A precisão das informações exibidas nas faturas dos usuários deve ter uma resolução mínima de 2 casas decimais e estar de acordo com as normas contábeis. | ES08 |  <a href="#38">ENF 17</a>  |
-| RNF18 | O tempo médio de resposta para o processamento de uma transação no aplicativo não deve exceder 3 segundos. | ES09 |  <a href="#39">ENF 18</a>  |
-| RNF19 | O aplicativo deve suportar uma taxa mínima de processamento de 100 transações por segundo para atender à demanda dos usuários. | ES10 |  <a href="#40">ENF 19</a>  |
-| RNF20 | Quando houver uma queda na conexão de internet do usuário, o aplicativo deve ser capaz de fornecer um modo de degradação, permitindo a execução de funções básicas offline, como visualização de faturas anteriores. | ES12 |  <a href="#41">ENF 20</a>  |
-| RNF21 | O aplicativo deve ser otimizado para minimizar o consumo de memória, garantindo um uso eficiente dos recursos do dispositivo do usuário. | ES13 |  <a href="#42">ENF 21</a>  |
-| RNF22 | O código do aplicativo deve ser desenvolvido de acordo com as diretrizes do padrão de codificação definido pela equipe de desenvolvimento da CAESB. | ES14 |  <a href="#43">ENF 22</a>  |
-| RNF23 | O aplicativo deve estar disponível para o Android na versão 5.0 | ES15 |  <a href="#44">ENF 23</a>  |
-| RNF24 | O aplicativo deve estar disponível para o IOS na versão 12.0 | ES16 |  <a href="#45">ENF 24</a>  |
+| RNF01 | O aplicativo deve seguir as diretrizes de acessibilidade da WACG 2.1 [2], garantindo que seja acessível para pessoas com deficiência visual, auditiva ou física. | [INT14](../Elicitacao/introspeccao.md) </br> [Q07](../Elicitacao/questionario.md) |  <a href="#22">ENF 01</a>  |
+| RNF02 | O aplicativo deve ser capaz de lidar com pelo menos 150.000 usuários simultâneos sem comprometer o desempenho ou a segurança | [INT11](../Elicitacao/introspeccao.md) </br> [ES11](../Modelagem/especificacao_suplementar.md) |  <a href="#23">ENF 02</a>  |
+| RNF03 | O aplicativo deve ter uma taxa de disponibilidade de pelo menos 99% durante o horário comercial | [INT12](../Elicitacao/introspeccao.md) </br> [ES05](../Modelagem/especificacao_suplementar.md) |  <a href="#24">ENF 03</a>  |
+| RNF04 | O aplicativo deve ter um procedimento de manutenção que permita que o tempo de inatividade seja limitado a no máximo 10 horas por mês. | [INT13](../Elicitacao/introspeccao.md) |  <a href="#25">ENF 04</a>  |
+| RNF05 | O aplicativo deve permitir que os usuários escolham entre pelo menos 3 idiomas diferentes | [INT15](../Elicitacao/introspeccao.md) |  <a href="#26">ENF 05</a>  |
+| RNF06 | O aplicativo deve ser atualizado frequentemente para garantir a correção de erros, melhorias de desempenho e novos recursos. | [INT16](../Elicitacao/introspeccao.md) |  <a href="#27">ENF 06</a>  |
+| RNF07 | O aplicativo deve funcionar perfeitamente em todos os dispositivos, incluindo computadores. | [INT17](../Elicitacao/introspeccao.md) |  <a href="#28">ENF 07</a>  |
+| RNF08 | Eu, como usuario, desejo que o aplicativo garanta a segurança das minhas informações pessoais e financeiras | [ST03](../Elicitacao/storytelling.md) |  <a href="#29">ENF 08</a>  |
+| RNF09 | Eu, como usuário, desejo que o tempo necessário para realizar tarefas seja menor que 1 minuto | [ST07](../Elicitacao/storytelling.md) |  <a href="#30">ENF 09</a>  |
+| RNF10 | Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3 | [ST08](../Elicitacao/storytelling.md) |  <a href="#31">ENF 10</a>  |
+| RNF11 | A interface do usuário deve ser intuitiva e de fácil navegação, considerando o perfil diversificado dos usuários. | [ES01](../Modelagem/especificacao_suplementar.md) |  <a href="#32">ENF 11</a>  |
+| RNF12 | O aplicativo deve fornecer feedback claro e mensagens de erro compreensíveis em caso de problemas. | [ES02](../Modelagem/especificacao_suplementar.md) |  <a href="#33">ENF 12</a>  |
+| RNF13 | O tempo médio de treinamento para que usuários normais se tornem produtivos em operações básicas do aplicativo não deve exceder 1 hora. | [ES03](../Modelagem/especificacao_suplementar.md) |  <a href="#34">ENF 13</a>  |
+| RNF14 | O tempo médio para que um usuário solicite a segunda via de uma fatura através do aplicativo deve ser menor que 30 segundos. | [ES04](../Modelagem/especificacao_suplementar.md) |  <a href="#35">ENF 14</a>  |
+| RNF15 | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 170 horas, o que significa que o sistema deve operar continuamente, em média, por pelo menos 170 horas antes de ocorrer uma falha. | [ES06](../Modelagem/especificacao_suplementar.md) |  <a href="#36">ENF 15</a>  |
+| RNF16 | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser de 4 horas, ou seja, o sistema deve ser restaurado dentro desse período após uma falha. | [ES07](../Modelagem/especificacao_suplementar.md) |  <a href="#37">ENF 16</a>  |
+| RNF17 | A precisão das informações exibidas nas faturas dos usuários deve ter uma resolução mínima de 2 casas decimais e estar de acordo com as normas contábeis. | [ES08](../Modelagem/especificacao_suplementar.md) |  <a href="#38">ENF 17</a>  |
+| RNF18 | O tempo médio de resposta para o processamento de uma transação no aplicativo não deve exceder 3 segundos. | [ES09](../Modelagem/especificacao_suplementar.md) |  <a href="#39">ENF 18</a>  |
+| RNF19 | O aplicativo deve suportar uma taxa mínima de processamento de 100 transações por segundo para atender à demanda dos usuários. | [ES10](../Modelagem/especificacao_suplementar.md) |  <a href="#40">ENF 19</a>  |
+| RNF20 | Quando houver uma queda na conexão de internet do usuário, o aplicativo deve ser capaz de fornecer um modo de degradação, permitindo a execução de funções básicas offline, como visualização de faturas anteriores. | [ES12](../Modelagem/especificacao_suplementar.md) |  <a href="#41">ENF 20</a>  |
+| RNF21 | O aplicativo deve ser otimizado para minimizar o consumo de memória, garantindo um uso eficiente dos recursos do dispositivo do usuário. | [ES13](../Modelagem/especificacao_suplementar.md) |  <a href="#42">ENF 21</a>  |
+| RNF22 | O código do aplicativo deve ser desenvolvido de acordo com as diretrizes do padrão de codificação definido pela equipe de desenvolvimento da CAESB. | [ES14](../Modelagem/especificacao_suplementar.md) |  <a href="#43">ENF 22</a>  |
+| RNF23 | O aplicativo deve estar disponível para o Android na versão 5.0 | [ES15](../Modelagem/especificacao_suplementar.md) |  <a href="#44">ENF 23</a>  |
+| RNF24 | O aplicativo deve estar disponível para o IOS na versão 12.0 | [ES16](../Modelagem/especificacao_suplementar.md) |  <a href="#45">ENF 24</a>  |
 
 <p>Tabela 3 - Requisitos não Funcionais. (Fonte: Autor, 2023)</p>
 
@@ -499,12 +499,12 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF01:
 
-    * Introspecção: INT14
-    * Questionário: Q07
+    * Introspecção: [INT14](../Elicitacao/introspeccao.md)
+    * Questionário: [Q07](../Elicitacao/questionario.md)
 
 **Elos**: 
 
-* Representação: Q07 representa INT14
+* Representação: [Q07](../Elicitacao/questionario.md) representa [INT14](../Elicitacao/introspeccao.md)
 
 </br>
 
@@ -517,12 +517,12 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF02:
 
-    * Introspecção: INT11
-    * Especificação Suplementar: ES11
+    * Introspecção: [INT11](../Elicitacao/introspeccao.md)
+    * Especificação Suplementar: [ES11](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
-* Representação: ES11 representa INT11
+* Representação: [ES11](../Modelagem/especificacao_suplementar.md) representa [INT11](../Elicitacao/introspeccao.md)
 
 </br>
 
@@ -535,12 +535,12 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF03:
 
-    * Introspecção: INT12
-    * Especificação Suplementar: ES05
+    * Introspecção: [INT12](../Elicitacao/introspeccao.md)
+    * Especificação Suplementar: [ES05](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
-* Representação: ES05 representa INT12
+* Representação: [ES05](../Modelagem/especificacao_suplementar.md) representa [INT12](../Elicitacao/introspeccao.md)
 
 </br>
 
@@ -553,7 +553,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF04:
 
-    * Introspecção: INT13
+    * Introspecção: [INT13](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -570,7 +570,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF05:
 
-    * Introspecção: INT15
+    * Introspecção: [INT15](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -587,7 +587,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF06:
 
-    * Introspecção: INT16
+    * Introspecção: [INT16](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -604,7 +604,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF07:
 
-    * Introspecção: INT17
+    * Introspecção: [INT17](../Elicitacao/introspeccao.md)
 
 **Elos**: 
 
@@ -621,7 +621,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF08:
 
-    * Storytelling:  ST03
+    * Storytelling:  [ST03](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
@@ -638,7 +638,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF09:
 
-    * Storytelling:  ST07
+    * Storytelling:  [ST07](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
@@ -655,7 +655,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF10:
 
-    * Storytelling:  ST08
+    * Storytelling:  [ST08](../Elicitacao/storytelling.md)
 
 **Elos**: 
 
@@ -672,7 +672,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF11:
 
-    * Especificação Suplementar: ES01
+    * Especificação Suplementar: [ES01](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -689,7 +689,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF12:
 
-    * Especificação Suplementar: ES02
+    * Especificação Suplementar: [ES02](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -706,7 +706,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF13:
 
-    * Especificação Suplementar: ES03
+    * Especificação Suplementar: [ES03](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -723,7 +723,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF14:
 
-    * Especificação Suplementar: ES04
+    * Especificação Suplementar: [ES04](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -740,7 +740,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF15:
 
-    * Especificação Suplementar: ES06
+    * Especificação Suplementar: [ES06](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -757,7 +757,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF16:
 
-    * Especificação Suplementar: ES07
+    * Especificação Suplementar: [ES07](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -774,7 +774,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF17:
 
-    * Especificação Suplementar: ES07
+    * Especificação Suplementar: [ES07](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -791,7 +791,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF18:
 
-    * Especificação Suplementar: ES08
+    * Especificação Suplementar: [ES08](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -808,7 +808,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF19:
 
-    * Especificação Suplementar: ES10
+    * Especificação Suplementar: [ES10](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -825,7 +825,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF20:
 
-    * Especificação Suplementar: ES12
+    * Especificação Suplementar: [ES12](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -842,7 +842,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF21:
 
-    * Especificação Suplementar: ES13
+    * Especificação Suplementar: [ES13](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -859,7 +859,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF22:
 
-    * Especificação Suplementar: ES14
+    * Especificação Suplementar: [ES14](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -876,7 +876,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF23:
 
-    * Especificação Suplementar: ES15
+    * Especificação Suplementar: [ES15](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
@@ -893,7 +893,7 @@ A seguir se tem a categorização dos Elos dos requisitos Não fucnionais:
 
 * RNF24:
 
-    * Especificação Suplementar: ES16
+    * Especificação Suplementar: [ES16](../Modelagem/especificacao_suplementar.md)
 
 **Elos**: 
 
