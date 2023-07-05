@@ -6,23 +6,17 @@ Para a realização do projeto da disciplina, o aplicativo escolhido foi um dent
 ## Planejamento
 O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o [Cronograma Realizado](../Planejamento/cronograma_realizado.md), referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
 
-
 ## Execução do Projeto  
 3. A execução do projeto (as fases/etapas do desenvolvidas no projeto).
-
-
 
 ## Técnicas
 5. Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas);
 
-
 ## Artefatos
 6. Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor;
 
-
 ## Verificação e Validação
 7. Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checklist e da verificação);
-
 
 ## Ferramentas
 8. Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;
@@ -32,6 +26,16 @@ O planejamento foi parte essencial para guiar o grupo em relação a produção 
 
 ## Apresentações
 9. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações).
+
+| Etapa | Gravação | Participantes |
+| --- | --- | --- |
+| Planejamento do Projeto | [Entrega 1](https://www.youtube.com/watch?v=nTTCJMEjoRU) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Elicitação de Requisitos | [Entrega 2](https://www.youtube.com/watch?v=6fcySUroCvk) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Modelagem de Requisitos | [Entrega 3](https://www.youtube.com/watch?v=TYaaIGlcaBw) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Modelagem de Requisitos (Ágil) | [Entrega 4]() | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Análise V&V Parte 1 | [Entrega 5.1](https://www.youtube.com/watch?v=h06TXAq3pSA) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Análise V&V Parte 2 | [Entrega 5.2](https://www.youtube.com/watch?v=iUmj6L1_JhI) | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
+| Pós-rastreabilidade | [Entrega 6](https://www.youtube.com/watch?v=s0_4nb564BY) | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
 
 
 ## Experiências com o Projeto
