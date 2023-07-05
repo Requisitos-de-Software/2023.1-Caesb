@@ -70,8 +70,6 @@ nav:
     - Heatmap: Planejamento/heatmap.md
   - Rastreabilidade:
     - Pré-Rastreabilidade: Pre-rastreabilidade/aplicativos_analisados.md
-    - Pós-Rastreabilidade:
-      - Forward-Form: Pos-Rastreabilidade/ForwardFrom.md
   - Elicitação:
     - Perfil do Usuário: Elicitacao/perfil_usuario.md
     - Personas: Elicitacao/personas.md
@@ -164,9 +162,9 @@ nav:
           - Contato: AnaliseV&V/Validacao/validacao.md
 
   - Pós-Rastreabilidade:
-    - Backward-From: Pos-rastreabilidade/backward_from.md
+    - Backward-From: Pos-Rastreabilidade\backward_from.md
     - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
-    - Matriz de Rastreabilidade: Pos-rastreabilidade/matriz.md
+    - Matriz de Rastreabilidade:  Pos-Rastreabilidade\matriz.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
