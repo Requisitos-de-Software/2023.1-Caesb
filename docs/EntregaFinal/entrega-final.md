@@ -77,3 +77,4 @@ A tabela 1 explicita um resumo de cada etapa da execução do projeto, a qual ta
 |    Data    | Data Prevista de Revisão | Versão | Descrição | Autor |Revisor  |
 | :--------: | :-----: | :----: | :------: | :------: | :----: |
 |  03/07/2023 | 04/07/2023 | 1.0 | Criação do Documento | [Pedro](https://github.com/pedrobarbosaocb) | [Raquel](https://github.com/raqueleucaria) |
+  04/07/2023 | 05/07/2023 | 1.0 | Adição da execução do projeto | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS)| [Pedro](https://github.com/pedrobarbosaocb) |
