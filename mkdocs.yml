@@ -158,6 +158,7 @@ nav:
           - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historias.md
           - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
           - NFR: Verificacao/Grupo5/Entrega4/nfr.md
+  - Validação: Validação/prototipo.md
   - Pós-Rastreabilidade:
     - Backward-From: Pos-rastreabilidade/backward_from.md
     - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
