@@ -1,11 +1,11 @@
 # Forward-From
 ## Introdução
 
-De acordo com o artigo "Rastreabilidade de Requisitos", de Miriam Sayão e Julio Cesar Sampaio do Prado Leite,Edwards M apresenta que "rastreabilidade pode ser definida como sendo a técnica usada para prover relacionamento entre requisitos, arquitetura e implementação final do sistema". Como a rastreabilidade é uma parte importante do processo da qualidade de um Software,esse artefato consiste na apresentação da rastreabilidade "forward-from"
+De acordo com a monografia "Rastreabilidade de Requisitos", de Miriam Sayão e Julio Cesar Sampaio do Prado Leite  "rastreabilidade pode ser definida como sendo a técnica usada para prover relacionamento entre requisitos, arquitetura e implementação final do sistema"(Edwards 91)[1]. Como a rastreabilidade é uma parte importante do processo da qualidade de um Software,esse artefato consiste na apresentação da rastreabilidade "forward-from"
 
 ## Metodologia
 
-A rastreabilidade de Requisitos forward-from liga requisitos a artefatos de desenho  (SAYÃO; LEITE, 2005). Dessa forma, para realizar essa rastreabilidade, foi utilizado o Meta-modelo utilizado por Toranzo[1] que apresenta a classificação das informações a serem realizadas em quatro níveis, que visam abranger diferentes tipos de informações relevantes para o acompanhamento e controle do desenvolvimento do sistema:
+A rastreabilidade de Requisitos forward-from liga requisitos a artefatos de desenho  (SAYÃO; LEITE, 2005). Dessa forma, para realizar essa rastreabilidade, foi utilizado o Meta-modelo utilizado por Toranzo[2] que apresenta a classificação das informações a serem realizadas em quatro níveis, que visam abranger diferentes tipos de informações relevantes para o acompanhamento e controle do desenvolvimento do sistema:
 
 - Ambiental:  Abrange informações do contexto externo que podem afetar o sistema em desenvolvimento, como mudanças regulatórias e avanços tecnológicos.
 - Organizacional:  Inclui informações sobre a organização, como sua missão, objetivos e políticas, que podem impactar os requisitos do sistema.
@@ -64,11 +64,11 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 
 | Tipos de Elo | Artefatos Relacionados |
 | :---: | :---: |
-| Satisfação | [Especificação Suplementar: Usabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> [História de usuário: US06](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) |
+| Satisfação | [Especificação Suplementar: Usabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> [História de usuário](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) US06 |
 | Recurso | Cenário: Visualização da segunda via da fatura <br>Especificação Suplementar:Confiabilidade,Desempenho,Suportabilidade|
 | Representação | <font><figure markdown>![](./assets/img/fatura.jpg){: style="height:500px;width:250px"} |
-| Alocado | [Léxico 11: Fatura](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/) <br> [Épico: EP01 - Pagamento](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/) |
-| Agregação | [Cenário: Visualização da segunda    da via da fatura](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [História de usuário: US06](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) <br>  Requisitos : [Q01,Q03](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) |
+| Alocado | [Léxico 11](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/): Fatura <br> [Épico](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/): EP01 - Pagamento |
+| Agregação | [Cenário](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/): Visualização da segunda  via da fatura: <br> [História de usuário: US06](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) <br>  Requisitos : [Q01,Q03](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) |
 | Responsabilidade|-|
 
 <div style="text-align: center">
@@ -81,7 +81,7 @@ Dessa forma, nas tabelas 3 a 24 abaixo serão apresentadas a rastreabilidade dos
 | Tipos de Elo | Artefatos Relacionados |
 | :---: | :---: |
 | Satisfação | [Especificação Suplementar: Usabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) <br> [História de usuário: US16](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) |
-| Recurso | [Cenário: Solicitação de serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [Especificação Suplementar: Confiabilidade, Desempenho, Suportabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/) |
+| Recurso | [Cenário](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/): Solicitação de serviço <br> [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/): Confiabilidade, Desempenho, Suportabilidade |
 | Representação |<font><figure markdown>![](./assets/img/servicos.jpg){: style="height:500px;width:250px"}|
 | Alocado | [Léxico 19: Serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/) <br> [Épico: EP04 - Solicitação](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/) |
 | Agregação | [Cenário: Solicitação de serviço](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/) <br> [História de usuário: US16](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/) <br> Requisitos: [Q11, Q12, Q14, Q20](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) |
@@ -412,7 +412,6 @@ Solicitação da autoleitura do medidor de água
 <p> Tabela 24: RF22 (Fonte: autor, 2023).</p>
 </div>
 
-Novamente, a natureza e o número exato de requisitos associados dependem do projeto específico e de sua complexidade.
 
 
 ## Bibliografia
