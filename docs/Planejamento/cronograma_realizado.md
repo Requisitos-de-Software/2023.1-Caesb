@@ -19,7 +19,7 @@
 
 <p><center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center></p>
 
-## Entrega 2 
+## 2ª Entrega  
 
 <h4>Elicitação de Requisitos</h4>
 
@@ -38,7 +38,7 @@
 
 <p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
 
-## Entrega 3 
+## 3ª Entrega  
 
 <h4>Modelagem</h4>
 
@@ -54,7 +54,7 @@
 
 <p><center>Tabela 3: Entrega 3 (Fonte: autor, 2023).</center></p>
 
-## Entrega 4 
+## 4ª Entrega  
 
 <h4>Modelagem de Requisitos</h4>
 
@@ -70,10 +70,27 @@
 
 <p><center>Tabela 4: Entrega 4 (Fonte: autor, 2023).</center></p>
 
+## 5ª Entrega (1ª Parte)
+
+<h4>Verificação e Validação</h4>
+
+| Atividade              |  Local| Período de desenvolvimento | Responsáveis| Participantes | Período de revisão | Revisores   |
+|-----------------|----------------|----------------------------|------------------------------------|---------------|--------------------|------------------------------------|
+| Correções da entrega 4   | Teams (remoto) | 25/05 - 14/06 | Todos       | Todos         | 14/06 | Guilherme e Pedro     |
+| Verificação de requisitos (entrega 1) | Teams (remoto) | 24/05 - 14/06 | Pedro e Caetano e Daniel | -| 14/06 | Paulo e Guilherme e Raquel |
+| Verificação de requisitos (entrega 2) | Teams (remoto) | 24/05 - 13/06 | Paulo e Guilherme e Raquel | -| 14/06 | Pedro e Caetano e Daniel |
+| Gravação       | Teams (remoto) | 14/06         |        | Todos         | 14/06 | Pedro       |
+| Edição de vídeo| Teams (remoto) | 14/06 | Pedro       | -| 16/06 | Guilherme   |
+
+<p><center>Tabela 5: Entrega 5 (Fonte: autor, 2023).</center></p>
+
+
+## Histórico de Versão
 | Data       | Data Prevista de Revisão | Versão | Descrição              | Autor         | Revisor                    |
 |------------|--------------------------|--------|------------------------|---------------|----------------------------|
 | 15/04/2023 | 15/04/2023               | 1.0    | Criação do documento + cronograma da entrega 1  | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS)         |
 | 01/05/2023 | 01/05/2023               | 2.0    | Cronograma da entrega 2 | [Carla](https://github.com/ccarlaa) | [Raquel](https://github.com/raqueleucaria) |
 | 17/05/2023 | 17/05/2023               | 3.0    | Cronograma da entrega 3 | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
 | 24/05/2023 | 24/05/2023               | 4.0    | Cronograma da entrega 4 | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
+| 05/07/2023 | 05/07/2023               | 5.0    | Cronograma da entrega 5.1 | [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
 
