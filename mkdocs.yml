@@ -162,6 +162,7 @@ nav:
     - Validação: 
           - Protótipo: AnaliseV&V/Validacao/prototipo.md
           - Contato: AnaliseV&V/Validacao/validacao.md
+
   - Pós-Rastreabilidade:
     - Backward-From: Pos-rastreabilidade/backward_from.md
     - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
@@ -175,9 +176,9 @@ nav:
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
     - Fazendo a verificação:
-      - Planejamento Geral: Guia/AnaliseV&V/Verificacao/0planejamento-geral.md
-      - Planejamento da Entrega: Guia/AnaliseV&V/Verificacao/Entrega-Modelo/0planejamento.md
-      - Artefato: Guia/AnaliseV&V/Verificacao/Entrega-Modelo/1artefato.md
+      - Planejamento Geral: Guia/Verificacao/0planejamento-geral.md
+      - Planejamento da Entrega: Guia/Verificacao/Entrega-Modelo/0planejamento.md
+      - Artefato: Guia/Verificacao/Entrega-Modelo/1artefato.md
   - Entregas: Apresentacoes/apresentacoes.md
   - Entrega Final: EntregaFinal/entrega-final.md
 
