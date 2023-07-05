@@ -91,74 +91,75 @@ nav:
       - Backlog: Modelagem/Agil/backlog.md
       - Histórias de Usuário: Modelagem/Agil/historia_usuario.md
       - NFR Framework: Modelagem/Agil/NFR.md
-  - Verificação:
-      - Caesb:
-        - Planejamento Geral: Verificacao/Caesb/0planejamento-geral.md
-        - Entrega 1:
-          - Planejamento: Verificacao/Caesb/Entrega1/0planejamento.md
-          - Cronograma Planejado: Verificacao/Caesb/Entrega1/Cronograma_Planejado.md
-          - Cronograma Realizado: Verificacao/Caesb/Entrega1/Cronograma_Realizado.md
-          - Atas: Verificacao/Caesb/Entrega1/Atas.md
-          - Ferramentas: Verificacao/Caesb/Entrega1/Ferramentas.md
-          - Metodologias: Verificacao/Caesb/Entrega1/Metodologias.md
-          - Aplicativo Selecionado: Verificacao/Caesb/Entrega1/Aplicativo_Selecionado.md
-          - Rich Picture: Verificacao/Caesb/Entrega1/Rich_Picture.md
-        - Entrega 2: 
-          - Planejamento: Verificacao/Caesb/Entrega2/0planejamento.md
-          - Questionário: Verificacao/Caesb/Entrega2/elicitacao/questionario.md
-          - Perfil de Usuário: Verificacao/Caesb/Entrega2/elicitacao/perfilUsuario.md
-          - Personas: Verificacao/Caesb/Entrega2/elicitacao/personas.md
-          - Introspecção: Verificacao/Caesb/Entrega2/elicitacao/introspeccao.md
-          - Storytelling: Verificacao/Caesb/Entrega2/elicitacao/storytelling.md
-          - InOrOut: Verificacao/Caesb/Entrega2/priorizacao/InOrOut.md
-          - First Things First:  Verificacao/Caesb/Entrega2/priorizacao/FTF.md
-        - Entrega 3: 
-          - Planejamento: Verificacao/Caesb/Entrega3/0planejamento.md
-          - Cenários: Verificacao/Caesb/Entrega3/cenarios.md
-          - Casos de Uso: Verificacao/Caesb/Entrega3/casos-de-uso.md
-          - Léxicos: Verificacao/Caesb/Entrega3/lexicos.md
-          - Especificação Suplementar: Verificacao/Caesb/Entrega3/esp-suplementar.md
-        - Entrega 4:
-          - Planejamento: Verificacao/Caesb/Entrega4/0planejamento.md
-          - Histórias de Usuário: Verificacao/Caesb/Entrega4/historias.md
-          - Backlog: Verificacao/Caesb/Entrega4/backlog.md
-          - NFR: Verificacao/Caesb/Entrega4/nfr.md
-      - Grupo 5:
-        - Entrega 1:
-          - Planejamento: Verificacao/Grupo5/Entrega1/Entrega1.md
-          - Cronograma Planejado: Verificacao/Grupo5/Entrega1/Cronograma_Planjeado.md
-          - Cronograma Realizado: Verificacao/Grupo5/Entrega1/Cronograma_Realizado.md
-          - Atas: Verificacao/Grupo5/Entrega1/Atas.md
-          - Ferramentas: Verificacao/Grupo5/Entrega1/Ferramentas.md
-          - Metodologias: Verificacao/Grupo5/Entrega1/Metodologias.md
-          - Aplicativo Selecionado: Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md
-          - Rich Picture: Verificacao/Grupo5/Entrega1/Rich_Picture.md
-        - Entrega 2: 
-          - Elicitação: 
-            - Planejamento: Verificacao/Grupo5/Entrega2/elicitacao/planejamento-elicitacao.md
-            - Perfil de Usuário: Verificacao/Grupo5/Entrega2/elicitacao/questionario.md
-            - Personas: Verificacao/Grupo5/Entrega2/elicitacao/personas.md
-            - Storytelling: Verificacao/Grupo5/Entrega2/elicitacao/storytelling.md
-            - Glossário: Verificacao/Grupo5/Entrega2/elicitacao/glossario.md
-            - Introspecção: Verificacao/Grupo5/Entrega2/elicitacao/introspeccao.md
-            - Entrevista:  Verificacao/Grupo5/Entrega2/elicitacao/entrevista.md
-            - Brainstorming: Verificacao/Grupo5/Entrega2/elicitacao/brainstorming.md
-          - Priorização: 
-            - Planejamento: Verificacao/Grupo5/Entrega2/priorizacao/planejamento-Priorizacao.md
-            - First Things First:  Verificacao/Grupo5/Entrega2/priorizacao/FTF.md
-            - MoScoW: Verificacao/Grupo5/Entrega2/priorizacao/moscow.md
-            - Three Level Scale ou TLS: Verificacao/Grupo5/Entrega2/priorizacao/tls.md
-        - Entrega 3: 
-          - Cenários: Verificacao/Grupo5/Entrega3/cenarios.md
-          - Casos de Uso: Verificacao/Grupo5/Entrega3/casos-de-uso.md
-          - Léxicos: Verificacao/Grupo5/Entrega3/lexicos.md
-          - Especificação Suplementar: Verificacao/Grupo5/Entrega3/esp-suplementar.md
-        - Entrega 4:
-          - Planejamento: Verificacao/Grupo5/Entrega4/planejamento.md
-          - Histórias de Usuário: Verificacao/Grupo5/Entrega4/historias.md
-          - Backlog: Verificacao/Grupo5/Entrega4/backlog.md
-          - NFR: Verificacao/Grupo5/Entrega4/nfr.md
-  - Validação: Validação/prototipo.md
+  - Análise V&V:
+    - Verificação:
+        - Caesb:
+          - Planejamento Geral: AnaliseV&V/Verificacao/Caesb/0planejamento-geral.md
+          - Entrega 1:
+            - Planejamento: AnaliseV&V/Verificacao/Caesb/Entrega1/0planejamento.md
+            - Cronograma Planejado: AnaliseV&V/Verificacao/Caesb/Entrega1/Cronograma_Planejado.md
+            - Cronograma Realizado: AnaliseV&V/Verificacao/Caesb/Entrega1/Cronograma_Realizado.md
+            - Atas: AnaliseV&V/Verificacao/Caesb/Entrega1/Atas.md
+            - Ferramentas: AnaliseV&V/Verificacao/Caesb/Entrega1/Ferramentas.md
+            - Metodologias: AnaliseV&V/Verificacao/Caesb/Entrega1/Metodologias.md
+            - Aplicativo Selecionado: AnaliseV&V/Verificacao/Caesb/Entrega1/Aplicativo_Selecionado.md
+            - Rich Picture: AnaliseV&V/Verificacao/Caesb/Entrega1/Rich_Picture.md
+          - Entrega 2: 
+            - Planejamento: AnaliseV&V/Verificacao/Caesb/Entrega2/0planejamento.md
+            - Questionário: AnaliseV&V/Verificacao/Caesb/Entrega2/elicitacao/questionario.md
+            - Perfil de Usuário: AnaliseV&V/Verificacao/Caesb/Entrega2/elicitacao/perfilUsuario.md
+            - Personas: AnaliseV&V/Verificacao/Caesb/Entrega2/elicitacao/personas.md
+            - Introspecção: AnaliseV&V/Verificacao/Caesb/Entrega2/elicitacao/introspeccao.md
+            - Storytelling: AnaliseV&V/Verificacao/Caesb/Entrega2/elicitacao/storytelling.md
+            - InOrOut: AnaliseV&V/Verificacao/Caesb/Entrega2/priorizacao/InOrOut.md
+            - First Things First:  AnaliseV&V/Verificacao/Caesb/Entrega2/priorizacao/FTF.md
+          - Entrega 3: 
+            - Planejamento: AnaliseV&V/Verificacao/Caesb/Entrega3/0planejamento.md
+            - Cenários: AnaliseV&V/Verificacao/Caesb/Entrega3/cenarios.md
+            - Casos de Uso: AnaliseV&V/Verificacao/Caesb/Entrega3/casos-de-uso.md
+            - Léxicos: AnaliseV&V/Verificacao/Caesb/Entrega3/lexicos.md
+            - Especificação Suplementar: AnaliseV&V/Verificacao/Caesb/Entrega3/esp-suplementar.md
+          - Entrega 4:
+            - Planejamento: AnaliseV&V/Verificacao/Caesb/Entrega4/0planejamento.md
+            - Histórias de Usuário: AnaliseV&V/Verificacao/Caesb/Entrega4/historias.md
+            - Backlog: AnaliseV&V/Verificacao/Caesb/Entrega4/backlog.md
+            - NFR: AnaliseV&V/Verificacao/Caesb/Entrega4/nfr.md
+        - Grupo 5:
+          - Entrega 1:
+            - Planejamento: AnaliseV&V/Verificacao/Grupo5/Entrega1/Entrega1.md
+            - Cronograma Planejado: AnaliseV&V/Verificacao/Grupo5/Entrega1/Cronograma_Planjeado.md
+            - Cronograma Realizado: AnaliseV&V/Verificacao/Grupo5/Entrega1/Cronograma_Realizado.md
+            - Atas: AnaliseV&V/Verificacao/Grupo5/Entrega1/Atas.md
+            - Ferramentas: AnaliseV&V/Verificacao/Grupo5/Entrega1/Ferramentas.md
+            - Metodologias: AnaliseV&V/Verificacao/Grupo5/Entrega1/Metodologias.md
+            - Aplicativo Selecionado: AnaliseV&V/Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md
+            - Rich Picture: AnaliseV&V/Verificacao/Grupo5/Entrega1/Rich_Picture.md
+          - Entrega 2: 
+            - Elicitação: 
+              - Planejamento: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/planejamento-elicitacao.md
+              - Perfil de Usuário: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/questionario.md
+              - Personas: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/personas.md
+              - Storytelling: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/storytelling.md
+              - Glossário: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/glossario.md
+              - Introspecção: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/introspeccao.md
+              - Entrevista:  AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/entrevista.md
+              - Brainstorming: AnaliseV&V/Verificacao/Grupo5/Entrega2/elicitacao/brainstorming.md
+            - Priorização: 
+              - Planejamento: AnaliseV&V/Verificacao/Grupo5/Entrega2/priorizacao/planejamento-Priorizacao.md
+              - First Things First:  AnaliseV&V/Verificacao/Grupo5/Entrega2/priorizacao/FTF.md
+              - MoScoW: AnaliseV&V/Verificacao/Grupo5/Entrega2/priorizacao/moscow.md
+              - Three Level Scale ou TLS: AnaliseV&V/Verificacao/Grupo5/Entrega2/priorizacao/tls.md
+          - Entrega 3: 
+            - Cenários: AnaliseV&V/Verificacao/Grupo5/Entrega3/cenarios.md
+            - Casos de Uso: AnaliseV&V/Verificacao/Grupo5/Entrega3/casos-de-uso.md
+            - Léxicos: AnaliseV&V/Verificacao/Grupo5/Entrega3/lexicos.md
+            - Especificação Suplementar: AnaliseV&V/Verificacao/Grupo5/Entrega3/esp-suplementar.md
+          - Entrega 4:
+            - Planejamento: AnaliseV&V/Verificacao/Grupo5/Entrega4/planejamento.md
+            - Histórias de Usuário: AnaliseV&V/Verificacao/Grupo5/Entrega4/historias.md
+            - Backlog: AnaliseV&V/Verificacao/Grupo5/Entrega4/backlog.md
+            - NFR: AnaliseV&V/Verificacao/Grupo5/Entrega4/nfr.md
+    - Validação: AnaliseV&V/Validacao/prototipo.md
   - Pós-Rastreabilidade:
     - Backward-From: Pos-rastreabilidade/backward_from.md
     - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
@@ -172,9 +173,9 @@ nav:
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
     - Fazendo a verificação:
-      - Planejamento Geral: Guia/Verificacao/0planejamento-geral.md
-      - Planejamento da Entrega: Guia/Verificacao/Entrega-Modelo/0planejamento.md
-      - Artefato: Guia/Verificacao/Entrega-Modelo/1artefato.md
+      - Planejamento Geral: Guia/AnaliseV&V/Verificacao/0planejamento-geral.md
+      - Planejamento da Entrega: Guia/AnaliseV&V/Verificacao/Entrega-Modelo/0planejamento.md
+      - Artefato: Guia/AnaliseV&V/Verificacao/Entrega-Modelo/1artefato.md
   - Entregas: Apresentacoes/apresentacoes.md
   - Entrega Final: EntregaFinal/entrega-final.md
 
