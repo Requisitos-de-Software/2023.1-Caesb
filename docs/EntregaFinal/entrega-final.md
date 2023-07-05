@@ -21,6 +21,18 @@ O planejamento foi parte essencial para guiar o grupo em relação a produção 
 ## Ferramentas
 8. Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;
 
+| Ferramenta | Descrição | Uso | Artefatos |
+| --- | --- | --- | --- |
+| GitHub | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos. | O GitHub, por ser o software que armazena todos os nossos artefatos e os dispõe de forma dinâmica, foi utilizado em todo contexto do projeto | Todos |
+| Telegram | Software de mensagens para facilitar a comunicação constante e ágil de um grupo. | O Telegram foi coadjuvante ao GitHub, sendo o Software que utilizamos ao longo de todo o projeto para comunicações breves. | - |
+| Microsoft Teams | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões. | O Teams foi ferramenta chave, devido a necessidade de gravarmos todas as apresentações e reuniões,. | [Apresentações](../Apresentacoes/apresentacoes.md) e [Reuniões](../Atas/Reuniao01.md) |
+| YouTube | Software de hospedagem de vídeos online | Juntamente com o Teams, foi utilizado o YouTube para armazenar as gravações gerais relacionadas ao projeto. | Apresentações, Reuniões e Gravações gerais (com cliente ou da produção de certos artefatos) |
+| Lucidchart | Software de elaboração de diagramas. Oferece a possibilidade de colaboração em tempo real. | Devido a necessidade de criação de diagramas ao longo do projeto e prévia utilização deste software pelos participantes do projeto. | [Rich Picture](../Planejamento/aplicativo_escolhido.md), [Casos de Uso](../Modelagem/casos_de_uso.md), [NFR Framework](../Modelagem/Agil/NFR.md) |
+| This Person Doesn't Exist | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos | Devido a necessidade de criação de imagens de pessoas fictícias para as personas do projeto. | [Personas](../Elicitacao/personas.md) |
+| Google Workspace  | Arcabouço de ferramentas para a produção de planilhas, formulários, organização, etc. | Devido a disponibilização de ferramentas para análise e coleta de dados, de forma gratuita e acessível. | [Questionário](../Elicitacao/questionario.md), [Verificação](../AnaliseV&V/Verificacao/Caesb/0planejamento-geral.md), [HeatMap](../Planejamento/heatmap.md), [First Things First](../Elicitacao/priorizacao-FTF.md) |
+| Figma | Ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo. | Para a elaboração e disponibilização do Protótipo. | [Protótipo](../AnaliseV&V/Validacao/prototipo.md) |
+
+
 ## Resultados
 4. Os resultados alcançados com a execução do projeto (em relação ao objetivo do projeto);
 
