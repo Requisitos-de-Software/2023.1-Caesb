@@ -11,7 +11,7 @@ O método de comunicação adotado foi via contato dos administradores a partir 
 Na Figura 1 é apresentado a mensagemm que foi anviada para a equipe da CAESB.
 <center>
 
-![](../assets/imagens/Mensagem.png)
+![](../../assets/imagens/Mensagem.png)
 
 Figura 1 - Mensagem enviada para a CAESB. (Fonte: Autor)
 
