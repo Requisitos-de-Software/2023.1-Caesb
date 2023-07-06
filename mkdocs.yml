@@ -162,9 +162,9 @@ nav:
           - Contato: AnaliseV&V/Validacao/validacao.md
 
   - Pós-Rastreabilidade:
-    - Backward-From: Pos-Rastreabilidade\backward_from.md
+    - Backward-From: Pos-Rastreabilidade/backward_from.md
     - Forward-From: Pos-Rastreabilidade/ForwardFrom.md
-    - Matriz de Rastreabilidade:  Pos-Rastreabilidade\matriz.md
+    - Matriz de Rastreabilidade:  Pos-Rastreabilidade/matriz.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
