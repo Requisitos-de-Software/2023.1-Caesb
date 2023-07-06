@@ -65,9 +65,8 @@ O planejamento e a situação da correção dos artefatos da introspecção ser�
 |:--:|:---------:|----------|:--------:|:-------:|:----:|:------:|
 | 2 | Bibliografia | Adicionar a bibliografia que mostra o método usado | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
 | 4 | Metodologia |  Adicionar uma parte específica da metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 21/06/2023 a 23/06/2023 | OK |
-| 5 | Cronograma | Adicionar um cronograma de toda a etapa de elicitação | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
-| 6 | Sem gravação | Fazer a gravação da elicitação (Não necessariamente elicitando outros requisitos) | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023  | - |
-| 8 | Preferências na elicitação | Ao adicionar a gravação essa parte será satisfeita | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | 26/06/2023 a 30/06/2023 | - |
+| 5 | Cronograma | Adicionar um cronograma de toda a etapa de elicitação | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | -  | - |
+| 6 | Sem gravação | Fazer a gravação da elicitação (Não necessariamente elicitando outros requisitos) | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) | -  | - |
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>

@@ -52,16 +52,16 @@ João não utiliza o aplicativo da CAESB com frequência, tendo utilizado apenas
 Levando em consideração os storytellings supracitados, os requisitos elicitados serão apresentados  na tabela 1 a seguir
 
 
-| Identificador | Descrição                                                                          | Tipo |
-| ------------- | ---------------------------------------------------------------------------------- | ---- |
-| ST01          | Eu, como usuario, desejo que O aplicativo permita a  configuração de alertas para  eu ser notificado quando minha conta de água estiver prestes a vencer.            | RF   |
-| ST02          | Eu, como usuario, desejo que O aplicativo forneca relatórios e gráficos para permitir que  eu  entenda melhor meus gastos. | RF   |
-| ST03          | Eu, como usuario, desejo que o aplicativo garanta a segurança das minhas informações pessoais e financeiras          | RNF  |
-| ST04          |Eu, como usuario , desejo que o aplicativo  permita  visualizar minhas contas e o  meu consumo de água, de forma clara e objetiva, sem a necessidade de acessar outras ferramentas.                              | RF   |
-| ST05          | Eu, como usuário, desejo que o aplicativo  permita  o pagamento das minhas contas de forma rápida e segura, utilizando diversos meios de pagamento disponíveis.                            | RF   |
-| ST06          | Eu, como usuário, desejo que  O aplicativo contenha  suporte ao usuário,  para solucionar minhas dúvidas e  meus problemas técnicos   | RF   |
-| ST07          | Eu, como usuário, desejo que o tempo necessário para realizar tarefas seja menor que 1 minuto                       | RNF   |
-| ST08          | Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3                      | RNF   |
+| Identificador | Descrição                                                                          | Tipo | Implementado |
+| ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ |
+| ST01          | Eu, como usuario, desejo que O aplicativo permita a  configuração de alertas para  eu ser notificado quando minha conta de água estiver prestes a vencer.            | RF   | Não |
+| ST02          | Eu, como usuario, desejo que O aplicativo forneca relatórios e gráficos para permitir que  eu  entenda melhor meus gastos. | RF   | Sim |
+| ST03          | Eu, como usuario, desejo que o aplicativo garanta a segurança das minhas informações pessoais e financeiras          | RNF  | - |
+| ST04          |Eu, como usuario , desejo que o aplicativo  permita  visualizar minhas contas e o  meu consumo de água, de forma clara e objetiva, sem a necessidade de acessar outras ferramentas.     | RF   | Sim |
+| ST05          | Eu, como usuário, desejo que o aplicativo  permita  o pagamento das minhas contas de forma rápida e segura, utilizando diversos meios de pagamento disponíveis.                            | RF   | Sim |
+| ST06          | Eu, como usuário, desejo que  O aplicativo contenha  suporte ao usuário,  para solucionar minhas dúvidas e  meus problemas técnicos   | RF   | Sim |
+| ST07          | Eu, como usuário, desejo que o tempo necessário para realizar tarefas seja menor que 1 minuto                       | RNF   | Sim |
+| ST08          | Eu, como usuário, desejo que a quantidade de passos para realizar uma tarefa seja menor que 3                      | RNF   | - |
 
 
 <div style="text-align: center">
@@ -87,6 +87,7 @@ Levando em consideração os storytellings supracitados, os requisitos elicitado
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 30/04/2023 |        01/04/2023        |  1.0   | Criação do documento   |  [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
 | 21/06/2023 |        21/06/2023        |  1.1   | Padronização da Bibliografia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| 05/07/2023 |        05/07/2023        |  1.2   | Correção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
