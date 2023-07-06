@@ -253,18 +253,6 @@ Para a produção, armazenamento e compartilhamento dos artefatos, foram utiliza
 
 <p> Tabela 5: Ferramentas (Fonte: Pedro, 2023).</p>
 
-| Ferramenta | Descrição | Uso | Artefatos |
-| --- | --- | --- | --- |
-| GitHub | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos. | O GitHub, por ser o software que armazena todos os nossos artefatos e os dispõe de forma dinâmica, foi utilizado em todo contexto do projeto | Todos |
-| Telegram | Software de mensagens para facilitar a comunicação constante e ágil de um grupo. | O Telegram foi coadjuvante ao GitHub, sendo o Software que utilizamos ao longo de todo o projeto para comunicações breves. | - |
-| Microsoft Teams | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões. | O Teams foi ferramenta chave, devido a necessidade de gravarmos todas as apresentações e reuniões,. | [Apresentações](../Apresentacoes/apresentacoes.md) e [Reuniões](../Atas/Reuniao01.md) |
-| YouTube | Software de hospedagem de vídeos online | Juntamente com o Teams, foi utilizado o YouTube para armazenar as gravações gerais relacionadas ao projeto. | Apresentações, Reuniões e Gravações gerais (com cliente ou da produção de certos artefatos) |
-| Lucidchart | Software de elaboração de diagramas. Oferece a possibilidade de colaboração em tempo real. | Devido a necessidade de criação de diagramas ao longo do projeto e prévia utilização deste software pelos participantes do projeto. | [Rich Picture](../Planejamento/aplicativo_escolhido.md), [Casos de Uso](../Modelagem/casos_de_uso.md), [NFR Framework](../Modelagem/Agil/NFR.md) |
-| This Person Doesn't Exist | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos | Devido a necessidade de criação de imagens de pessoas fictícias para as personas do projeto. | [Personas](../Elicitacao/personas.md) |
-| Google Workspace  | Arcabouço de ferramentas para a produção de planilhas, formulários, organização, etc. | Devido a disponibilização de ferramentas para análise e coleta de dados, de forma gratuita e acessível. | [Questionário](../Elicitacao/questionario.md), [Verificação](../AnaliseV&V/Verificacao/Caesb/0planejamento-geral.md), [HeatMap](../Planejamento/heatmap.md), [First Things First](../Elicitacao/priorizacao-FTF.md) |
-| Figma | Ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo. | Para a elaboração e disponibilização do Protótipo. | [Protótipo](../AnaliseV&V/Validacao/prototipo.md) |
-
-
 ## Resultados
 Durante todo o processo de desenvolvimento do projeto dentro da disciplina, se teve como objetivo compreender e por prática algumas das atividades que um Engenheiro de Requisitos executa, sendo algumas elas, elicitação de requisitos, modelagem de requisitos e rastreabilidade. Tudo isso juntamente com as atividades de organização, documentação e adoção de metodologias pelo grupo que foram seguidas até a etapa final.
 
@@ -295,20 +283,6 @@ Na Tabela 6, estão listadas as apresentações realizadas ao longo do projeto, 
 | Pós-rastreabilidade | [Entrega 6](https://www.youtube.com/watch?v=s0_4nb564BY) | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
 
 <p> Tabela 6: Apresentações (Fonte: Pedro, 2023).</p>
-
-## Experiências com o Projeto
-A execução de todo Projeto é composta por momentos altos e baixos, visto que sempre há margem para aprendizado. Com isso, essa seção contém o que foi observado pelo grupo como pontos mais fáceis e mais difíceis.
-
-| Etapa | Gravação | Participantes |
-| --- | --- | --- |
-| Planejamento do Projeto | [Entrega 1](https://www.youtube.com/watch?v=nTTCJMEjoRU) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Elicitação de Requisitos | [Entrega 2](https://www.youtube.com/watch?v=6fcySUroCvk) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Modelagem de Requisitos | [Entrega 3](https://www.youtube.com/watch?v=TYaaIGlcaBw) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Modelagem de Requisitos (Ágil) | [Entrega 4]() | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Análise V&V Parte 1 | [Entrega 5.1](https://www.youtube.com/watch?v=h06TXAq3pSA) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Análise V&V Parte 2 | [Entrega 5.2](https://www.youtube.com/watch?v=iUmj6L1_JhI) | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-| Pós-rastreabilidade | [Entrega 6](https://www.youtube.com/watch?v=s0_4nb564BY) | [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS), [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) |
-
 
 ## Experiências com o Projeto
 A execução de todo Projeto é composta por momentos altos e baixos, visto que sempre há margem para aprendizado. Com isso, essa seção contém o que foi observado pelo grupo como pontos mais fáceis e mais difíceis.
