@@ -191,7 +191,51 @@ Outra parte essencial para o projeto é a de Verificação e Validação, na qua
 |  | Especificação Suplementar | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
 | Entrega 4 - CAESB | História de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
 
+| Etapa | Artefato | Método | Autor | Revisor |
+| --- | --- | --- | --- | --- |
+| Entrega 1 - SimpleNote | Cronograma Planejado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Cronograma Realizado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Atas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Ferramentas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Metodologias | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Aplicativo Selecionado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Rich Picture | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| Entrega 2 - SimpleNote | Perfil de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Personas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Storytelling | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Glossário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Introspecção | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Entrevista | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Brainstorm | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | First Things First | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | MoScoW | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Three Level Scale | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 3 - SimpleNote | Cenários | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxicos | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+| Entrega 4 - SimpleNote | Especificação Suplementar | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | História de Usuário | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | Backlog | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | NFR | Inspeção | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
+| Entrega 1 - CAESB | Cronograma Planejado | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Atas | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+|  | Ferramentas | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Metodologias | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Aplicativo Selecionado | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Rich Picture | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 2 - CAESB | Perfil de Usuário | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Personas | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Introspecção | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Storytelling | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | InOrOut | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+|  | FirstThingsFirst | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 3 - CAESB | Cenários | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Casos de Uso | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxico | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Especificação Suplementar | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+| Entrega 4 - CAESB | História de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+
 <p> Tabela 4: Análise V&V (Fonte: Pedro, 2023).</p>
+
 
 ## Ferramentas
 Para a produção, armazenamento e compartilhamento dos artefatos, foram utilizadas as seguintes ferramentas presentes na tabela 5.
@@ -250,11 +294,8 @@ A execução de todo Projeto é composta por momentos altos e baixos, visto que 
 ### Dificuldades
 - O Cronograma Planejado não levou em consideração as atividades individuais, o que acabou gerando um atraso na entrega em etapas do projeto;
 
-## Referência Bibliográfica
-
-
 ## Bibliografia
-
+> Análise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/).
 
 ## Histórico de Versões
 

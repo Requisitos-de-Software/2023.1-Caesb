@@ -1,7 +1,7 @@
 # Cronograma Planejado
 
 ## Introdução
-<p> O presente cronograma é com base no planejamento da realização dos artefatos que serão realizados no desenvolvimento do projeto. Abaixo será apresentado a metodologia da realização do artefato, algumas atividades gerais do grupo, e o cronograma em si/p>
+O presente cronograma é com base no planejamento da realização dos artefatos que serão realizados no desenvolvimento do projeto. Abaixo será apresentado a metodologia da realização do artefato, algumas atividades gerais do grupo, e o cronograma em si
 
 ## Metodologia
 Para realização desse Cronograma, primeiro foi analisado o plano de ensino do curso de Requisitos de Software do professor André Barraos de Sales, para se ter uma noção de prazos e entregas, e foi analisado os trabalhos antigos realizados pelos alunos da disciplina, em principal o [lichess](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/) Além disso, foi considerado da divisão das tarefas o grau de dificuldade da entrega e o tempo necessário para execução e revisão.
@@ -9,11 +9,11 @@ Para realização desse Cronograma, primeiro foi analisado o plano de ensino do 
 
 ## Atividades Gerais
 
-<p>Foi acordado entre o grupo que os integrantes Paulo, Carla e Raquel ficariam integralmente responsáveis pela formatação da gitpage.</p>
+Foi acordado entre o grupo que os integrantes Paulo, Carla e Raquel ficariam integralmente responsáveis pela formatação da gitpage.
 
-<p>Também foi decidido que haverá um tópico de "Guias" para que os membros possam contribuir com os conteúdos que eles acharem relevantes e úteis para os alunos dos próximos semestres.</p>
+Também foi decidido que haverá um tópico de "Guias" para que os membros possam contribuir com os conteúdos que eles acharem relevantes e úteis para os alunos dos próximos semestres.
 
-<p>O aluno Paulo se voluntariou para cuidar das Atas de Reunião e disponibilizar as gravações dos encontros.</p>
+O aluno Paulo se voluntariou para cuidar das Atas de Reunião e disponibilizar as gravações dos encontros.
 
 ## Cronograma das entregas
 Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planejados referentes as entregas necessárias da disciplina
@@ -34,7 +34,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Gravação                              | Teams (remoto) | 15/04                          | Daniel              | Todos             | 15/04                  | Pedro       |
 | Edição do vídeo                       | -              | 16/04                          | Pedro               | -             | 16/04                  | Caetano     |
 
-<p><center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center></p>
+<center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center>
 
 ## 2ª Entrega
 
@@ -54,7 +54,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Edição de vídeo           | Teams (remoto) | 01/05                      | Carla               | -             | 01/05              | Caetano         |
 
 
-<p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
+<center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center>
 
 ## 3ª Entrega
 
@@ -70,7 +70,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Gravação                  | Teams (remoto) | 14/05                      | Raquel            | Todos         | 14/05              | Guilherme      |
 | Edição de vídeo           | Teams (remoto) | 15/05 - 16/05              | Guilherme         | -             | 16/05              | Daniel         |
 
-<p><center>Tabela 3: Entrega 3 (Fonte: autor, 2023).</center></p>
+<center>Tabela 3: Entrega 3 (Fonte: autor, 2023).</center>
 
 ## 4ª Entrega 
 
@@ -86,7 +86,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Edição de vídeo        | Teams (remoto) | 22/05 - 23/05              | Paulo                     | -             | 23/05              | Carla           |
 
 
-<p><center>Tabela 4: Entrega 4 (Fonte: autor, 2023).</center></p>
+<center>Tabela 4: Entrega 4 (Fonte: autor, 2023).</center>
 
 ## 5ª Entrega (1ª Parte)
 
@@ -100,7 +100,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Gravação                              | Teams (remoto) | 04/06                      | Carla                              | Todos         | 04/06              | Pedro                              |
 | Edição de vídeo                       | Teams (remoto) | 05/06 - 06/06              | Pedro                              | -             | 06/06              | Guilherme                          |
 
-<p><center>Tabela 5: Entrega 5.1 (Fonte: autor, 2023).</center></p>
+<center>Tabela 5: Entrega 5.1 (Fonte: autor, 2023).</center>
 
 ## 5ª Entrega (2ª Parte)
 
@@ -115,7 +115,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Edição de vídeo                       | Teams (remoto) | 13/06                      | Raquel                               | -             | 13/06              | Paulo                                |
 
 
-<p><center>Tabela 6: Entrega 5.2 (Fonte: autor, 2023).</center></p>
+<center>Tabela 6: Entrega 5.2 (Fonte: autor, 2023).</center>
 
 ## 6ª Entrega
 
@@ -130,7 +130,7 @@ Dessa forma, nas tabelas  1 a 7 abaixo serão apresentados os cronogramas planej
 | Edição de vídeo          | Teams (remoto) | 03/07 - 04/07              | Pedro                              | -             | 04/07              | Raquel                             |
                       |
 
-<p><center>Tabela 7: Entrega 6 (Fonte: autor, 2023).</center></p>
+<center>Tabela 7: Entrega 6 (Fonte: autor, 2023).</center>
 
 ## Referências
 
