@@ -7,16 +7,162 @@ Para a realização do projeto da disciplina, o aplicativo escolhido foi um dent
 O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o [Cronograma Realizado](../Planejamento/cronograma_realizado.md), referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
 
 ## Execução do Projeto  
-3. A execução do projeto (as fases/etapas do desenvolvidas no projeto).
+
+A tabela 1 explicita um resumo de cada etapa da execução do projeto, a qual também apresenta os artefatos relacionados.
+
+
+| Etapas do Projeto | Definição | Artefato(s) Realizado(s) |
+| :---------------: | ---------- | :--------: |
+| **Planejamento** | Nessa etapa foram realizados o cronograma para permitir uma maior organização para o grupo, foi feita a escolha de um aplicativo viável para o projeto, e foi estabelecido metodologias e ferramentas que seriam utilizadas no projeto. |[Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.1-Caesb/Planejamento/aplicativo_escolhido/)  <br>[Metodologia](https://requisitos-de-software.github.io/2023.1-Caesb/Planejamento/metodologias/) <br>[Ferramentas](https://requisitos-de-software.github.io/2023.1-Caesb/Planejamento/ferramentas/)<br> [Cronograma](https://requisitos-de-software.github.io/2023.1-Caesb/Planejamento/cronograma/)<br>    |
+| **Pré Rastreabilidade** | Essa etapa permite a compreensão da estrutura do projeto, para identificar possíveis requisitos relevantes para um contexto específico. |[Aplicativos Analisados](https://requisitos-de-software.github.io/2023.1-Caesb/Pre-rastreabilidade/aplicativos_analisados/) |
+| **Elicitação** | Essa etapa estabelece a base para o desenvolvimento do sistema, garantindo que as funcionalidades e características necessárias sejam adequadamente capturadas | [Perfil de Usuário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/perfil_usuario/)<br>[Personas](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/personas/)<br>[Questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) [Introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao/) [Storytelling](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/storytelling/) |
+|  **Priorização**          | Essa etapa determina a importância, a urgência e a ordem de implementação dos requisitos.  |[First Things First](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/priorizacao-FTF/)<br> [In or Out](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/priorizacaoInOrOut/)|
+| **Modelagem** | Essa etapa ajuda a compreender, visualizar e comunicar as necessidades e funcionalidades do sistema a ser desenvolvido. | [Cenários](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/cenarios/)<br>[Léxicos](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/lexicos/)<br>[Casos de Uso](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/casos_de_uso/)<br>[Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/especificacao_suplementar/)<br>[Backlog](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/backlog/)<br>[Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/historia_usuario/)<br>[NFR Framework](https://requisitos-de-software.github.io/2023.1-Caesb/Modelagem/Agil/NFR/) |
+| **Verificação Simplenote** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do grupo 05 [(Simplenote)](https://requisitos-de-software.github.io/2023.1-Simplenote/) | [Verificação grupo 05](https://requisitos-de-software.github.io/2023.1-Caesb/AnaliseV%26V/Verificacao/Grupo5/Entrega1/Entrega1/) |
+ **Verificação Caesb** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do nosso grupo  | [Verificação](https://requisitos-de-software.github.io/2023.1-Caesb/AnaliseV%26V/Verificacao/Caesb/0planejamento-geral/) |
+| **Validação** | Essa etapa busca garantir que o sistema a ser desenvolvido seja capaz de cumprir os objetivos e expectativas do projeto. | [Validação](https://requisitos-de-software.github.io/2023.1-Caesb/AnaliseV%26V/Validacao/prototipo/) |
+| **Pós Rastreabilidade** | Essa etapa monitora e controla as relações entre os requisitos ao longo do ciclo de vida do software. | [Backward-From](https://requisitos-de-software.github.io/2023.1-Caesb/Pos-rastreabilidade/backward_from/)<br>[Forward-From](https://requisitos-de-software.github.io/2023.1-Caesb/Pos-Rastreabilidade/ForwardFrom/)<br>[Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.1-Caesb/Pos-rastreabilidade/matriz/) |
+
+<font size="3"><p style="text-align: center">Tabela 1</b> - Execução do Projeto (Fonte: Autor)</p></font>
 
 ## Técnicas
 5. Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas);
 
 ## Artefatos
-6. Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor;
+Ao longo do projeto, diversos documentos foram elaborados. Com isso, estão apresentados na Tabela X todos os nossos artefatos produzidos, e seus respectivos autores e revisores.
+
+| Etapa | Artefato | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- |
+| 1. Home | [Home](https://requisitos-de-software.github.io/2023.1-Caesb/) | Carla <br> [Raquel](https://github.com/raqueleucaria) <br>[Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) <br> [Pedro](https://github.com/pedrobarbosaocb) <br> [Daniel](https://github.com/daniel-de-sousa) |
+| 1. Planejamento | [Aplicativo Selecionado](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) <br> [Pedro](https://github.com/pedrobarbosaocb) <br> | Carla <br> Carla <br> [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
+|  | [Metodologia](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) <br> [Pedro](https://github.com/pedrobarbosaocb) |
+|  | [Ferramentas](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br> [Pedro](https://github.com/pedrobarbosaocb) | [Paulo](https://github.com/PauloVictorFS) |
+|  | [Cronograma](../Planejamento/cronograma.md) | Carla <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+|  | [Cronograma Realizado](../Planejamento/cronograma_realizado.md) | Carla e [Pedro](https://github.com/pedrobarbosaocb) | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
+|  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <[Pedro](https://github.com/pedrobarbosaocb)> | [Guilherme](https://github.com/guilhermekishimoto) |
+| 1. Rastreabilidade | [Pré-Rastreabilidade](../Pre-rastreabilidade/aplicativos_analisados.md) | [Daniel](https://github.com/daniel-de-sousa), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) | Carla |
+| 2. Elicitação | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) | Carla e [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+|  | [Personas](../Elicitacao/personas.md) | Carla e [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+|  | [Questionário](../Elicitacao/questionario.md) | [Daniel](https://github.com/daniel-de-sousa) e [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | [Introspecção](../Elicitacao/introspeccao.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS) <br> [Daniel](https://github.com/daniel-de-sousa) | [Caetano](https://github.com/caeslucio) <br> [Raquel](https://github.com/raqueleucaria) |
+|  | [Storytelling](../Elicitacao/storytelling.md) | [Paulo](https://github.com/PauloVictorFS) <br> [Daniel](https://github.com/daniel-de-sousa) | [Daniel](https://github.com/daniel-de-sousa) <br> [Raquel](https://github.com/raqueleucaria) |
+| 2. Priorização | [In Or Out](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+|  | [First Thing First](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto)  |
+|  | [Priorização](../Elicitacao/priorizacao.md) | [Raquel](https://github.com/raqueleucaria) <br> [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
+| 3. Modelagem | [Cenários](../Modelagem/cenarios.md) | [Paulo](https://github.com/PauloVictorFS) <br> [Daniel](https://github.com/daniel-de-sousa) | [Daniel](https://github.com/daniel-de-sousa) <br> [Raquel](https://github.com/raqueleucaria) |
+|  | [Léxicos](../Modelagem/lexicos.md) | [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria)<br> [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) <br> [Pedro](https://github.com/pedrobarbosaocb) <br> [Raquel](https://github.com/raqueleucaria) |
+|  | [Casos de Uso](../Modelagem/casos_de_uso.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Pedro](https://github.com/pedrobarbosaocb) | [Paulo](https://github.com/PauloVictorFS) |
+|  | [Especificação Suplementar](../Modelagem/especificacao_suplementar.md) | [Daniel](https://github.com/daniel-de-sousa) e [Caetano](https://github.com/caeslucio) <br> [Daniel](https://github.com/daniel-de-sousa)  | [Pedro](https://github.com/pedrobarbosaocb) <br> [Caetano](https://github.com/caeslucio) |
+| 4. Ágil | [NFR Framework](../Modelagem/Agil/NFR.md) | [Caetano](https://github.com/caeslucio) e [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) |
+|  | [Backlog](../Modelagem/Agil/backlog.md) | [Daniel](https://github.com/daniel-de-sousa) e [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | [Histórias de Usuário](../Modelagem/Agil/historia_usuario.md) | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+| 5.1 Verificação SimpleNote | Planejamento Entrega 1 | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Cronograma Planejado | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Cronograma Realizado | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Atas | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Ferramentas | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Aplicativo Selecionado | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Rich Picture | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Elicitação | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Priorização | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Planejamento Entrega 2 - Elicitação | [Daniel](https://github.com/daniel-de-sousa) e [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Perfil de Usuário | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Personas | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Storytelling | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Glossário | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Introspecção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Entrevista | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Brainstorming | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Planejamento Entrega 2 - Priorização | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | First Things First | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | MoScow | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Three Level Scale | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Cenários | [Guilherme](https://github.com/guilhermekishimoto) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Casos de Uso | [Guilherme](https://github.com/guilhermekishimoto) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxicos | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | Especificação Suplementar | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | Planejamento Entrega 4 | [Caetano](https://github.com/caeslucio) e [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria) |
+|  | Histórias de Usuário | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | Backlog | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | NFR | [Caetano](https://github.com/caeslucio)  | [Paulo](https://github.com/PauloVictorFS) |
+| 5.2 Verificação Caesb | Planejamento Geral | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Planejamento Entrega 1 | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Cronograma Planejado | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Cronograma Realizado | - | - |
+|  | Atas | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+|  | Ferramentas | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) <br> [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) <br> [Guilherme](https://github.com/guilhermekishimoto) |
+|  | Metodologia | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) <br> [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Aplicativo Selecionado | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) <br> [Pedro](https://github.com/pedrobarbosaocb) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Rich Picture | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Planejamento Entrega 2  | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Questionário | - | - |
+|  | Perfil de Usuário | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Personas | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) <br> [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Introspecção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Storytelling | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | In Or Out | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+|  | First Things First | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Planejamento Entrega 3 | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Cenários | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Casos de Uso | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxicos | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Especificação Suplementar | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | Planejamento Entrega 4 | [Raquel](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Histórias de Usuário | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Backlog | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | NFR | - | - |
+| 5.2 Validação | Protótipo  | [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Contato Caesb | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+| 6. Pós-Rastreabilidade | Backward-From | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Forward-From | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Matriz | [Pedro](https://github.com/pedrobarbosaocb) e [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
 
 ## Verificação e Validação
 7. Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checklist e da verificação);
+
+| Etapa | Artefato | Método | Autor | Revisor |
+| --- | --- | --- | --- | --- |
+| Entrega 1 - SimpleNote | Cronograma Planejado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Cronograma Realizado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Atas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Ferramentas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Metodologias | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Aplicativo Selecionado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Rich Picture | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+| Entrega 2 - SimpleNote | Perfil de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Personas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Storytelling | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Glossário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Introspecção | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Entrevista | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Brainstorm | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | First Things First | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | MoScoW | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Three Level Scale | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 3 - SimpleNote | Cenários | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxicos | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+| Entrega 4 - SimpleNote | Especificação Suplementar | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Guilherme](https://github.com/guilhermekishimoto) |
+|  | História de Usuário | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | Backlog | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+|  | NFR | Inspeção | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
+| Entrega 1 - CAESB | Cronograma Planejado | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Atas | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+|  | Ferramentas | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Metodologias | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Aplicativo Selecionado | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Rich Picture | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 2 - CAESB | Perfil de Usuário | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Personas | Inspeção | [Pedro](https://github.com/pedrobarbosaocb) | [Caetano](https://github.com/caeslucio) |
+|  | Introspecção | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Storytelling | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | InOrOut | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+|  | FirstThingsFirst | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+| Entrega 3 - CAESB | Cenários | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | Casos de Uso | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Pedro](https://github.com/pedrobarbosaocb) |
+|  | Léxico | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+|  | Especificação Suplementar | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+| Entrega 4 - CAESB | História de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
 
 ## Ferramentas
 8. Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;
